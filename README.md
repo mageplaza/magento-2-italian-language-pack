@@ -34,7 +34,7 @@ Install the Italian language pack via composer is never easier.
 **Install Italian pack**:
 
 ```
-composer require mageplaza/magento-2-italian-language-pack:*
+composer require mageplaza/magento-2-italian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy it-it
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy it-it
 **Update  Italian pack**:
 
 ```
-composer update mageplaza/magento-2-italian-language-pack:*
+composer update mageplaza/magento-2-italian-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy it-it
 
