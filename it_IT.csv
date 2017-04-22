@@ -2711,7 +2711,7 @@ Shipping,Spedizione,module,Magento_Checkout
 "Shopping Cart Sidebar","Sidebar Carrello",module,Magento_Checkout
 "Display Shopping Cart Sidebar","Visualizza Sidebar Carrello",module,Magento_Checkout
 "Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
-"Maximum Number of Items to Display","Maximum Number of Items to Display",module,Magento_Checkout
+"Maximum Number of Items to Display","Numero massimo di elementi da mostrare",module,Magento_Checkout
 "Payment Failed Emails","Email pagamento non riuscito",module,Magento_Checkout
 "Payment Failed Email Sender","Mittente Email pagamento non riuscito",module,Magento_Checkout
 "Payment Failed Email Receiver","Destinatario Email pagamento non riuscito",module,Magento_Checkout
@@ -2727,6 +2727,7 @@ Payment,Pagamento,module,Magento_Checkout
 "Not yet calculated","Non ancora calcolato",module,Magento_Checkout
 "We received your order!","Abbiamo ricevuto il tuo ordine!",module,Magento_Checkout
 "Thank you for your purchase!","Grazie per il tuo acquisto!",module,Magento_Checkout
+"Go to Checkout","Vai al Checkout",module,Magento_Checkout
 "Terms and Conditions","Termini e condizioni",module,Magento_CheckoutAgreements
 "Add New Condition","Aggiungi nuova condizione",module,Magento_CheckoutAgreements
 "Save Condition","Salva la condizione",module,Magento_CheckoutAgreements
