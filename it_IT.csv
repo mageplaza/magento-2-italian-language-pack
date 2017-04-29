@@ -1002,7 +1002,7 @@ Authorize,Autorizza,module,Magento_Braintree
 "Please, enter valid Card Verification Number","Per favore inserire un numero di verifica valido (CVN)",module,Magento_Braintree
 ending,"sto terminando",module,Magento_Braintree
 expires,scadenza,module,Magento_Braintree
-"PayPal Account","PayPal Account",module,Magento_Braintree
+"PayPal Account","Conto PayPal",module,Magento_Braintree
 "PayPal Logo","PayPal Logo",module,Magento_Braintree
 Actions,Azioni,module,Magento_Braintree
 Delete,Elimina,module,Magento_Braintree
@@ -1015,7 +1015,7 @@ MM,MM,module,Magento_Braintree
 YY,AA,module,Magento_Braintree
 "Please try again with another form of payment.","Si prega di riprovare con un\'altra forma di pagamento.",module,Magento_Braintree
 "Sorry, but something went wrong.","Siamo spiacenti, ma qualcosa non ha funzionato.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,Pagamento,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
 "Enable this Solution","Abilita questa soluzione",module,Magento_Braintree
@@ -1054,7 +1054,7 @@ Debug,Debug,module,Magento_Braintree
 "Verify for Specific Countries","Verifica per determinati paesi",module,Magento_Braintree
 "Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
 Name,Name,module,Magento_Braintree
-Phone,Phone,module,Magento_Braintree
+Phone,"Numero di telefono",module,Magento_Braintree
 URL,URL,module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Applicare i filtri al fine di ottenere i risultati. Verranno visualizzati solo i primi 100 record nella griglia, sarai in grado di scaricare la versione completa del report in formato .csv.",module,Magento_Braintree
 Select...,Seleziona...,module,Magento_Braintree
@@ -2728,6 +2728,9 @@ Payment,Pagamento,module,Magento_Checkout
 "We received your order!","Abbiamo ricevuto il tuo ordine!",module,Magento_Checkout
 "Thank you for your purchase!","Grazie per il tuo acquisto!",module,Magento_Checkout
 "Go to Checkout","Vai al Checkout",module,Magento_Checkout
+"View and edit cart","Visualizza e modifica il carrello",module,Magento_Checkout
+"Item in Cart","Articoli nel Carrello",module,Magento_Checkout
+"Items in Cart","Articoli nel Carrello",module,Magento_Checkout
 "Terms and Conditions","Termini e condizioni",module,Magento_CheckoutAgreements
 "Add New Condition","Aggiungi nuova condizione",module,Magento_CheckoutAgreements
 "Save Condition","Salva la condizione",module,Magento_CheckoutAgreements
@@ -6308,6 +6311,7 @@ Partners,Partner,module,Magento_Marketplace
 "Read More","Continua a leggere",module,Magento_Marketplace
 "Partner Page","Pagina dei partner",module,Magento_Marketplace
 "No partners were found","Nessun partner trovato",module,Magento_Marketplace
+"Find Partners & Extensions","Trova Partner ed Estensioni",module,Magento_Marketplace
 Synchronize,Sincronizza,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Sincronizzazione %1 di %2",module,Magento_MediaStorage
 Synchronizing...,Sincronizzazione...,module,Magento_MediaStorage
