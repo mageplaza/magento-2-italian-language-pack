@@ -3231,7 +3231,7 @@ Cancel,Annulla,module,Magento_ConfigurableProduct
 "Please select attribute(s).","Seleziona uno o più attributi.",module,Magento_ConfigurableProduct
 "Generate Products","Genera prodotti",module,Magento_ConfigurableProduct
 "Something went wrong.","Qualcosa non ha funzionato.",module,Magento_ConfigurableProduct
-"Buy %1 for %2 each and","Buy %1 for %2 each and",module,Magento_ConfigurableProduct
+"Buy %1 for %2 each and","Acquista %1 a %2 ognuno e",module,Magento_ConfigurableProduct
 save,salva,module,Magento_ConfigurableProduct
 "Configurable Product Image","Immagine del prodotto configurabile",module,Magento_ConfigurableProduct
 Select...,Seleziona...,module,Magento_ConfigurableProduct
