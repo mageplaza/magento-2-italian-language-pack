@@ -2862,8 +2862,8 @@ Exception,Eccezione,module,Magento_Cms
 "Could not create a directory.","Impossibile creare una directory.",module,Magento_Cms
 Edit,Modifica,module,Magento_Cms
 Delete,Elimina,module,Magento_Cms
-"Delete %1","Delete %1",module,Magento_Cms
-"Are you sure you wan't to delete a %1 record?","Are you sure you wan't to delete a %1 record?",module,Magento_Cms
+"Delete %1","Elimina %1",module,Magento_Cms
+"Are you sure you wan't to delete a %1 record?","Sei sicuro di voler eliminare ""%1"" record?",module,Magento_Cms
 "All Store Views","Tutte le Viste Negozio",module,Magento_Cms
 View,Mostra,module,Magento_Cms
 px.,px.,module,Magento_Cms
