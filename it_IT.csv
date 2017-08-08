@@ -1697,16 +1697,16 @@ px.,px.,module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Il negozio richiesto non è stato trovato. Id riga: SKU = %SKU, Id negozio: %storeId, Prezzo da: %priceFrom, Prezzo a: %priceTo.",module,Magento_Catalog
 "Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Attributo non valido %label = %priceTo. Id riga: SKU = %SKU, Id negozio: %storeId, Prezzo da: %priceFrom, Prezzo a: %priceTo.",module,Magento_Catalog
 "Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Attributo prezzo non valido = %price. Id riga: SKU = %SKU, Id negozio: %storeId, Prezzo da: %priceFrom, Prezzo a: %priceTo.",module,Magento_Catalog
-"Could not save Tier Prices","Could not save Tier Prices",module,Magento_Catalog
-"Could not replace Tier Prices","Could not replace Tier Prices",module,Magento_Catalog
-"Could not delete Tier Prices","Could not delete Tier Prices",module,Magento_Catalog
-"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
-"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
+"Could not save Tier Prices","Impossibile salvare i prezzi a livelli",module,Magento_Catalog
+"Could not replace Tier Prices","Non si possono sostituire i prezzi a livelli",module,Magento_Catalog
+"Could not delete Tier Prices","Impossibile eliminare i prezzi a livelli",module,Magento_Catalog
+"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Attributo non valido SKU = %SKU. ID di riga: SKU = %SKU, ID sito: % websiteId, gruppo di clienti: %customerGroup, quantità: %qty.",module,Magento_Catalog
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Attributo non valido prezzo = %price. ID di riga: SKU = %SKU, ID sito: % websiteId, gruppo di clienti: %customerGroup, quantità: %qty.",module,Magento_Catalog
+"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Attributo non valido Tipo di Prezzo = %priceType. ID di riga: SKU = %SKU, ID sito: % websiteId, gruppo di clienti: %customerGroup, quantità: %qty.",module,Magento_Catalog
+"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Attributo non valido Quantità = %qty. ID di riga: SKU = %SKU, ID sito: % websiteId, gruppo di clienti: %customerGroup, quantità: %qty.",module,Magento_Catalog
+"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Attributo non valido Website ID = % websiteId. ID di riga: SKU = %SKU, ID sito: % websiteId, Gruppo Clienti: %customerGroup, quantità: %qty.",module,Magento_Catalog
+"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Abbiamo trovato un sito web duplicato, prezzo di livello, gruppo di clienti e quantità: Gruppo cliente = %customerGroup, sito Web ID = % websiteId, Quantità = %qty. ID di riga: SKU = %SKU, ID sito: % websiteId, gruppo di clienti: %customerGroup, Quantità: %qty.",module,Magento_Catalog
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Nessun elemento con Gruppo Cliente = %customerGroup. ID di riga: SKU = %SKU, ID sito: % websiteId, Gruppo di Clienti: %customerGroup, quantità: %qty.",module,Magento_Catalog
 "This product doesn't have tier price","Questo prodotto non ha fasce di prezzo",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Il prodotto non ha un prezzo di gruppo con questi dati: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
 "Invalid data provided for tier_price","I dati forniti per tier_price non sono validi",module,Magento_Catalog
@@ -1764,7 +1764,7 @@ fl,fl,module,Magento_Catalog
 Images,Immagini,module,Magento_Catalog
 Select...,Seleziona...,module,Magento_Catalog
 "Advanced Pricing","Prezzi avanzati",module,Magento_Catalog
-"Customer Group Price","Customer Group Price",module,Magento_Catalog
+"Customer Group Price","Prezzo Gruppo Clienti",module,Magento_Catalog
 "Customer Group","Gruppo clienti",module,Magento_Catalog
 "Special Price From","Prezzo speciale da",module,Magento_Catalog
 To,Al,module,Magento_Catalog
@@ -4331,13 +4331,13 @@ Debug,Debug,module,Magento_Cybersource
 "Class for type ""%1"" was not declared","Non è stata dichiarata la classe di tipo ""%1""",module,Magento_Deploy
 "%1 does not implement %2","%1 non implementa %2",module,Magento_Deploy
 "Value can't be empty","Il campo non puà essere vuoto",module,Magento_Deploy
-"A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive",module,Magento_Deploy
+"A configuration with this path does not exist or is not sensitive","Una configurazione con questo percorso non esiste o non è sensibile",module,Magento_Deploy
 "File app/etc/%1 can't be read. Please check if it exists and has read permissions.","Impossibile leggere il file app/etc/%1. Si prega di controllare se esiste e dispone di autorizzazioni di lettura.",module,Magento_Deploy
-"There are no sensitive configurations to fill","There are no sensitive configurations to fill",module,Magento_Deploy
+"There are no sensitive configurations to fill","Non ci sono configurazioni sensibili da inserire",module,Magento_Deploy
 "Cannot switch into given mode ""%1""","Non è possibile passare nella modalità ""%1""",module,Magento_Deploy
 "Compilation from source:","Compilazione da sorgente:",module,Magento_Deploy
 "Wrong deploy strategy type: %1","Tipo strategia di deploy errato: %1",module,Magento_Deploy
-"some message","some message",module,Magento_Deploy
+"some message","qualche messaggio",module,Magento_Deploy
 "Format for IDE '%1' is not supported","Formato per IDE '%1' non supportato",module,Magento_Developer
 "Client side compilation doesn't work in production mode","La compilazione lato client non funziona in modalità produzione",module,Magento_Developer
 "Client side less compilation","Compliazione less lato cliente",module,Magento_Developer
@@ -5736,11 +5736,11 @@ Export,Esporta,module,Magento_ImportExport
 "Export Settings","Esporta impostazioni",module,Magento_ImportExport
 "Entity Type","Tipo entità",module,Magento_ImportExport
 "Export File Format","Esporta formato file",module,Magento_ImportExport
-"Fields Enclosure","Fields Enclosure",module,Magento_ImportExport
+"Fields Enclosure","Delimitatore di campi",module,Magento_ImportExport
 From,Dal,module,Magento_ImportExport
 To,Al,module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","Non è possibile filtrare un attributo senza opzioni attributo.",module,Magento_ImportExport
-"Fixed Price: From","Fixed Price: From",module,Magento_ImportExport
+"Fixed Price: From","Prezzo fisso: da",module,Magento_ImportExport
 Exclude,Escludi,module,Magento_ImportExport
 "Attribute Label","Etichetta attributo",module,Magento_ImportExport
 "Attribute Code","Codice Attributo",module,Magento_ImportExport
@@ -5755,7 +5755,7 @@ Import,Importa,module,Magento_ImportExport
 "Please specify number of errors to halt import process","Specificare il numero di errori per fermare il processo di importazione",module,Magento_ImportExport
 "Field separator","Separatore campo",module,Magento_ImportExport
 "Multiple value separator","Valori multipli separatori",module,Magento_ImportExport
-"Fields enclosure","Fields enclosure",module,Magento_ImportExport
+"Fields enclosure","Delimitatore di campi",module,Magento_ImportExport
 "File to Import","File da importare",module,Magento_ImportExport
 "Select File to Import","Selezionare il File da importare",module,Magento_ImportExport
 "Images File Directory","Directory dei file immagini",module,Magento_ImportExport
@@ -5904,7 +5904,7 @@ View,Mostra,module,Magento_Integration
 Edit,Modifica,module,Magento_Integration
 Activate,Attiva,module,Magento_Integration
 Reauthorize,Riautorizzare,module,Magento_Integration
-"Integration not secure","Integration not secure",module,Magento_Integration
+"Integration not secure","Integrazione non sicura",module,Magento_Integration
 "Uninstall the extension to remove integration '%1'.","Disinstallare l'estensione per rimuovere l'integrazione '%1'.",module,Magento_Integration
 "This integration no longer exists.","Questa integrazione non esiste più.",module,Magento_Integration
 "The integration '%1' has been deleted.","L'integrazione '%1' è stata eliminata.",module,Magento_Integration
@@ -6713,7 +6713,7 @@ Subscribers,Iscritti,module,Magento_Newsletter
 "This email address is already assigned to another user.","Questo indirizzo email risulta già assegnato ad un altro utente.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Ci dispiace, ma l'amministratore ha negato l'iscrizione per gli ospiti. Si prega di <a href=""%1""> registrarsi</a>.",module,Magento_Newsletter
 "Please enter a valid email address.","Inserisci un indirizzo email valido.",module,Magento_Newsletter
-"This email address is already subscribed.","This email address is already subscribed.",module,Magento_Newsletter
+"This email address is already subscribed.","Questo indirizzo e-mail è già registrato.",module,Magento_Newsletter
 "The confirmation request has been sent.","La richiesta di conferma è stata inviata.",module,Magento_Newsletter
 "Thank you for your subscription.","Grazie per la tua iscrizione.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","C'è stato un problema con l'iscrizione: %1",module,Magento_Newsletter
@@ -7377,13 +7377,13 @@ Manage,Gestisci,module,Magento_Paypal
 "Other Payment Methods:","Altri metodi di pagamento:",module,Magento_Paypal
 "PayPal Express Checkout","Paypal Express Checkout",module,Magento_Paypal
 "Add another payment method to your existing solution or as a stand-alone option.","Aggiungi un altro metodo di pagamento alla soluzione esistente o come opzione stand-alone.",module,Magento_Paypal
-"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Soluzioni di pagamento PayPal All-in-One <i>Accetta e processa carte di credito e pagamenti tramite PayPal.</i>",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Scegli una soluzione di pagamento sicura in bundle per il tuo business.",module,Magento_Paypal
-"Payments Pro","Payments Pro",module,Magento_Paypal
+"Payments Pro","Pagamenti Pro",module,Magento_Paypal
 "Payments Pro and Express Checkout","Payments Pro e Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Impostazioni di base - PayPal Payments Pro",module,Magento_Paypal
-"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>",module,Magento_Paypal
-"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>",module,Magento_Paypal
+"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","Gateway di pagamento di PayPal &nbsp;<i><i>elaborare i pagamenti utilizzando il proprio conto commerciante internet.</i>",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Soluzioni di pagamento PayPal All-in-One&nbsp;&nbsp; <i>Accetta e processa carte di credito e pagamenti tramite PayPal.</i>",module,Magento_Paypal
 "Accept payments with a completely customizable checkout page.","Accettare pagamenti con una pagina di checkout completamente personalizzabile.",module,Magento_Paypal
 "Process payments using your own internet merchant account.","Processa pagamenti utilizzando il tuo account online venditore.",module,Magento_Paypal
 "Website Payments Pro","Website Payments Pro",module,Magento_Paypal
@@ -11107,10 +11107,10 @@ Total,Totale,module,Magento_Tax
 "Including Tax","Incluse tasse",module,Magento_Tax
 None,Nessuno,module,Magento_Tax
 "Including and Excluding Tax","Incluse ed escluse tasse",module,Magento_Tax
-"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Per applicare lo sconto sui prezzi i. v. a. inclusa e applicare l'imposta dopo lo sconto, fissare i prezzi ""Incluso di tasse"" nei Prezzi Catalogo.",module,Magento_Tax
 "Store(s) affected:","Negozi colpiti:",module,Magento_Tax
 "Click on the link to <a href=""%1"">ignore this notification</a>","Clicca sul link per <a href=""%1"">ignorare questa notifica</a>",module,Magento_Tax
-"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.",module,Magento_Tax
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","Con imposta applicata ""Prima dello sconto"", il calcolo dello sconto finale potrebbe non corrispondere alle aspettative dei clienti.",module,Magento_Tax
 "Your current tax configuration may result in rounding errors.","La configurazione sulle tasse potrebbe generare errori di arrotondamento.",module,Magento_Tax
 "Please see <a href=""%1"">documentation</a> for more details.","Vedere la <a href=""%1"">documentazione</a> per maggiori dettagli.",module,Magento_Tax
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Clicca qui per andare alla <a href=""%1"">Configurazione fiscale</a> e modificare le impostazioni.",module,Magento_Tax
@@ -11151,7 +11151,7 @@ Taxes,Tasse,module,Magento_Tax
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Questi set determinano se i costi di spedizione inseriti lato admin od ottenuti da vari gateway includono le tasse.",module,Magento_Tax
 "Apply Customer Tax","Applica Tassa cliente",module,Magento_Tax
 "Apply Discount On Prices","Applica sconto sui prezzi",module,Magento_Tax
-"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Attenzione: Per applicare lo sconto sui prezzi i. v. a. inclusa e applicare l'imposta dopo lo sconto, impostare prezzi di catalogo per ""Comprensivi di tasse"".",module,Magento_Tax
 "Apply Tax On","Applica Tassa su",module,Magento_Tax
 "Enable Cross Border Trade","Abilitare commercio oltre frontiera",module,Magento_Tax
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Quando i prezzi catalogo includono le tasse, abilita questa impostazione per fissare il prezzo indipendentemente dalla aliquota fiscale del cliente.",module,Magento_Tax
@@ -11363,8 +11363,8 @@ Configuration,Configurazione,module,Magento_Theme
 Header,Header,module,Magento_Theme
 "Logo Image","Immagine logo",module,Magento_Theme
 "Allowed file types: png, gif, jpg, jpeg, svg.","Tipi di file consentiti: png, gif, jpg, jpeg, svg.",module,Magento_Theme
-"Logo Attribute Width","Logo Attribute Width",module,Magento_Theme
-"Logo Attribute Height","Logo Attribute Height",module,Magento_Theme
+"Logo Attribute Width","Attributo Larghezza logo",module,Magento_Theme
+"Logo Attribute Height","Attributo Altezza logo",module,Magento_Theme
 "Welcome Text","Testo di benvenuto",module,Magento_Theme
 "Logo Image Alt","Alt Immagine Logo",module,Magento_Theme
 Footer,Footer,module,Magento_Theme
@@ -11475,7 +11475,7 @@ Keyword,"Parola chiave",module,Magento_Ui
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Inserisci 6 o più caratteri. Gli spazi iniziali o finali verranno ignorati.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Inserisci 7 o più caratteri, utilizzando sia caratteri numerici che alfabetici.",module,Magento_Ui
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La lunghezza minima di questo campo deve essere uguale o maggiore di %1 caratteri. Spazi iniziali e finali verranno ignorati.",module,Magento_Ui
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Il numero minimo di diverse classi di caratteri nella password è %1. Classi di caratteri: lettere minuscole, lettere maiuscole, cifre e caratteri speciali.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Inserisci una URL valida. È necessario specificare il protocollo (http://, https:// o ftp://).",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Inserisci una URL valida. Ad esempio http://www.example.com o www.example.com.",module,Magento_Ui
 "Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Inserisci un identificatore XML valido (Es: something_1, block5, id-4).",module,Magento_Ui
