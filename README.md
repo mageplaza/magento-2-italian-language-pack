@@ -1,6 +1,6 @@
 ## Magento 2 Italian Language Pack
 
-**Magento 2 Italian Language Pack** is special gift for Magento 2 Community Edition. The data of the translation is supplied by Magento 2 Translation Project of Crowdin site, on which you will contribute into the project and download the zip file to install on your own store. This knowledge base will include full of the clear guides that supports you to convert the default language (English) into Italian language on your entire store.
+**Magento 2 Italian Language Pack** is a special gift for Magento 2 Community Edition. The data of the translation is supplied by Magento 2 Translation Project of Crowdin site, on which you will contribute into the project and download the zip file to install on your own store. This knowledge base will include full of the clear guides that support you to convert the default language (English) into Italian language on your entire store.
 
 Read more [Magento 2 Italian Language Pack](https://www.mageplaza.com/magento-2-italian-language-pack.html)
 
@@ -136,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/it
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -145,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/it
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
