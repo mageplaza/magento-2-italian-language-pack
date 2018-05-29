@@ -266,7 +266,7 @@ TestMessage,"Messaggio di Test",module,Magento_Analytics
 "Athletic/Sporting Goods","Prodotti Sportivi",module,Magento_Analytics
 "Art and Design","Arte e Design",module,Magento_Analytics
 "Advanced Reporting","Rapporti Avanzati",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Ottieni nuovi informazioni e prende il comando di prestazioni del vostro business, utilizzando i nostri prodotti dinamici, ordini e rapporti dei clienti personalizzati in base ai dati dei tuoi clienti.",module,Magento_Analytics
 "View details","Mostra dettagli",module,Magento_Analytics
 "Go to Advanced Reporting","Vai ai Rapporti Avanzati",module,Magento_Analytics
 "An error occurred while subscription process.","Si è verificato un errore durante il processo di sottoscrizione.",module,Magento_Analytics
@@ -1048,10 +1048,10 @@ payerEmail,payerEmail,module,Magento_Braintree
 sale,vendita,module,Magento_Braintree
 credit,credito,module,Magento_Braintree
 authorization_expired,authorization_expired,module,Magento_Braintree
-authorizing,authorizing,module,Magento_Braintree
-authorized,authorized,module,Magento_Braintree
+authorizing,autorizzazione,module,Magento_Braintree
+authorized,autorizzato,module,Magento_Braintree
 gateway_rejected,gateway_rejected,module,Magento_Braintree
-failed,failed,module,Magento_Braintree
+failed,fallito,module,Magento_Braintree
 processor_declined,processor_declined,module,Magento_Braintree
 settled,settled,module,Magento_Braintree
 settling,settling,module,Magento_Braintree
@@ -2749,7 +2749,7 @@ items,elementi,module,Magento_Checkout
 Error!,Errore!,module,Magento_Checkout
 "DB exception","Exception DB",module,Magento_Checkout
 Message,Messaggio,module,Magento_Checkout
-"Print receipt","Print receipt",module,Magento_Checkout
+"Print receipt","Stampa ricevuta",module,Magento_Checkout
 "Apply Discount Code","Applica il codice sconto",module,Magento_Checkout
 "Enter discount code","Inserisci il codice sconto",module,Magento_Checkout
 "Apply Discount","Applica sconto",module,Magento_Checkout
@@ -8327,6 +8327,7 @@ Action,Azione,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Descrizione,module,Magento_Reports
 undefined,"non definito",module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Salvare recensione",module,Magento_Review
 "New Review","Nuova recensione",module,Magento_Review
 "Review Details","Dettagli recensione",module,Magento_Review
@@ -11782,7 +11783,7 @@ Action,Azione,module,Magento_Ui
 CSV,CSV,module,Magento_Ui
 "Excel XML","Excel XML",module,Magento_Ui
 "Please select one of the options above.","Please select one of the options above.",module,Magento_Ui
-"Please select a file.","Please select a file.",module,Magento_Ui
+"Please select a file.","Selezionare un file.",module,Magento_Ui
 "Please select one of the options.","Please select one of the options.",module,Magento_Ui
 "Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",module,Magento_Ui
 "Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",module,Magento_Ui
@@ -11800,9 +11801,9 @@ CSV,CSV,module,Magento_Ui
 "Please enter only digits.","Please enter only digits.",module,Magento_Ui
 "Please enter the same value again.","Please enter the same value again.",module,Magento_Ui
 "Please enter no more than {0} characters.","Please enter no more than {0} characters.",module,Magento_Ui
-"Please enter at least {0} characters.","Please enter at least {0} characters.",module,Magento_Ui
+"Please enter at least {0} characters.","Inserisci almeno {0} caratteri.",module,Magento_Ui
 "Please enter a value between {0} and {1} characters long.","Please enter a value between {0} and {1} characters long.",module,Magento_Ui
-"Please enter a value between {0} and {1}.","Please enter a value between {0} and {1}.",module,Magento_Ui
+"Please enter a value between {0} and {1}.","Immetti un valore compreso tra {0} e {1}.",module,Magento_Ui
 "UPS Next Day Air","UPS Next Day Air",module,Magento_Ups
 "UPS Second Day Air","UPS Second Day Air",module,Magento_Ups
 "UPS Ground","UPS Ground",module,Magento_Ups
