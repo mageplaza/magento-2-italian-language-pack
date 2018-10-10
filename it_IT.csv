@@ -2932,7 +2932,7 @@
 "If you believe it is the right one you can ignore this notice.","Se credi che sia quello giusto puoi ignorare questo avviso.",module,Magento_Checkout
 "New Address","Nuovo Indirizzo",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Sei sicuro di voler rimuovere questo elemento dal carrello?",module,Magento_Checkout
-"Review & Payments","Recensione & Pagamenti",module,Magento_Checkout
+"Review & Payments","Riepilogo & Pagamento",module,Magento_Checkout
 "Select a new payment method","Selezionare un nuovo metodo di pagamento",module,Magento_Checkout
 "Shipping","Spedizione",module,Magento_Checkout
 "Save Address","Salva indirizzo",module,Magento_Checkout
