@@ -5907,7 +5907,7 @@
 "You saved the gift card account, but an email was not sent.","Hai salvato l'account gift card, ma non è stata inviata l'email.",module,Magento_GiftCardAccount
 "We will refund the gift card amount to your customer’s store credit","Verrai rimborsato dell'importo della gift card nel tuo credito negozio",module,Magento_GiftCardAccount
 "Please enable Store Credit to refund the gift card amount to your customer","Abilita i crediti store per rimborsare l'importo della gift card al tuo cliente",module,Magento_GiftCardAccount
-"Please correct the gift card code.","Correggi il codice della gift card.",module,Magento_GiftCardAccount
+"Please correct the gift card code.","Correggi il codice Buono Regalo.",module,Magento_GiftCardAccount
 "Gift Card ""%1"" was added.","La carta regalo ""%1"" è stata aggiunta.",module,Magento_GiftCardAccount
 "We cannot apply this gift card.","Non possiamo usare questa carta regalo.",module,Magento_GiftCardAccount
 "Gift Card ""%1"" was removed.","La carta regalo ""%1"" è stata eliminata.",module,Magento_GiftCardAccount
@@ -5963,7 +5963,7 @@
 "total).","totale).",module,Magento_GiftCardAccount
 "Are you sure you want to continue without saving your changes?","Sei sicuro di voler continuare senza salvare le modifiche?",module,Magento_GiftCardAccount
 "Refund Gift Cards to Store Credit","Rimborsa gift card al credito del negozio",module,Magento_GiftCardAccount
-"Add Gift Card","Aggiungi gift card",module,Magento_GiftCardAccount
+"Add Gift Card","Aggiungi Buono Regalo",module,Magento_GiftCardAccount
 "Remove","Elimina",module,Magento_GiftCardAccount
 "Gift Card (%1)","Gift card (%1)",module,Magento_GiftCardAccount
 "This won't take long . . .","Non ci vorrà molto . . .",module,Magento_GiftCardAccount
@@ -5973,8 +5973,8 @@
 "Have a gift card?","Hai una gift card?",module,Magento_GiftCardAccount
 "Click here","Clicca qui",module,Magento_GiftCardAccount
 "to redeem it.","per riscattarla.",module,Magento_GiftCardAccount
-"Enter the gift card code","Inserisci un codice gift card",module,Magento_GiftCardAccount
-"Check Gift Card status and balance","Controlla lo status e il saldo della gift card",module,Magento_GiftCardAccount
+"Enter the gift card code","Inserisci il codice Buono Regalo",module,Magento_GiftCardAccount
+"Check Gift Card status and balance","Controlla lo status e il saldo del Buono Regalo",module,Magento_GiftCardAccount
 "Gift Card:","Gift Card:",module,Magento_GiftCardAccount
 "Current Balance:","Saldo corrente:",module,Magento_GiftCardAccount
 "Expires:","Scade il:",module,Magento_GiftCardAccount
@@ -7812,7 +7812,7 @@
 "Apply Discount","Applica Sconto",module,Magento_NegotiableQuote
 "Cancel coupon","Elimina Coupon",module,Magento_NegotiableQuote
 "Apply Gift Card","Applica Gift Card",module,Magento_NegotiableQuote
-"Enter the gift card code","Inserisci un codice della Gift Card",module,Magento_NegotiableQuote
+"Enter the gift card code","Inserisci il codice Buono Regalo",module,Magento_NegotiableQuote
 "Gift Card:","Gift Card:",module,Magento_NegotiableQuote
 "Current Balance:","Saldo corrente:",module,Magento_NegotiableQuote
 "Apply","Applica",module,Magento_NegotiableQuote
@@ -9661,7 +9661,7 @@ Ulteriori informazioni su come installare l'agent è disponibile <a target=""_bl
 "Product Rating:","Valutazione del prodotto:",module,Magento_Review
 "Product Review (submitted on %1):","Recensione prodotto (inviato il %1):",module,Magento_Review
 "Back to Product Reviews","Torna alle recensioni del prodotto",module,Magento_Review
-"Please select one of each of the ratings above.","Please select one of each of the ratings above.",module,Magento_Review
+"Please select one of each of the ratings above.","Seleziona una valutazione per ciascuna delle categorie.",module,Magento_Review
 "By Customers","Per clienti",module,Magento_Review
 "By Products","Per prodotti",module,Magento_Review
 "Allow Guests to Write Reviews","Permetti agli ospiti di scrivere recensioni",module,Magento_Review
