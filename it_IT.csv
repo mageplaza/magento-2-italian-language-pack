@@ -17,7 +17,7 @@ None,Nessuno,module,Magento_AdminGws
 "You need more permissions to save this setting.","Non si dispone di diritti sufficienti per salvare le impostazioni.",module,Magento_AdminGws
 "Role Scopes","Ambiti del ruolo",module,Magento_AdminGws
 Custom,Personalizzato,module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Non disponi delle autorizzazioni per salvare questo elemento nella store view in cui ti trovi. Per favore, passa alla store view consentita",module,Magento_AdminGws
 "Read Details","Maggiori dettagli",module,Magento_AdminNotification
 "Mark as Read","Segna come già letto",module,Magento_AdminNotification
 "Are you sure?","Sei sicuro?",module,Magento_AdminNotification
