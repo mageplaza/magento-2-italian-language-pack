@@ -12104,7 +12104,7 @@ Print,Stampa,module,Magento_Shipping
 "Order # %1","Ordine # %1",module,Magento_Shipping
 "Back to My Orders","Torna ai miei ordini",module,Magento_Shipping
 "View Another Order","Mostra un altro ordine",module,Magento_Shipping
-"The comment is missing. Enter and try again.","The comment is missing. Enter and try again.",module,Magento_Shipping
+"The comment is missing. Enter and try again.","Manca il commento. Inseriscilo e riprova.",module,Magento_Shipping
 "Cannot add new comment.","Non è possibile aggiungere un nuovo commento.",module,Magento_Shipping
 "Please specify a carrier.","Specifica un vettore.",module,Magento_Shipping
 "Please enter a tracking number.","Inserisci un numero di tracciamento.",module,Magento_Shipping
@@ -12136,7 +12136,7 @@ Shipments,Spedizioni,module,Magento_Shipping
 "The shipping module is not available.","Il modulo di spedizione non è disponibile.",module,Magento_Shipping
 "This shipping method is not available. Please specify the zip code.","Questo metodo di spedizione non è disponibile. Specifica un cap.",module,Magento_Shipping
 "No packages for request","Nessun pacco per la richiesta",module,Magento_Shipping
-"The security validation of the XML document has failed.","The security validation of the XML document has failed.",module,Magento_Shipping
+"The security validation of the XML document has failed.","La convalida della sicurezza del documento XML è fallita.",module,Magento_Shipping
 "All Allowed Countries","Tutti i paesi permessi",module,Magento_Shipping
 "Specific Countries","Paesi specifici",module,Magento_Shipping
 Development,Sviluppo,module,Magento_Shipping
@@ -12163,8 +12163,8 @@ Qty,Qtà,module,Magento_Shipping
 "No detail for number ""%1""","Nessun dettaglio per il numero ""%1""",module,Magento_Shipping
 "Shipping labels is not available.","Le etichette di spedizione non sono disponibili.",module,Magento_Shipping
 "Response info is not exist.","Informazione di risposta non esistente.",module,Magento_Shipping
-"The ""%1"" carrier is invalid. Verify and try again.","The ""%1"" carrier is invalid. Verify and try again.",module,Magento_Shipping
-"Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Shipping labels can't be created. Verify that the store information and settings are complete and try again.",module,Magento_Shipping
+"The ""%1"" carrier is invalid. Verify and try again.","Lo spedizioniere ""%1"" non è valido. Verificare e riprovare.",module,Magento_Shipping
+"Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Impossibile creare l'etichetta di trasporto. Verificare che i dati del negozio siano completi e riprovare.",module,Magento_Shipping
 "Per Order","Per ordine",module,Magento_Shipping
 "Per Package","Per ogni pacchetto",module,Magento_Shipping
 Fixed,Fisso,module,Magento_Shipping
