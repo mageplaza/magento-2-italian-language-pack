@@ -1082,8 +1082,8 @@ Name,Name,module,Magento_Banner
 Back,Back,module,Magento_Banner
 "Enable Dynamic Block","Enable Dynamic Block",module,Magento_Banner
 "Use Default Value","Use Default Value",module,Magento_Banner
-"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Cart price rules allows you to setup promotions for items that are in the shopping cart.",module,Magento_Banner
-"Add Cart Price Rules","Add Cart Price Rules",module,Magento_Banner
+"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Le regole di prezzo del carrello ti permettono di impostare promozioni per gli articoli che sono nel carrello.",module,Magento_Banner
+"Add Cart Price Rules","Aggiungi una regola di prezzo del carrello",module,Magento_Banner
 "Related Catalog Price Rule","Related Catalog Price Rule",module,Magento_Banner
 "Catalog price rules allows you to setup promotions for an items in catalog.","Catalog price rules allows you to setup promotions for an items in catalog.",module,Magento_Banner
 Cancel,Cancel,module,Magento_Banner
@@ -1193,7 +1193,7 @@ Debug,Debug,module,Magento_Braintree
 "This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support.",module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Consente di modificare l'indirizzo di spedizione inserito durante il checkout lato PayPal",module,Magento_Braintree
 "Display on Shopping Cart","Mostra nel carrello",module,Magento_Braintree
-"Also affects mini-shopping cart.","Also affects mini-shopping cart.",module,Magento_Braintree
+"Also affects mini-shopping cart.","Influenza anche il mini-carrello.",module,Magento_Braintree
 "Skip Order Review","Salta revisione ordine",module,Magento_Braintree
 "3D Secure Verification Settings","Impostazioni di verifica 3D Secure",module,Magento_Braintree
 "3D Secure Verification","Verifica 3D Secure",module,Magento_Braintree
@@ -1972,9 +1972,9 @@ fl,fl,module,Magento_Catalog
 Images,Immagini,module,Magento_Catalog
 Select...,Seleziona...,module,Magento_Catalog
 "Category with ID: %s doesn't exist","La categoria con ID: %s non esiste",module,Magento_Catalog
-"Product Name or SKU","Product Name or SKU",module,Magento_Catalog
-"Start typing to find products","Start typing to find products",module,Magento_Catalog
-"Product with ID: %s doesn't exist","Product with ID: %s doesn't exist",module,Magento_Catalog
+"Product Name or SKU","Nome del prodotto o SKU",module,Magento_Catalog
+"Start typing to find products","Inizia a digitare per trovare i prodotti",module,Magento_Catalog
+"Product with ID: %s doesn't exist","Il prodotto con ID ""%s"" non esiste",module,Magento_Catalog
 "Advanced Pricing","Prezzi avanzati",module,Magento_Catalog
 "Customer Group Price","Prezzo Gruppo Clienti",module,Magento_Catalog
 "Customer Group","Gruppo clienti",module,Magento_Catalog
@@ -2219,7 +2219,7 @@ Comma-separated.,"Separati da virgole.",module,Magento_Catalog
 "Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
 "Top Level Category","Top Level Category",module,Magento_Catalog
 "Default Layouts","Default Layouts",module,Magento_Catalog
-"Default Product Layout","Default Product Layout",module,Magento_Catalog
+"Default Product Layout","Layout prodotto predefinito",module,Magento_Catalog
 "Default Category Layout","Default Category Layout",module,Magento_Catalog
 System,Sistema,module,Magento_Catalog
 "Images Upload Configuration","Images Upload Configuration",module,Magento_Catalog
@@ -2257,9 +2257,9 @@ Template,Template,module,Magento_Catalog
 "Cache Lifetime (Seconds)","Durata della cache (secondi)",module,Magento_Catalog
 "Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.",module,Magento_Catalog
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Tempo in secondi tra gli aggiornamenti del widget.
+<br/>Se non impostato, è uguale a 86.400 secondi (24 ore). Per aggiornare immediatamente il widget, andare in Gestione della Cache e selezionare Svuota cache di Output HTML.
+<br/>Il widget non mostrerà i prodotti che iniziano a soddisfare le condizioni specificate fino a quando la cache non sarà aggiornata.",module,Magento_Catalog
 "Catalog Product Link","Link prodotto catalogo",module,Magento_Catalog
 "Link to a Specified Product","Link ad un prodotto specifico",module,Magento_Catalog
 "Select Product...","Seleziona il prodotto...",module,Magento_Catalog
@@ -3954,7 +3954,7 @@ Configurations,Configurazioni,module,Magento_ConfigurableProduct
 Summary,Riepilogo,module,Magento_ConfigurableProduct
 "Choose an Option...","Scegli un'opzione...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Questo attributo è utilizzato nei prodotti configurabili.",module,Magento_ConfigurableProduct
-"The product is already attached.","The product is already attached.",module,Magento_ConfigurableProduct
+"The product is already attached.","Il prodotto è già allegato.",module,Magento_ConfigurableProduct
 "The parent product doesn't have configurable product options.","Il prodotto padre non ha opzioni di prodotto configurabili.",module,Magento_ConfigurableProduct
 "The child product doesn't have the ""%1"" attribute value. Verify the value and try again.","The child product doesn't have the ""%1"" attribute value. Verify the value and try again.",module,Magento_ConfigurableProduct
 "The product with the ""%1"" SKU isn't a configurable product.","The product with the ""%1"" SKU isn't a configurable product.",module,Magento_ConfigurableProduct
@@ -5680,7 +5680,7 @@ label,etichetta,module,Magento_Eav
 hello,ciao,module,Magento_Eav
 "Some internal exception message.","Qualche messaggio di eccezione interno.",module,Magento_Eav
 "The value of attribute not valid","Il valore dell'attributo non è valido",module,Magento_Eav
-"These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
+"These changes affect all related products.","Queste modifiche interessano tutti i prodotti correlati.",module,Magento_Eav
 "Text Field","Campo di testo",module,Magento_Eav
 "Text Area","Area di testo",module,Magento_Eav
 "Text Editor","Text Editor",module,Magento_Eav
@@ -6088,7 +6088,7 @@ Sent,Inviato,module,Magento_GiftCardAccount
 "Gift card account is not redeemable.","Gift card account is not redeemable.",module,Magento_GiftCardAccount
 "Cannot find the customer to update balance","Cannot find the customer to update balance",module,Magento_GiftCardAccount
 "Gift Card Redeemed: %1. For customer #%2.","Gift card riscattati: %1. Per cliente #%2.",module,Magento_GiftCardAccount
-"The ""%1"" Cart doesn't contain products.","The ""%1"" Cart doesn't contain products.",module,Magento_GiftCardAccount
+"The ""%1"" Cart doesn't contain products.","Il carrello ""%1"" non contiene prodotti.",module,Magento_GiftCardAccount
 "The gift card couldn't be deleted from the quote.","The gift card couldn't be deleted from the quote.",module,Magento_GiftCardAccount
 "Requiring a composite gift card account.","Requiring a composite gift card account.",module,Magento_GiftCardAccount
 "The gift card code couldn't be added. Verify your information and try again.","The gift card code couldn't be added. Verify your information and try again.",module,Magento_GiftCardAccount
@@ -6159,10 +6159,10 @@ CSV,CSV,module,Magento_GiftCardAccount
 Code,Codice,module,Magento_GiftCardAccount
 End,Fine,module,Magento_GiftCardAccount
 """model"" value should be specified","Il valore ""model"" deve essere specificato",module,Magento_GiftCardGraphQl
-"Gift messages can't be used for an empty cart. Add an item and try again.","Gift messages can't be used for an empty cart. Add an item and try again.",module,Magento_GiftMessage
+"Gift messages can't be used for an empty cart. Add an item and try again.","Il messaggio per il regalo non può essere utilizzato con un carrello vuoto. Aggiungere un articolo e riprovare.",module,Magento_GiftMessage
 "Gift messages can't be used for virtual products.","Gift messages can't be used for virtual products.",module,Magento_GiftMessage
 "The gift message isn't available.","The gift message isn't available.",module,Magento_GiftMessage
-"The gift message couldn't be added to Cart.","The gift message couldn't be added to Cart.",module,Magento_GiftMessage
+"The gift message couldn't be added to Cart.","Il messaggio per il regalo non può essere aggiunto al carrello.",module,Magento_GiftMessage
 "No item with the provided ID was found in the Cart. Verify the ID and try again.","No item with the provided ID was found in the Cart. Verify the ID and try again.",module,Magento_GiftMessage
 "No product with the ""%1"" itemId exists in the Cart. Verify your information and try again.","No product with the ""%1"" itemId exists in the Cart. Verify your information and try again.",module,Magento_GiftMessage
 "No item with the provided ID was found in the Order. Verify the ID and try again.","No item with the provided ID was found in the Order. Verify the ID and try again.",module,Magento_GiftMessage
@@ -9194,11 +9194,11 @@ Qty,Qtà,module,Magento_QuickOrder
 "Download Sample","Scarica esempio",module,Magento_QuickOrder
 "The address failed to save. Verify the address and try again.","The address failed to save. Verify the address and try again.",module,Magento_Quote
 "The ""%1"" Cart doesn't contain products.","The ""%1"" Cart doesn't contain products.",module,Magento_Quote
-"Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
+"Cart isn't assigned to correct store","Il carrello non è assegnato al negozio corretto",module,Magento_Quote
 "The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
 "The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
 "The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
-"You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
+"You don't have the correct permissions to assign the customer to the cart.","Non hai i permessi corretti per assegnare il cliente al carrello.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
 "The requested Payment Method is not available.","Il metodo di pagamento richiesto non è disponibile.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Abbiamo trovato una richiesta non valida per l'aggiunta di prodotti al preventivo.",module,Magento_Quote
@@ -9222,7 +9222,7 @@ Subtotal,Subtotale,module,Magento_Quote
 "Some of the selected options are not currently available.","Alcune delle opzioni selezionate non sono al momento disponibili.",module,Magento_Quote
 "Selected option(s) or their combination is not currently available.","Le opzioni selezionate o delle combinazioni di esse non sono attualmente disponibili.",module,Magento_Quote
 "Some item options or their combination are not currently available.","Alcune opzioni dell'elemento o una combinazione di esse non sono attualmente disponibili.",module,Magento_Quote
-"The %1 Cart doesn't contain the %2 item.","The %1 Cart doesn't contain the %2 item.",module,Magento_Quote
+"The %1 Cart doesn't contain the %2 item.","Il carrello %1 non contiene l'articolo %2.",module,Magento_Quote
 "The quote couldn't be saved.","The quote couldn't be saved.",module,Magento_Quote
 "The item couldn't be removed from the quote.","The item couldn't be removed from the quote.",module,Magento_Quote
 "The qty value is required to update quote item.","Il valore della quantità è obbligatoria per aggiornare l'elemento del preventivo.",module,Magento_Quote
@@ -9231,9 +9231,9 @@ Subtotal,Subtotale,module,Magento_Quote
 "Invalid address id %1","Id indirizzo %1 non valido",module,Magento_Quote
 "Invalid customer address id %1","Id indirizzo cliente %1 non valido",module,Magento_Quote
 "The quote can't be created.","The quote can't be created.",module,Magento_Quote
-"The customer can't be assigned to the cart. The cart belongs to a different store.","The customer can't be assigned to the cart. The cart belongs to a different store.",module,Magento_Quote
-"The customer can't be assigned to the cart because the cart isn't anonymous.","The customer can't be assigned to the cart because the cart isn't anonymous.",module,Magento_Quote
-"The customer can't be assigned to the cart because the customer already has an active cart.","The customer can't be assigned to the cart because the customer already has an active cart.",module,Magento_Quote
+"The customer can't be assigned to the cart. The cart belongs to a different store.","Il cliente non può essere assegnato al carrello. Il carrello appartiene a un altro negozio.",module,Magento_Quote
+"The customer can't be assigned to the cart because the cart isn't anonymous.","Il cliente non può essere assegnato al carrello perché il carrello non è anonimo.",module,Magento_Quote
+"The customer can't be assigned to the cart because the customer already has an active cart.","Il cliente non può essere assegnato al carrello perché ha già un suo carrello attivo.",module,Magento_Quote
 "A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Quote
 "Invalid state change requested","Richiesto un cambio di stato non valido",module,Magento_Quote
 "Only 1 shipping assignment can be set","Può essere impostato una sola assegnazione di spedizione",module,Magento_Quote
@@ -9242,10 +9242,10 @@ Subtotal,Subtotale,module,Magento_Quote
 "Store Credit","Credito negozio",module,Magento_Quote
 Discount,Sconto,module,Magento_Quote
 Tax,Tassa,module,Magento_Quote
-"The Cart includes virtual product(s) only, so a shipping address is not used.","The Cart includes virtual product(s) only, so a shipping address is not used.",module,Magento_Quote
+"The Cart includes virtual product(s) only, so a shipping address is not used.","Il carrello comprende solo prodotti virtuali, quindi l'indirizzo di spedizione non serve.",module,Magento_Quote
 "The shipping method can't be set. %1","The shipping method can't be set. %1",module,Magento_Quote
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Quote
-"Current customer does not have an active cart.","Current customer does not have an active cart.",module,Magento_Quote
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","Non è possibile impostare un metodo di spedizione se il carrello è vuoto. Aggiungi un articolo al carrello e riprova.",module,Magento_Quote
+"Current customer does not have an active cart.","Il cliente attuale non ha un carrello attivo.",module,Magento_Quote
 error345,error345,module,Magento_Quote
 Carts,Carrelli,module,Magento_Quote
 "Manage carts","Gestisci carrelli",module,Magento_Quote
@@ -9254,29 +9254,29 @@ Carts,Carrelli,module,Magento_Quote
 "The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Quote
 "Please check the billing address information.","Please check the billing address information.",module,Magento_Quote
 "Enter a valid payment method and try again.","Enter a valid payment method and try again.",module,Magento_Quote
-"Shopping cart error: %message","Shopping cart error: %message",module,Magento_QuoteGraphQl
-"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_QuoteGraphQl
-"Missing key ""sku"" in cart item data","Missing key ""sku"" in cart item data",module,Magento_QuoteGraphQl
-"Missing key ""qty"" in cart item data","Missing key ""qty"" in cart item data",module,Magento_QuoteGraphQl
-"Could not find a cart with ID ""%masked_cart_id""","Could not find a cart with ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"The current user cannot perform operations on cart ""%masked_cart_id""","The current user cannot perform operations on cart ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"Shopping cart error: %message","Errore nel carrello: %message",module,Magento_QuoteGraphQl
+"Could not find a product with SKU ""%sku""","Impossibile trovare un prodotto con SKU ""%sku""",module,Magento_QuoteGraphQl
+"Missing key ""sku"" in cart item data","Chiave SKU mancante nei dati del carrello",module,Magento_QuoteGraphQl
+"Missing key ""qty"" in cart item data","Quantità mancante nei dati dell'articolo del carrello",module,Magento_QuoteGraphQl
+"Could not find a cart with ID ""%masked_cart_id""","Impossibile trovare un carrello con ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"The current user cannot perform operations on cart ""%masked_cart_id""","L'utente attuale non può eseguire operazioni sul carrello ""%masked_cart_id""",module,Magento_QuoteGraphQl
 "You cannot specify multiple shipping addresses.","You cannot specify multiple shipping addresses.",module,Magento_QuoteGraphQl
 "The shipping address must contain either ""customer_address_id"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
 "The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
 "Option type ""%1"" is not supported","Option type ""%1"" is not supported",module,Magento_QuoteGraphQl
 "%1 doesn't implement CustomizableOptionValueInterface","%1 doesn't implement CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
-"Missing key ""cart_id"" in cart data","Missing key ""cart_id"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""cartItems"" in cart data","Missing key ""cartItems"" in cart data",module,Magento_QuoteGraphQl
-"Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_QuoteGraphQl
+"Missing key ""cart_id"" in cart data","Chiave mancante ""cart_id"" nei dati del carrello",module,Magento_QuoteGraphQl
+"Missing key ""cartItems"" in cart data","Chiave mancante ""cartItems"" nei dati del carrello",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing","Manca il parametro obbligatorio ""cart_id""",module,Magento_QuoteGraphQl
 "Required parameter ""coupon_code"" is missing","Required parameter ""coupon_code"" is missing",module,Magento_QuoteGraphQl
-"A coupon is already applied to the cart. Please remove it to apply another","A coupon is already applied to the cart. Please remove it to apply another",module,Magento_QuoteGraphQl
+"A coupon is already applied to the cart. Please remove it to apply another","Un coupon è già applicato al carrello. Si prega di rimuoverlo per applicare un altro",module,Magento_QuoteGraphQl
 """model"" value should be specified","""model"" value should be specified",module,Magento_QuoteGraphQl
-"Missing key ""product"" in cart data","Missing key ""product"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""type_id"" in product data","Missing key ""type_id"" in product data",module,Magento_QuoteGraphQl
+"Missing key ""product"" in cart data","Chiave mancante ""product"" nei dati del carrello",module,Magento_QuoteGraphQl
+"Missing key ""type_id"" in product data","Chiave mancante ""cart_id"" nei dati del prodotto",module,Magento_QuoteGraphQl
 "Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_QuoteGraphQl
 "Required parameter ""shipping_addresses"" is missing","Required parameter ""shipping_addresses"" is missing",module,Magento_QuoteGraphQl
 "Required parameter ""shipping_methods"" is missing","Required parameter ""shipping_methods"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""cart_address_id"" is missing","Required parameter ""cart_address_id"" is missing",module,Magento_QuoteGraphQl
+"Required parameter ""cart_address_id"" is missing","Manca il parametro obbligatorio ""cart_address_id""",module,Magento_QuoteGraphQl
 "Required parameter ""shipping_carrier_code"" is missing","Required parameter ""shipping_carrier_code"" is missing",module,Magento_QuoteGraphQl
 "Required parameter ""shipping_method_code"" is missing","Required parameter ""shipping_method_code"" is missing",module,Magento_QuoteGraphQl
 "It is impossible to log user action","Non è possibile loggare le azioni dell'utente",module,Magento_ReleaseNotification
@@ -9647,7 +9647,7 @@ Dashboard,Dashboard,module,Magento_Reports
 "If enabled, will collect statistic of product links sent to friend","If enabled, will collect statistic of product links sent to friend",module,Magento_Reports
 "Enable ""Add Product To Compare List"" Report","Enable ""Add Product To Compare List"" Report",module,Magento_Reports
 "If enabled, will collect statistic of products added to Compare List","If enabled, will collect statistic of products added to Compare List",module,Magento_Reports
-"Enable ""Product Added To Cart"" Report","Enable ""Product Added To Cart"" Report",module,Magento_Reports
+"Enable ""Product Added To Cart"" Report","Abilita il report ""Prodotto aggiunto al carrello""",module,Magento_Reports
 "If enabled, will collect statistic of products added to Cart","If enabled, will collect statistic of products added to Cart",module,Magento_Reports
 "Enable ""Product Added To WishList"" Report","Enable ""Product Added To WishList"" Report",module,Magento_Reports
 "If enabled, will collect statistic of products added to WishList","If enabled, will collect statistic of products added to WishList",module,Magento_Reports
@@ -11140,7 +11140,7 @@ Close,Chiudi,module,Magento_Sales
 "Gift Message for This Order","Messaggio regalo per questo ordine",module,Magento_Sales
 "Recently Ordered","Recentemente ordinati",module,Magento_Sales
 "Add to Cart","Aggiungi al Carrello",module,Magento_Sales
-"Product is not salable.","Product is not salable.",module,Magento_Sales
+"Product is not salable.","Il prodotto non è in vendita.",module,Magento_Sales
 Search,Cerca,module,Magento_Sales
 "Credit memo for your %store_name order","Nota Credito per il tuo ordine su %store_name",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
