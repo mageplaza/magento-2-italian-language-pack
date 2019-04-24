@@ -117,11 +117,13 @@ To download and install Italian pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/it_it/it_IT.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/it_it/`
 
-See this screenshot
+See this screenshot:
 
 ![Italian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **it_it**
 
 #### Step 2: Flush cache
 
