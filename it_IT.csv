@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Non si dispone di diritti sufficienti per salvare le impostazioni.",module,Magento_AdminGws
 "Role Scopes","Ambiti del ruolo",module,Magento_AdminGws
 "Custom","Personalizzato",module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Non hai i permessi per salvare questo elemento nell'ambito della vista corrente del negozio. Si prega di passare alla vista negozio consentita",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","Sono necessari più permessi per eliminare l'elemento ""%1"".",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Questa entità deve essere assegnata a una vista negozio. Verifica l'assegnazione dell'entità e riprova.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Gli ordini possono essere completati solo in un negozio attivo. Verifica il negozio e riprova.",module,Magento_AdminGws
@@ -661,7 +661,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "An error occurred while enabling cache.","Errore durante l'abilitazione della cache.",module,Magento_Backend
 "%1 cache type(s) refreshed.","%1 tipi di cache aggiornati.",module,Magento_Backend
 "An error occurred while refreshing cache.","Si è verificato un errore durante l'aggiornamento della cache.",module,Magento_Backend
-"Dashboard","Dashboard",module,Magento_Backend
+"Dashboard","Pannello di controllo",module,Magento_Backend
 "We updated lifetime statistic.","Abbiamo aggiornato le statistiche.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Non è possibile aggiornare le statistiche.",module,Magento_Backend
 "invalid request","richiesta non valida",module,Magento_Backend
@@ -989,7 +989,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Themes JavaScript and CSS files combined to one file.","Temi JavaScript e CSS file combinati in un unico file.",module,Magento_Backend
 "Design Theme","Tema",module,Magento_Backend
 "User-Agent Exceptions","Eccezioni per User-Agent",module,Magento_Backend
-"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>",module,Magento_Backend
+"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Le stringhe di ricerca sono stringhe normali o eccezioni regolari (PCRE). Sono abbinate nello stesso ordine inserito. Esempi:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>",module,Magento_Backend
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Trova una stringa nell'header user-agent del client e passa al tema specifico per quel browser.",module,Magento_Backend
 "If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Se la posizione corrente del Frame non copre il massimo delle pagine, verrà eseguito il link di rendering alla posizione corrente più/meno questo valore.",module,Magento_Backend
 "Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Testo alternativo per il link Precedente nel menu di paginazione. Se vuoto, verrà usata un'immagine predefinita con una freccia.",module,Magento_Backend
@@ -998,11 +998,11 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Recovery Link Expiration Period (days)","Periodo di scadenza recupero Link (giorni)",module,Magento_Backend
 "Values less than 60 are ignored.","I valori inferiori a 60 vengono ignorati.",module,Magento_Backend
 "Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento. Tutti i diritti riservati. Traduzione a cura della community Italiana.",module,Magento_Backend
-"Add New User Agent Rule","Add New User Agent Rule",module,Magento_Backend
+"Add New User Agent Rule","Aggiungi nuova regola User Agent",module,Magento_Backend
 "Magento_Ui/js/dynamic-rows/record","Magento_Ui/js/dynamic-rows/record",module,Magento_Backend
 "Search String","Stringa di ricerca",module,Magento_Backend
 "Page not found.","Pagina non trovata.",module,Magento_Backend
-"Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
+"Add Block Class Type to Hints","Aggiungi tipo classe di blocco agli Suggerimenti",module,Magento_Backend
 "When the adapter was changed, please flush Catalog Images Cache.","Quando l'adattatore è stato cambiato, per favore, pulisci la Cache delle immagini del catalogo.",module,Magento_Backend
 "For Windows server only.","Solo per Windows server.",module,Magento_Backend
 "Images Upload Configuration","Configurazione Upload immagini",module,Magento_Backend
@@ -1036,8 +1036,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Edit","Modifica",module,Magento_Backend
 "Enable Hints for Storefront with URL Parameter","Abilita Suggerimenti con Parametro URL",module,Magento_Backend
 "Parameter Value","Valore del parametro",module,Magento_Backend
-"Enable Template Path Hints for Storefront","Enable Template Path Hints for Storefront",module,Magento_Backend
-"Enable Template Path Hints for Admin","Enable Template Path Hints for Admin",module,Magento_Backend
+"Enable Template Path Hints for Storefront","Abilita i suggerimenti dei percorsi dei template per il frontend",module,Magento_Backend
+"Enable Template Path Hints for Admin","Abilita i suggerimenti dei percorsi dei template per l'amministrazione",module,Magento_Backend
 "System Backup","Backup di sistema",module,Magento_Backup
 "Database and Media Backup","Backup Database e Media",module,Magento_Backup
 "Database Backup","Backup del database",module,Magento_Backup
@@ -1700,7 +1700,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Il CAPTCHA per i form ""Crea utente"" e ""Password dimenticata"" è sempre attivato se scelto.",module,Magento_Captcha
 "Please enter the letters from the image","Inserisci le lettere mostrate nell'immagine",module,Magento_Captcha
 "Please type the letters below","Inserisci le lettere qui sotto",module,Magento_Captcha
-"Root","Root",module,Magento_Catalog
+"Root","Radice",module,Magento_Catalog
 "Delete","Elimina",module,Magento_Catalog
 "Save","Salva",module,Magento_Catalog
 "Use Config Settings","Utilizzare le impostazioni di configurazione",module,Magento_Catalog
@@ -1720,7 +1720,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "<label class=""label""><span>from</span></label>","<label class=""label""><span>da</span></label>",module,Magento_Catalog
 "<label class=""label""><span>to</span></label>","<label class=""label""><span>a</span></label>",module,Magento_Catalog
 "[GLOBAL]","[GLOBALE]",module,Magento_Catalog
-"[WEBSITE]","[WEBSITE]",module,Magento_Catalog
+"[WEBSITE]","[SITO WEB]",module,Magento_Catalog
 "[STORE VIEW]","[VISTA NEGOZIO]",module,Magento_Catalog
 "WYSIWYG Editor","Editor WYSIWYG",module,Magento_Catalog
 "Add Product","Aggiungi prodotto",module,Magento_Catalog
@@ -2237,7 +2237,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "Minimum Qty Allowed in Shopping Cart","Qtà minima consentita nel carrello",module,Magento_Catalog
 "Maximum Qty Allowed in Shopping Cart","Qtà massima consentita nel carrello",module,Magento_Catalog
 "Qty Uses Decimals","Qtà utilizza decimali",module,Magento_Catalog
-"Backorders","Backorders",module,Magento_Catalog
+"Backorders","Inevasi",module,Magento_Catalog
 "Notify for Quantity Below","Notifica per quantità inferiore",module,Magento_Catalog
 "Enable Qty Increments","Abilita incrementi qtà",module,Magento_Catalog
 "Qty Increments","Incrementi qtà",module,Magento_Catalog
@@ -2374,7 +2374,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "Use Canonical Link Meta Tag For Products","Utilizza il Meta Tag Link canonico per i prodotti",module,Magento_Catalog
 "Catalog Price Scope","Ambito del prezzo di catalogo",module,Magento_Catalog
 "This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","Questo definisce l'ambito della valuta di base (""Installazione Valuta"" > ""Opzioni valuta"" > ""Valuta di Base"").",module,Magento_Catalog
-"Category Top Navigation","Category Top Navigation",module,Magento_Catalog
+"Category Top Navigation","Navigazione in alto categoria",module,Magento_Catalog
 "Maximal Depth","Profondità massima",module,Magento_Catalog
 "Date & Time Custom Options","Opzioni personalizzate data e ora",module,Magento_Catalog
 "Use JavaScript Calendar","Utilizza il calendario JavaScript",module,Magento_Catalog
@@ -2522,7 +2522,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "You moved the category","Hai spostato la categoria",module,Magento_Catalog
 "This product no longer exists.","Questo prodotto non esiste più.",module,Magento_Catalog
 "We can't find the image file.","Impossibile trovare l'immagine.",module,Magento_Catalog
-"productFactory is already set","productFactory is already set",module,Magento_Catalog
+"productFactory is already set","productFactory è già impostato",module,Magento_Catalog
 "Could not save product option","Impossibile salvare l'opzione del prodotto",module,Magento_Catalog
 "Product option with id %1 does not exist","L'opzione prodotto con id %1 non esiste",module,Magento_Catalog
 "Are you sure you want to delete this category?","Sei sicuro di voler cancellare questa categoria?",module,Magento_Catalog
@@ -2552,19 +2552,19 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","L'attributo non può essere salvato a causa di un errore. Verifica le tue informazioni e riprova. Se l'errore persiste, riprova più tardi.",module,Magento_Catalog
 "The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","L'attributo non può essere salvato a causa di un errore. Verifica le tue informazioni e riprova. Se l'errore persiste, riprova più tardi.",module,Magento_Catalog
 "Tier prices data should be array, but actually other type is received","I dati del prezzo più alto dovrebbero essere array, ma i dati ricevuti sono di un tipo differente",module,Magento_Catalog
-"Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"Price indexer ""%1"" must implement %2 or %3","Indicizzatore di prezzo ""%1"" deve implementare %2 o %3",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Hai aggiunto il prodotto %1 alla lista di confronto <a href=""%2""></a>.",module,Magento_Catalog
 "Maximum %1 characters","Massimo: %s caratteri",module,Magento_Catalog
 "remaining","rimanenti",module,Magento_Catalog
 "too many","troppi",module,Magento_Catalog
-"Sending attribute values as package.","Sending attribute values as package.",module,Magento_Catalog
+"Sending attribute values as package.","Invio di valori di attributo come pacchetto.",module,Magento_Catalog
 "This value does not follow the specified format (for example, 200X300).","Questo valore non segue il formato specificato (ad esempio, 200X300).",module,Magento_Catalog
-"Applies to category pages","Applies to category pages",module,Magento_Catalog
-"Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
-"Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
+"Applies to category pages","Si applica alle pagine di categoria",module,Magento_Catalog
+"Remember Category Pagination","Ricorda l'impaginazione di categoria",module,Magento_Catalog
+"Changing may affect SEO and cache storage consumption.","La modifica può influenzare il SEO e il consumo di spazio cache.",module,Magento_Catalog
 "Images Upload Configuration","Configurazione Upload immagini",module,Magento_Catalog
 "Quality","Qualità",module,Magento_Catalog
-"Jpeg quality for resized images 1-100%.","Jpeg quality for resized images 1-100%.",module,Magento_Catalog
+"Jpeg quality for resized images 1-100%.","Qualità Jpeg per le immagini ridimensionate 1-100%.",module,Magento_Catalog
 "Cost","Costo",module,Magento_Catalog
 "The ""%1"" attribute is required. Enter and try again.","L'attributo ""%1"" è obbligatorio. Immettere e riprovare.",module,Magento_Catalog
 "Attributes were missing and must be specified.","Specificare tutti gli attributi mancanti.",module,Magento_Catalog
@@ -2576,13 +2576,13 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "The filters are invalid. Set them in an array and try again.","I filtri non sono validi. Inserirli in un array e riprovare.",module,Magento_Catalog
 "The product wasn't registered.","Il prodotto non è stato registrato.",module,Magento_Catalog
 "The store wasn't registered. Verify the store and try again.","Il negozio non è stato registrato. Verifica il negozio e riprova.",module,Magento_Catalog
-"The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Catalog
+"The ""%1"" attribute value is empty. Set the attribute and try again.","Il valore di attributo di ""%1"" è vuoto. Impostare l'attributo e riprovare.",module,Magento_Catalog
 "The attribute set couldn't be created because it's based on a non-product attribute set.","Il set di attributi non può essere creato perché è basato su un set di attributi non prodotto.",module,Magento_Catalog
 "The attribute set couldn't be created because it's based on a non-existing attribute set.","Il set di attributi non può essere creato perché è basato su un set di attributi inesistente.",module,Magento_Catalog
 "The image content is invalid. Verify the content and try again.","Il contenuto dell'immagine non è valido. Verificare il contenuto e riprovare.",module,Magento_Catalog
 "The product can't be saved.","Il prodotto non può essere salvato.",module,Magento_Catalog
 "The new media gallery entry failed to save.","Impossibile salvare la nuova voce nella galleria multimediale.",module,Magento_Catalog
-"No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again.",module,Magento_Catalog
+"No image with the provided ID was found. Verify the ID and try again.","Non è stata trovata nessuna immagine con l'ID specificato. Verificare l'ID e riprovare.",module,Magento_Catalog
 "The product doesn't exist. Verify and try again.","Il prodotto non esiste. Verificare e riprovare.",module,Magento_Catalog
 "The image doesn't exist. Verify and try again.","L'immagine non esiste. Verificare e riprovare.",module,Magento_Catalog
 "The image doesn't exist.","L'immagine non esiste.",module,Magento_Catalog
@@ -5095,9 +5095,9 @@ new products will be created. Use this step to customize images and price for yo
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Hai dimenticato la password dell'account? Clicca <a href=""%reset_url"">qui</a> per reimpostarla.",module,Magento_Customer
 "When you sign in to your account, you will be able to:","Accedendo al tuo account, sarai in grado di:",module,Magento_Customer
 "Proceed through checkout faster","Procedere velocemente attraverso il checkout",module,Magento_Customer
-"Check the status of orders","Controlla gli status degli ordini",module,Magento_Customer
-"View past orders","Mostra ordini passati",module,Magento_Customer
-"Store alternative addresses (for shipping to multiple family members and friends)","Indirizzi alternativi negozio (per la spedizione di più membri della famiglia e gli amici)",module,Magento_Customer
+"Check the status of orders","Controllare lo stato degli ordini",module,Magento_Customer
+"View past orders","Visualizzare gli ordini precedenti",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Aggiungere indirizzi alternativi (per la spedizione a più membri della famiglia e agli amici)",module,Magento_Customer
 "Please confirm your %store_name account","Si prega di confermare il tuo account %store_name",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","È necessario confermare il tuo indirizzo email %customer_email prima di poter accedere (il link è valido solo una volta):",module,Magento_Customer
 "Confirm Your Account","Conferma il tuo Account",module,Magento_Customer
@@ -5110,13 +5110,13 @@ new products will be created. Use this step to customize images and price for yo
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","o chiamaci al <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","Grazie, <br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","L'email di %store_name e password sono  stati modificati",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email, password.",module,Magento_Customer
 "Reset your %store_name password","Reimpostare la password di %store_name",module,Magento_Customer
 "There was recently a request to change the password for your account.","C'è stata recentemente una richiesta per modificare la password per il tuo account.",module,Magento_Customer
 "If you requested this change, set a new password here:","Se hai richiesto questa modifica, imposta una nuova password qui:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se non hai fatto questa richiesta, è possibile ignorare questa email e la tua password rimarrà immutata.",module,Magento_Customer
 "Your %store_name password has been changed","È stata modificata la password di %store_name",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: password.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: password.",module,Magento_Customer
 "Checkout as a new customer","Esegui il checkout come nuovo cliente",module,Magento_Customer
 "Creating an account has many benefits:","La creazione di un account ha molti vantaggi:",module,Magento_Customer
 "See order and shipping status","Vedere lo stato dell'ordine e della spedizione",module,Magento_Customer
@@ -14687,9 +14687,9 @@ che un cliente potrebbe aspettarsi. ",module,Magento_Tax
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Hai dimenticato la password dell'account? Clicca <a href=""%reset_url"">qui</a> per reimpostarla.",module,Magento_Theme
 "When you sign in to your account, you will be able to:","Accedendo al tuo account, sarai in grado di:",module,Magento_Theme
 "Proceed through checkout faster","Procedere velocemente attraverso il checkout",module,Magento_Theme
-"Check the status of orders","Controlla gli status degli ordini",module,Magento_Theme
-"View past orders","Mostra ordini passati",module,Magento_Theme
-"Store alternative addresses (for shipping to multiple family members and friends)","Indirizzi alternativi negozio (per la spedizione di più membri della famiglia e gli amici)",module,Magento_Theme
+"Check the status of orders","Controllare lo stato degli ordini",module,Magento_Theme
+"View past orders","Visualizzare gli ordini precedenti",module,Magento_Theme
+"Store alternative addresses (for shipping to multiple family members and friends)","Aggiungere indirizzi alternativi (per la spedizione a più membri della famiglia e agli amici)",module,Magento_Theme
 "We could not detect a size.","Non è possibile individuare una dimensione.",module,Magento_Theme
 "We don't recognize this file extension.","Non riconosciamo questa estensione file.",module,Magento_Theme
 "Home","Home",module,Magento_Theme
