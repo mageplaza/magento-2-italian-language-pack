@@ -2,7 +2,7 @@
 
 **Magento 2 Italian Language Pack** is a special gift for Magento 2 Community Edition. The data of the translation is supplied by Magento 2 Translation Project of Crowdin site, on which you will contribute into the project and download the zip file to install on your own store. This knowledge base will include full of the clear guides that support you to convert the default language (English) into Italian language on your entire store.
 
-Read more [Magento 2 Italian Language Pack](https://www.mageplaza.com/magento-2-intalian-language-pack.html)
+Read more [Magento 2 Italian Language Pack](https://www.mageplaza.com/magento-2-italian-language-pack.html)
 
 ![Mageplaza Italian language pack](https://i.imgur.com/qjWPj1W.png)
 
@@ -20,11 +20,11 @@ Read more [Magento 2 Italian Language Pack](https://www.mageplaza.com/magento-2-
 
 This is status of Italian Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/{{process}}?title=translated)
+![language pack](http://progressed.io/bar/90?title=translated)
 
 It is not fully translated? Feel free to contribute:
-- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
-- [On Github]({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
+- [On Github](https://github.com/mageplaza/magento-2-italian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -39,14 +39,24 @@ Install the Italian language pack via composer is never easier.
 **Install Italian pack**:
 
 ```
-{{composer_install}}
+composer require mageplaza/magento-2-italian-language-pack:dev-master
+php bin/magento setup:static-content:deploy it_IT
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+
 ```
 
 
 **Update  Italian pack**:
 
 ```
-{{composer_update}}
+composer update mageplaza/magento-2-italian-language-pack:dev-master
+php bin/magento setup:static-content:deploy it_IT
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+
 ```
 
 #### Authentication required (If any)
@@ -87,7 +97,7 @@ Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html
 unzip master.zip app/i18n/Mageplaza/
 ```
 
-Rename folder `{{github_repo_name}}` to `{{magento_package_code}}`.
+Rename folder `magento-2-italian-language-pack` to `it_it`.
 
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -103,18 +113,18 @@ To download and install Italian pack manually, you have to access to your server
 
 #### Step 1: Download the package
 
-- [Download .zip]({{github_latest_version}})
-- [Download .tar.gz]({{github_latest_version_tar}})
+- [Download .zip](https://github.com/mageplaza/magento-2-italian-language-pack/archive/master.zip)
+- [Download .tar.gz](https://github.com/mageplaza/magento-2-italian-language-pack/tarball/master)
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/{{magento_package_code}}/`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/it_it/`
 
 See this screenshot:
 
 ![Italian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
-This language pack code is: **{{magento_package_code}}**
+This language pack code is: **it_it**
 
 #### Step 2: Flush cache
 
@@ -130,32 +140,37 @@ Now time to active the Italian language pack for your Magento 2 store. From Mage
 ## 4. How to contribute
 
 Contribute to this language at :
-- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
-- [On Github]({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
+- [On Github](https://github.com/mageplaza/magento-2-italian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 ## 5. Supported Magento versions
 
 It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE), Magento Cloud, Magento B2B, Magento MSI.
 
-{{magento_versions}}
+
+- Magento v2.0.x
+- Magento v2.1.x
+- Magento v2.2.x
+- Magento v2.3.x
+
 
 
 ## 6. Notes 
 
 - This project automatically updates weekly from Crowdin.
-- Any question, issue please [create a new issue]({{github_url}}/issues/new)
+- Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-italian-language-pack/issues/new)
 
 ## 7. Language package authors
 
-- [Magento official translations project for Magento 2]({{crowdin}})
+- [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
 - Magento Community
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
 ## 8. References 
 
-- https://www.mageplaza.com/magento-2-intalian-language-pack.html
+- https://www.mageplaza.com/magento-2-italian-language-pack.html
 - https://crowdin.com/project/magento-2
 
 
