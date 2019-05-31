@@ -3957,7 +3957,7 @@ is now <strong>Active</strong>.,module,Magento_Company
 Once you login, you will be able to place orders on behalf of your company,module,Magento_Company
 and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Il tuo account è stato modificato da Amministratore Aziendale a Utente Standard. Se pensi che vi sia un errore, per favore contatta il tuo manager per maggiori dettagli.",module,Magento_Company
-"%name,","%nome,",module,Magento_Company
+"%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","Sei stato assegnato come Rappresentante alle vendite di %company_name.",module,Magento_Company
 "When you sign in to your account, you will be able to:","Accedendo al tuo account, sarai in grado di:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* Visualizza e gestisci i preventivi aziendali nel pannello di amministrazione",module,Magento_Company
@@ -5086,7 +5086,7 @@ new products will be created. Use this step to customize images and price for yo
 "Tax/VAT number","Partita IVA",module,Magento_Customer
 "Phone Number","Numero di telefono",module,Magento_Customer
 "Welcome to %store_name","Benvenuto a %store_name",module,Magento_Customer
-"%name,","%nome,",module,Magento_Customer
+"%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Benvenuto su %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",module,Magento_Customer
 "Email:","Email:",module,Magento_Customer
@@ -5405,7 +5405,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Remove","Elimina",module,Magento_CustomerBalance
 "Refunded to Store Credit","RImborsato al Credito negozio",module,Magento_CustomerBalance
 "Store Credit update","Aggiornamento Credito del Negozio",module,Magento_CustomerBalance
-"%name,","%nome,",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_CustomerBalance
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Abbiamo aggiornato il tuo account <a href=""%store_url""> %store_name</a> e hai un credito che è possibile utilizzare per gli acquisti futuri.",module,Magento_CustomerBalance
 "Your Store Credit balance is now %balance.","Il saldo del credito negozio è ora di %balance.",module,Magento_CustomerBalance
 "Store credit","Credito negozio",module,Magento_CustomerBalance
@@ -6714,7 +6714,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Availability","Disponibilita'",module,Magento_GiftCard
 "In stock","Disponibile",module,Magento_GiftCard
 "You've been sent a gift from %store_name","Ti è stato inviato un regalo da %store_name",module,Magento_GiftCard
-"%name,","%nome,",module,Magento_GiftCard
+"%name,","%name,",module,Magento_GiftCard
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender ti ha inviato una gift card per l'uso su <a href=""%store_url""> %store_name</a> e ora è pronta per essere utilizzata per gli acquisti.",module,Magento_GiftCard
 "Gift Card Codes:","Codici gift card:",module,Magento_GiftCard
 "Gift Card Code:","Codice gift card:",module,Magento_GiftCard
@@ -6852,7 +6852,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Add or remove gift cards","Aggiungi o rimuovi gift card",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Importo gift card applicato all'ordine:",module,Magento_GiftCardAccount
 "You've been sent a gift from %store_name","Ti è stato inviato un regalo da %store_name",module,Magento_GiftCardAccount
-"%name,","%nome,",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftCardAccount
 "You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Hai inviato una gift card per l'uso su %store_name e ora è pronto per essere utilizzato per gli acquisti.",module,Magento_GiftCardAccount
 "Gift Card Code: %code","Codice del buono regalo: %code",module,Magento_GiftCardAccount
 "The card has a balance of %balance and can be used at ","La carta ha un saldo di %balance e può essere utilizzata in ",module,Magento_GiftCardAccount
@@ -7212,7 +7212,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Unit Price","Prezzo unitario",module,Magento_GiftRegistry
 "Add to Cart","Aggiungi al Carrello",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Registro Regali creato a %store_name",module,Magento_GiftRegistry
-"%name,","%nome,",module,Magento_GiftRegistry
+"%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Hai creato correttamente la nuova lista regalo ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Il tuo messaggio della lista regalo",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Ora è possibile aggiungere i prodotti alla tua lista regalo.",module,Magento_GiftRegistry
@@ -10052,7 +10052,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Product alerts Cron error","Notificche prodotto Errore Cron",module,Magento_ProductAlert
 "Product alerts cron warnings","Avvisi notifiche prodotto cron",module,Magento_ProductAlert
 "Products price changed alert","Notifica cambiamento prezzo prodotti",module,Magento_ProductAlert
-"%name,","%nome,",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
 "Products back in stock alert","Notifica di Prodotto ritornato disponibile in Stock",module,Magento_ProductAlert
 "Product Alerts","Avvisi prodotto",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Consenti avviso quando il prezzo del prodotto cambia",module,Magento_ProductAlert
@@ -10657,7 +10657,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Validate error 2","Valida errore 2",module,Magento_Reminder
 "text","testo",module,Magento_Reminder
 "Promotion reminder at %store_name","Promemoria Promozione a %store_name",module,Magento_Reminder
-"%name,","%nome,",module,Magento_Reminder
+"%name,","%name,",module,Magento_Reminder
 "Hurry up to take advantage of our %promotion_name promotion!","Affrettatevi per approfittare della nostra promozione %promotion_name!",module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","Affrettatevi per approfittare di questa promozione!",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Per approfittare della promozione è necessario accedere alla <a href=""%account_url"">%store_name</a> e applicare il coupon ""%coupon_code"" nel carrello.",module,Magento_Reminder
@@ -11279,7 +11279,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Email Notification Settings","Impostazioni di notifica email",module,Magento_Reward
 "Save Subscription Settings","Salvare le impostazioni di iscrizione",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","Saldo Punti Fedeltà aggiornato a %store_name",module,Magento_Reward
-"%name,","%nome,",module,Magento_Reward
+"%name,","%name,",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","Hai bisogno di %points_balance punti che possono essere utilizzati nel nostro negozio:",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url""> Cancellati</a> da queste notifiche.",module,Magento_Reward
 "Reward Points Expiry Warning at %store_name","Avviso di scadenza Punti Fedeltà presso %store_name",module,Magento_Reward
@@ -11661,7 +11661,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "New Comment for RMA #%increment_id","Nuovo commento per l'RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","Il cliente %name ha lasciato un nuovo commento:",module,Magento_Rma
 "%store_name : New Return #%increment_id","%store_name: Nuovo ritorno #%increment_id",module,Magento_Rma
-"%name,","%nome,",module,Magento_Rma
+"%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","La richiesta di reso è stata aggiornata. Vedere di seguito.",module,Magento_Rma
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","È possibile controllare lo stato del tuo reso <a href=""%account_url""> accedendo al tuo account</a> o <a href=""%form_url""> utilizzando il tuo numero di ordine</a>.",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Se avete domande, non esitate a contattarci al <a href=""mailto:%support_email""> %support_email</a> o per telefono al %store_phone",module,Magento_Rma
@@ -12422,7 +12422,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Add to Cart","Aggiungi al Carrello",module,Magento_Sales
 "Search","Cerca",module,Magento_Sales
 "Credit memo for your %store_name order","Nota Credito per il tuo ordine su %store_name",module,Magento_Sales
-"%name,","%nome,",module,Magento_Sales
+"%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo status del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
@@ -13252,7 +13252,7 @@ Limite di utilizzo applicato solo per i clienti loggati.                    ",mo
 "Send Email","Invia email",module,Magento_SendFriend
 "Back","Indietro",module,Magento_SendFriend
 "Welcome, %name","Benvenuto, %name",module,Magento_SendFriend
-"%name,","%nome,",module,Magento_SendFriend
+"%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name vuole condividere questo prodotto con te:",module,Magento_SendFriend
 "Message from %sender_name:","Messaggio da %sender_name:",module,Magento_SendFriend
 "Email to a Friend","Segnala ad un amico",module,Magento_SendFriend
@@ -14678,7 +14678,7 @@ che un cliente potrebbe aspettarsi. ",module,Magento_Tax
 "Time","Orario",module,Magento_Theme
 "Hour","Ora",module,Magento_Theme
 "Minute","Minuto",module,Magento_Theme
-"%name,","%nome,",module,Magento_Theme
+"%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Benvenuto su %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",module,Magento_Theme
 "Email:","Email:",module,Magento_Theme
@@ -15336,7 +15336,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Attenzione! \r\nQuesta azione rimuoverà questo utente dalla regola assegnata\r\nSei sicuro?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Attenzione! \r\nQuesta azione rimuoverà questi utenti dalle regole assegnate\r\nSei sicuro?",module,Magento_User
 "Password Reset Confirmation for %name","Conferma il ripristino della password per %name",module,Magento_User
-"%name,","%nome,",module,Magento_User
+"%name,","%name,",module,Magento_User
 "There was recently a request to change the password for your account.","C'è stata recentemente una richiesta per modificare la password per il tuo account.",module,Magento_User
 "If you requested this change, reset your password here:","Se hai richiesto questa modifica, reimposta la password qui:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se non hai fatto questa richiesta, è possibile ignorare questa email e la tua password rimarrà immutata.",module,Magento_User
@@ -16232,7 +16232,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Clear All","Cancella tutto",theme,frontend/Magento/luma
 "Shopping Options","Opzioni",theme,frontend/Magento/luma
 "Welcome to %store_name","Benvenuto a %store_name",theme,frontend/Magento/luma
-"%name,","%nome,",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Benvenuto su %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",theme,frontend/Magento/luma
 "Email:","Email:",theme,frontend/Magento/luma
