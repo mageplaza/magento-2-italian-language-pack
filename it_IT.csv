@@ -10228,9 +10228,9 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Unable to place order. Please try again later.","Impossibile effettuare l'ordine. Si prega di riprovare più tardi.",module,Magento_Quote
 "The address failed to save. Verify the address and try again.","The address failed to save. Verify the address and try again.",module,Magento_Quote
 "The ""%1"" Cart doesn't contain products.","Il carrello ""%1"" non contiene prodotti.",module,Magento_Quote
-"The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
-"The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
+"The coupon code couldn't be applied. Verify the coupon code and try again.","Il codice promozionale non poteva essere applicato. Verificare il codice coupon e riprovare.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verificare il codice e riprovare.",module,Magento_Quote
+"The coupon code couldn't be deleted. Verify the coupon code and try again.","Non è stato possibile cancellare il codice coupon. Verificare il codice e riprovare.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","Non hai i permessi corretti per assegnare il cliente al carrello.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","Manca l'indirizzo di spedizione. Imposta l'indirizzo e riprova.",module,Magento_Quote
 "The %1 Cart doesn't contain the %2 item.","Il carrello %1 non contiene l'articolo %2.",module,Magento_Quote
