@@ -3287,6 +3287,8 @@ Tempo in secondi tra gli aggiornamenti del widget.,module,Magento_CatalogWidget
 "Click <a href=""%1"">here</a> to continue shopping.","Clicca <a href=""%1"">qui</a> per proseguire con gli acquisti.",module,Magento_Checkout
 "Estimate Tax","Tasse stimate",module,Magento_Checkout
 "Estimate Shipping and Tax","Stima spedizione e tasse",module,Magento_Checkout
+"Enter your billing address to get a tax estimate.","Inserisci il tuo indirizzo di fatturazione per ottenere una stima sulle tasse.",module,Magento_Checkout
+"Enter your destination to get a shipping estimate.","Inserisci la destinazione per una stima sulle spese di spedizione.",module,Magento_Checkout
 "Excl. Tax","Tasse escl.",module,Magento_Checkout
 "Loading...","Caricamento...",module,Magento_Checkout
 "Order #","Ordine n. ",module,Magento_Checkout
@@ -14770,7 +14772,7 @@ che un cliente potrebbe aspettarsi. ",module,Magento_Tax
 "The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.","The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.",module,Magento_Theme
 "The config can't be saved because it's empty. Complete the config and try again.","The config can't be saved because it's empty. Complete the config and try again.",module,Magento_Theme
 "View","Mostra",module,Magento_Theme
-"This is a demo store. No orders will be fulfilled.","This is a demo store. No orders will be fulfilled.",module,Magento_Theme
+"This is a demo store. No orders will be fulfilled.","Questo è un negozio demo. Nessun ordine verrà evaso.",module,Magento_Theme
 "Not all browsers support all these formats!","Not all browsers support all these formats!",module,Magento_Theme
 "ID","ID",module,Magento_Theme
 "TinyMCE 3 (deprecated)","TinyMCE 3 (deprecato)",module,Magento_Tinymce3
