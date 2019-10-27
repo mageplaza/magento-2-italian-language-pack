@@ -5075,7 +5075,7 @@ new products will be created. Use this step to customize images and price for yo
 "Sign-in Information","Informazioni di accesso",module,Magento_Customer
 "Confirm Password","Conferma password",module,Magento_Customer
 "Create an Account","Crea un Account",module,Magento_Customer
-"Set a New Password","Imposta una nuova Password",module,Magento_Customer
+"Set a New Password","Imposta una nuova password",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Ti sei disconnesso e verrai reindirizzato alla homepage entro 5 secondi.",module,Magento_Customer
 "New Customers","Nuovi Clienti",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La creazione di un account ha molti vantaggi: check-out veloce, salvare più di un indirizzo, tenere traccia degli ordini e altro ancora.",module,Magento_Customer
