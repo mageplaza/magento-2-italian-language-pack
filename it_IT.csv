@@ -233,8 +233,7 @@
 "Entity type model '%1' is not found","Modello tipo entità '%1' non trovato",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Il modello tipo entità deve essere un'istanza di \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Non ci sono tipi di prodotto disponibili per l'esportazione",module,Magento_AdvancedPricingImportExport
-"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","La classe %1 non implementa,module,Magento_AdvancedRule
-\Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","La classe %1 non implementa \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
 "Sales Rule","Regola per le vendite",module,Magento_AdvancedSalesRule
 "Index sales rule","Indice della regola per le vendite",module,Magento_AdvancedSalesRule
 "Related Search Terms","Termini di ricerca correlate",module,Magento_AdvancedSearch
@@ -298,20 +297,13 @@
 "Configuration","Configurazione",module,Magento_Analytics
 "Business Intelligence","Business Intelligence",module,Magento_Analytics
 "BI Essentials","Essenziali Business intelligence",module,Magento_Analytics
-"This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
-Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
-""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
-terms and conditions</a>.","Questo servizio fornisce una suite di dinamica di rapporti con ricchi approfondimenti sulla tua attività commerciale.                 I report sono accessibili in modo sicuro su un dashboard personalizzato di fuori del pannello di amministrazione in cliccando sul link ""Vai Advanced Reporting"". </br> Per ulteriori informazioni, vedere i nostri <a href=""https://magento.com/legal/terms/cloud-terms""> termini e condizioni</a>.",module,Magento_Analytics
+"This service provides a dynamic suite of reports with rich insights about your business. Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the ""Go to Advanced Reporting"" link.<br/>For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">terms and conditions</a>.","Questo servizio fornisce una suite di dinamica di rapporti con ricchi approfondimenti sulla tua attività commerciale. I report sono accessibili in modo sicuro su un dashboard personalizzato di fuori del pannello di amministrazione in cliccando sul link ""Vai Advanced Reporting"".<br/>Per ulteriori informazioni, vedere i nostri <a href=""https://magento.com/legal/terms/cloud-terms""> termini e condizioni</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Servizio Rapporti Avanzati",module,Magento_Analytics
 "Time of day to send data","Ora del giorno per inviare i dati",module,Magento_Analytics
 "Industry","Settore",module,Magento_Analytics
 "In order to personalize your Advanced Reporting experience, please select your industry.","Al fine di personalizzare la tua esperienza Advanced Reporting, si prega di selezionare il tuo settore.",module,Magento_Analytics
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Ottieni ulteriori informazioni da Magento Business Intelligence</strong>",module,Magento_Analytics
-"Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
-becoming more data driven.</br> Learn more about <a target=""_blank"",module,Magento_Analytics
-href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence fornisce un percorso semplice e chiaro per,module,Magento_Analytics
-prendere decisioni migliori guidati dai dati.</br> maggiori informazioni <a target=""_blank"",module,Magento_Analytics
-href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials e BI Pro</a> livelli.",module,Magento_Analytics
+"Magento Business Intelligence provides you with a simple and clear path to becoming more data driven.<br/>Learn more about <a target=""_blank"" href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence fornisce un percorso semplice e chiaro per prendere decisioni migliori guidati dai dati.</br> maggiori informazioni <a target=""_blank"" href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials e BI Pro</a> livelli.",module,Magento_Analytics
 "Auto Parts","Ricambi auto",module,Magento_Analytics
 "Baby/Children’s Apparel, Gear and Toys","Bambino/Bambini abbigliamento, Attrezzi e Giocattoli",module,Magento_Analytics
 "Beauty and Cosmetics","Bellezza e Cosmetici",module,Magento_Analytics
@@ -388,6 +380,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Order saving error: %1","Errore salvataggio ordine: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Si prega di scegliere un metodo di pagamento.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Non possiamo elaborare il vostro ordine in questo momento. Si prega di riprovare più tardi.",module,Magento_Authorizenet
+"Unable to place order. Please try again later.","Impossibile effettuare l'ordine. Si prega di riprovare più tardi.",module,Magento_Authorizenet
 "An error occurred on the server. Please try to place the order again.","Si è verificato un errore sul server. Provare ad effettuare nuovamente l'ordine.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Carta di credito: xxxx-%1",module,Magento_Authorizenet
 "amount %1","importo %1",module,Magento_Authorizenet
@@ -423,6 +416,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Credit Card Number","Numero carta di credito",module,Magento_Authorizenet
 "Expiration Date","Data di scadenza",module,Magento_Authorizenet
 "Card Verification Number","Numero di verifica della carta",module,Magento_Authorizenet
+"Fraud Detection","Rilevamento frodi",module,Magento_Authorizenet
 "Fraud Detection ","Rilevamento frodi ",module,Magento_Authorizenet
 "FDS Filter Action","Azione di filtro FDS",module,Magento_Authorizenet
 "AVS Response","Risposta AVS",module,Magento_Authorizenet
@@ -438,7 +432,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "API Login ID","API Login ID",module,Magento_Authorizenet
 "Transaction Key","Transaction Key",module,Magento_Authorizenet
 "Merchant MD5","Merchant MD5",module,Magento_Authorizenet
-"New Order Status","Nuovo stato dell'ordine",module,Magento_Authorizenet
+"New Order Status","Nuovo Status dell'ordine",module,Magento_Authorizenet
 "Test Mode","Modalità test",module,Magento_Authorizenet
 "Gateway URL","URL gateway",module,Magento_Authorizenet
 "Transaction Details URL","Url dettagli transazione",module,Magento_Authorizenet
@@ -531,8 +525,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Revenue","Entrate",module,Magento_Backend
 "Tax","Tassa",module,Magento_Backend
 "Shipping","Spedizione",module,Magento_Backend
-"Images (.gif, .jpg, .png)","Immagini (. gif,. jpg,. png)",module,Magento_Backend
-"Media (.avi, .flv, .swf)","Media (.avi, .FLV, .swf)",module,Magento_Backend
+"Images (.gif, .jpg, .png)","Immagini (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
 "All Files","Tutti i file",module,Magento_Backend
 "Reset to Default","Ripristina predefiniti",module,Magento_Backend
 "All Store Views","Tutte le Viste Negozio",module,Magento_Backend
@@ -912,7 +906,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Custom Admin Path","Percorso Admin personalizzato",module,Magento_Backend
 "You will have to sign in after you save your custom admin path.","Dovrai effettuare l'accesso dopo aver salvato il percorso personalizzato dell'admin.",module,Magento_Backend
 "Security","Sicurezza",module,Magento_Backend
-"Recovery Link Expiration Period (hours)","Periodo di scadenza per il Recupero Link (ore)",module,Magento_Backend
+"Recovery Link Expiration Period (hours)","Periodo di scadenza del link di recupero (ore)",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","Inserire un numero maggiore o uguale a 1 in questo campo.",module,Magento_Backend
 "Add Secret Key to URLs","Aggiungi la chiave segreta agli URL",module,Magento_Backend
 "Login is Case Sensitive","Il login è Case Sensitive",module,Magento_Backend
@@ -1500,16 +1494,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "It is recommended to set this value to ""PayPal"" per store views.","Si consiglia di impostare questo valore su ""PayPal"" per le viste negozio.",module,Magento_Braintree
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Questa funzionalità deve essere abilitata prima di tutto nell'account venditore tramite supporto tecnico PayPal.",module,Magento_Braintree
 "Also affects mini-shopping cart.","Colpisce anche il mini-carrello.",module,Magento_Braintree
-"Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.,module,Magento_Braintree
-The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.,module,Magento_Braintree
-Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,,module,Magento_Braintree
-please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.,module,Magento_Braintree
-The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.,module,Magento_Braintree
-Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,,module,Magento_Braintree
-please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.",module,Magento_Braintree
-"The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters,module,Magento_Braintree
-and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters,module,Magento_Braintree
-and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).",module,Magento_Braintree
+"Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase. The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition. Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected, please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase. The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition. Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected, please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.",module,Magento_Braintree
+"The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).",module,Magento_Braintree
 "The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.",module,Magento_Braintree
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.",module,Magento_Braintree
 "The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
@@ -1695,8 +1681,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Symbols Used in CAPTCHA","Simboli utilizzati nel CAPTCHA",module,Magento_Captcha
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Si prega di utilizzare solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono ammessi spazi o altri caratteri.<br />Caratteri simili (es. ""i"", ""l"", ""1"") diminuiscono la probabilità di un corretto riconoscimento da parte del cliente.",module,Magento_Captcha
 "Case Sensitive","Maiuscole/minuscole",module,Magento_Captcha
-"Enable CAPTCHA on Storefront",",module,Magento_Captcha
-Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti spazi o altri caratteri. <br/> Caratteri con aspetto simile (per esempio ""i"", ""l"", ""1"") diminuiscono la probabilità di riconoscimento corretto dal parte del cliente.                    ",module,Magento_Captcha
+"Enable CAPTCHA on Storefront","Abilita CAPTCHA nel frontend",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Il CAPTCHA per i form ""Crea utente"" e ""Password dimenticata"" è sempre attivato se scelto.",module,Magento_Captcha
 "Please enter the letters from the image","Inserisci le lettere mostrate nell'immagine",module,Magento_Captcha
 "Please type the letters below","Inserisci le lettere qui sotto",module,Magento_Captcha
@@ -1827,6 +1812,8 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "New Attribute","Nuovo attributo",module,Magento_Catalog
 "Type","Tipo",module,Magento_Catalog
 "Attribute Set","Set di attributi",module,Magento_Catalog
+"Status","Status",module,Magento_Catalog
+"Visibility","Visibilità",module,Magento_Catalog
 "Add New Option","Aggiungi nuova opzione",module,Magento_Catalog
 "Import Options","Opzioni di importazione",module,Magento_Catalog
 "Use Default","Usa predefinito",module,Magento_Catalog
@@ -2217,7 +2204,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "This group contains system attributes. Please move system attributes to another group and try again.","Questo gruppo contiene degli attributi di sistema. Spostare gli attributi di sistema in un altro gruppo e riprovare.",module,Magento_Catalog
 "Please select a node.","Per favore seleziona un nodo.",module,Magento_Catalog
 "Please enter a new group name.","Inserisci il nome del nuovo gruppo.",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists.","Un gruppo di attributi denominato ""/nome/"" esiste già.",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists.","Un gruppo di attributi denominato ""/name/"" esiste già.",module,Magento_Catalog
 "Sorry, we're unable to complete this request.","Impossibile completare questa richiesta.",module,Magento_Catalog
 "You can't remove attributes from this attribute set.","Non è possibile rimuovere gli attributi da questo set di attributi.",module,Magento_Catalog
 "Custom Options","Opzioni personalizzate",module,Magento_Catalog
@@ -2300,7 +2287,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "Clear All","Cancella tutto",module,Magento_Catalog
 "Prev","Prec",module,Magento_Catalog
 "Next","Successivo",module,Magento_Catalog
-"We can't find products matching the selection.","Nessun prodotto corrispondete alla selezione è stato trovato.",module,Magento_Catalog
+"We can't find products matching the selection.","Nessun prodotto corrispondente alla selezione è stato trovato.",module,Magento_Catalog
 "Learn More","Scopri di più",module,Magento_Catalog
 "Add to Compare","Aggiungi al confronto",module,Magento_Catalog
 "We found other products you might like!","Abbiamo trovato altri prodotti che ti potrebbero interessare!",module,Magento_Catalog
@@ -2529,7 +2516,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "ID: %1","ID: %1",module,Magento_Catalog
 "Set root category for this store in the <a href=""%1"">configuration</a>.","Impostare categoria di root per questo negozio in <a href=""%1"">configurazione</a>.",module,Magento_Catalog
 "Manage Options (values of your attribute)","Gestisci le opzioni (valori dell'attributo)",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists"".","Un gruppo di attributi denominato ""/ nome /"" esiste già"".",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists"".","Un gruppo di attributi denominato ""/name/"" esiste già"".",module,Magento_Catalog
 "Close panel","Chiudi pannello",module,Magento_Catalog
 "Allow Multiple Boxes for Shipping.","Consenti più scatole per spedizione.",module,Magento_Catalog
 "Ok","Ok",module,Magento_Catalog
@@ -3191,15 +3178,7 @@ Tempo in secondi tra gli aggiornamenti del widget.,module,Magento_Catalog
 "Cache Lifetime (Seconds)","Durata della cache (secondi)",module,Magento_CatalogWidget
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 di default, se non impostato. Per aggiornare immediatamente, cancellare la cache dell'Output HTML dei blocchi.",module,Magento_CatalogWidget
 "Conditions","Condizioni",module,Magento_CatalogWidget
-",module,Magento_CatalogWidget
-Time in seconds between the widget updates.,module,Magento_CatalogWidget
-<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_CatalogWidget
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_CatalogWidget
-",",module,Magento_CatalogWidget
-Tempo in secondi tra gli aggiornamenti del widget.,module,Magento_CatalogWidget
-<br/>Se non impostato, è uguale a 86.400 secondi (24 ore). Per aggiornare immediatamente il widget, andare in Gestione della Cache e selezionare Svuota cache di Output HTML.,module,Magento_CatalogWidget
-<br/>Il widget non mostrerà i prodotti che iniziano a soddisfare le condizioni specificate fino a quando la cache non sarà aggiornata.,module,Magento_CatalogWidget
-",module,Magento_CatalogWidget
+"Time in seconds between the widget updates.<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Tempo in secondi tra gli aggiornamenti del widget.<br/>Se non impostato, è uguale a 86.400 secondi (24 ore). Per aggiornare immediatamente il widget, andare in Gestione della Cache e selezionare Svuota cache di Output HTML.<br/>Il widget non mostrerà i prodotti che iniziano a soddisfare le condizioni specificate fino a quando la cache non sarà aggiornata.",module,Magento_CatalogWidget
 "Shopping Cart","Carrello",module,Magento_Checkout
 "Invalid method: %1","Metodo non valido: %1",module,Magento_Checkout
 "City","Città",module,Magento_Checkout
@@ -3928,52 +3907,26 @@ Tempo in secondi tra gli aggiornamenti del widget.,module,Magento_CatalogWidget
 "* Create and manage company users and teams","* Crea e gestisci utenti e squadre aziendali",module,Magento_Company
 "* Manage user permissions for the store","* Gestisci autorizzazioni utente per lo store",module,Magento_Company
 "* Create and manage company shipping and billing addresses","* Creare e gestire indirizzi aziendali di spedizione e fatturazione",module,Magento_Company
-"You've been added to the <a href=%customer_url>%company_name</a> as the company member.,module,Magento_Company
-Once you enter your account,,module,Magento_Company
-the company's shared resources will be available for you.","Sei stato aggiunto come membro di <a href=%customer_url>%company_name</a>.,module,Magento_Company
-Una volta entrato con il tuo account,,module,Magento_Company
-potrai usufruire delle risorse aziendali condivise.",module,Magento_Company
-"If this is a mistake,,module,Magento_Company
-please contact the company Admin at %company_admin_email.","Se c'è un errore,,module,Magento_Company
-per favore contatta l'amministratore aziendale %company_admin_email.",module,Magento_Company
+"You've been added to the <a href=%customer_url>%company_name</a> as the company member. Once you enter your account, the company's shared resources will be available for you.","Sei stato aggiunto come membro di <a href=%customer_url>%company_name</a>.","Una volta entrato con il tuo account, potrai usufruire delle risorse aziendali condivise.",module,Magento_Company
+"If this is a mistake, please contact the company Admin at %company_admin_email.","Se c'è un errore, per favore contatta l'amministratore aziendale %company_admin_email.",module,Magento_Company
 "Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.","Il tuo account è ora attivo. Puoi usarlo per accedere al <a href=""%customer_url"">sito</a>.",module,Magento_Company
 "Your account is no longer active. You will not be able to use it for login.","Il tuo account non è più attivo. Non puoi più utilizzarlo per accedere.",module,Magento_Company
 "If this is a mistake, please contact the seller.","Se c'è un errore, per favore contatta il venditore.",module,Magento_Company
 "Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Il tuo account è stato disattivato e non puoi più accedere al conto aziendale. Se pensi che ci sia un errore, per favore contatta il tuo manager per maggiori informazioni.",module,Magento_Company
 "A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","Una richiesta di registrazione per un nuovo profilo aziendale è pervenuta dal cliente %customer. L'account è temporaneamente bloccato fino a che non approverai o respingerai l'azienda.",module,Magento_Company
 "Company: %company","Azienda: %company",module,Magento_Company
-"Your company registration request (for the <strong>%company_name</strong>),module,Magento_Company
-has been approved and you have been set as the Company Admin.,module,Magento_Company
-You can now create and manage your company structure.,module,Magento_Company
-Your company members are able to request quotes, create requisition lists,,module,Magento_Company
-and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>),module,Magento_Company
-has been approved and you have been set as the Company Admin.,module,Magento_Company
-You can now create and manage your company structure.,module,Magento_Company
-Your company members are able to request quotes, create requisition lists,,module,Magento_Company
-and use other B2B features.",module,Magento_Company
-"The status of your company <strong>%company_name</strong>,module,Magento_Company
-is now <strong>Active</strong>.,module,Magento_Company
-Once you login, you will be able to place orders on behalf of your company,module,Magento_Company
-and use other B2B features.","The status of your company <strong>%company_name</strong>,module,Magento_Company
-is now <strong>Active</strong>.,module,Magento_Company
-Once you login, you will be able to place orders on behalf of your company,module,Magento_Company
-and use other B2B features.",module,Magento_Company
+"Your company registration request (for the <strong>%company_name</strong>) has been approved and you have been set as the Company Admin. You can now create and manage your company structure. Your company members are able to request quotes, create requisition lists, and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>) has been approved and you have been set as the Company Admin. You can now create and manage your company structure. Your company members are able to request quotes, create requisition lists, and use other B2B features.",module,Magento_Company
+"The status of your company <strong>%company_name</strong> is now <strong>Active</strong>. Once you login, you will be able to place orders on behalf of your company and use other B2B features.","The status of your company <strong>%company_name</strong> is now <strong>Active</strong>. Once you login, you will be able to place orders on behalf of your company and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Il tuo account è stato modificato da Amministratore Aziendale a Utente Standard. Se pensi che vi sia un errore, per favore contatta il tuo manager per maggiori dettagli.",module,Magento_Company
-"%name,","%nome,",module,Magento_Company
+"%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","Sei stato assegnato come Rappresentante alle vendite di %company_name.",module,Magento_Company
 "When you sign in to your account, you will be able to:","Accedendo al tuo account, sarai in grado di:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* Visualizza e gestisci i preventivi aziendali nel pannello di amministrazione",module,Magento_Company
 "* View and edit company profile in Admin Panel","* Visualizza e gestisci il profilo aziendale nel pannello di amministrazione",module,Magento_Company
-"Your company account <strong>%company_name</strong> has been blocked.,module,Magento_Company
-Your company members can continue using the website,,module,Magento_Company
-but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.,module,Magento_Company
-Your company members can continue using the website,,module,Magento_Company
-but they will not be able to place orders.",module,Magento_Company
+"Your company account <strong>%company_name</strong> has been blocked. Your company members can continue using the website, but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked. Your company members can continue using the website, but they will not be able to place orders.",module,Magento_Company
 "If you have any questions, please contact the seller.","Se hai domande ti preghiamo di contattare il venditore.",module,Magento_Company
 "Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.",module,Magento_Company
-"Your company registration request (for the <strong>%company_name</strong>) has been rejected,module,Magento_Company
-for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected,module,Magento_Company
-for the following reason:",module,Magento_Company
+"Your company registration request (for the <strong>%company_name</strong>) has been rejected for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected for the following reason:",module,Magento_Company
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","Questa azione non può essere annullata. Sei sicuro di che voler eliminare questa azienda? Dopo che l'azienda sarà eliminata, tutti i suoi membri verranno disattivati.",module,Magento_Company
 "Delete a Company?","Eliminare un'Azienda?",module,Magento_Company
 "Cancel","Annulla",module,Magento_Company
@@ -4138,9 +4091,7 @@ for the following reason:",module,Magento_Company
 "Invalid value of ""%value"" provided for the %fieldName field.","Il valore ""%value"" fornito per il campo %fieldName non è valido.",module,Magento_CompanyCredit
 "Please enter a valid %1/%2 currency rate.","Per favore inserisci un tasso di cambio valutare %1/%2 valido.",module,Magento_CompanyCredit
 "Invoice created for %1","Fattura creata per %1",module,Magento_CompanyCredit
-"The selected credit currency is not valid.,module,Magento_CompanyCredit
-Customers will not be able to place orders until you update the credit currency.","La valuta selezionata per il credito non è valida.,module,Magento_CompanyCredit
-I clienti non saranno in grado di inserire ordini fintanto che non cambierai la valuta del credito.",module,Magento_CompanyCredit
+"The selected credit currency is not valid. Customers will not be able to place orders until you update the credit currency.","La valuta selezionata per il credito non è valida. I clienti non saranno in grado di inserire ordini fintanto che non cambierai la valuta del credito.",module,Magento_CompanyCredit
 "Store Credit","Credito negozio",module,Magento_CompanyCredit
 "Refund to Company Credit","Rimborsa al credito aziendale",module,Magento_CompanyCredit
 "An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","Una fattura per quantità parziali non può essere emessa in quest'ordine. Per continuare, cambia la quantità inserita con la quantità totale.",module,Magento_CompanyCredit
@@ -4171,17 +4122,13 @@ I clienti non saranno in grado di inserire ordini fintanto che non cambierai la 
 "The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","Il credito aziendale di tutte le aziende selezionate verrà convertito usando il tasso seguente. Questa operazione non può essere annullata.",module,Magento_CompanyCredit
 "Credit allocated to %company_name","Credito assegnato a %company_name",module,Magento_CompanyCredit
 "Dear %name,","Caro %name,",module,Magento_CompanyCredit
-"Your company has been allocated a credit of %available_credit.,module,Magento_CompanyCredit
-You can now use the Payment On Account method to place you orders.","Alla tua azienda è stato assegnato un credito di %available_credit.,module,Magento_CompanyCredit
-Puoi ora usare il metodo di pagamento Mettilo in conto Per eseguire ordini.",module,Magento_CompanyCredit
+"Your company has been allocated a credit of %available_credit. You can now use the Payment On Account method to place you orders.","Alla tua azienda è stato assegnato un credito di %available_credit. Puoi ora usare il metodo di pagamento Mettilo in conto Per eseguire ordini.",module,Magento_CompanyCredit
 "The history of your credit operations is available on the Company Credit page.","La cronologia delle operazioni relative al tuo credito è disponibile sulla pagina Credito Aziendale.",module,Magento_CompanyCredit
 "%company_name account reimbursed","account %company_name rimborsato",module,Magento_CompanyCredit
 "Your company credit account has been reimbursed by %reimbursed_amount.","Il tuo credito aziendale è stato rimborsato per il valore di %reimbursed_amount.",module,Magento_CompanyCredit
 "If you have any questions, please contact the seller.","Se hai domande ti preghiamo di contattare il venditore.",module,Magento_CompanyCredit
 "%company_name credit limit updated","Limite di credito per %company_name aggiornato",module,Magento_CompanyCredit
-"Your credit limit has been updated and is now %available_credit.,module,Magento_CompanyCredit
-Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Il tuo limite di credito è stato aggiornato e ora ammonta a %available_credit.,module,Magento_CompanyCredit
-Il tuo saldo in sospeso, attualmente ammonta a %outstanding_balance. Hai a disposizione %exceed_limit prima di eccedere il limite di credito.",module,Magento_CompanyCredit
+"Your credit limit has been updated and is now %available_credit. Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Il tuo limite di credito è stato aggiornato e ora ammonta a %available_credit. Il tuo saldo in sospeso, attualmente ammonta a %outstanding_balance. Hai a disposizione %exceed_limit prima di eccedere il limite di credito.",module,Magento_CompanyCredit
 "Order %order_id refunded","Ordine %order_id rimborsato",module,Magento_CompanyCredit
 "A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","Un rimborso si %refunded_amount è stato emesso per l'ordine #%order_id. Questo importo è stato riconosciuto sul tuo credito aziendale.",module,Magento_CompanyCredit
 "Order %order_id reverted","Ordine %order_id ripristinato",module,Magento_CompanyCredit
@@ -4222,16 +4169,8 @@ Il tuo saldo in sospeso, attualmente ammonta a %outstanding_balance. Hai a dispo
 "Allow To Exceed Credit Limit","Autorizza ad eccedere il limite di credito",module,Magento_CompanyCredit
 "Reason For Change","Motivo per la modifica",module,Magento_CompanyCredit
 "Amount","Importo",module,Magento_CompanyCredit
-",module,Magento_CompanyCredit
-Limit one PO number per reimburse transaction,module,Magento_CompanyCredit
-",",module,Magento_CompanyCredit
-Limita ad un numero PO per ogni transazione rimborsata,module,Magento_CompanyCredit
-",module,Magento_CompanyCredit
-",module,Magento_CompanyCredit
-Maximum 255 characters are allowed.,module,Magento_CompanyCredit
-",",module,Magento_CompanyCredit
-Sono ammessi al massimo 255 caratteri.,module,Magento_CompanyCredit
-",module,Magento_CompanyCredit
+"Limit one PO number per reimburse transaction","Limita ad un numero PO per ogni transazione rimborsata",module,Magento_CompanyCredit
+"Maximum 255 characters are allowed.","Sono ammessi al massimo 255 caratteri.",module,Magento_CompanyCredit
 "Comment","Commento",module,Magento_CompanyCredit
 "Rate","Aliquota",module,Magento_CompanyCredit
 "Convert Credit","Converti Credito",module,Magento_CompanyCredit
@@ -4492,6 +4431,7 @@ Sono ammessi al massimo 255 caratteri.,module,Magento_CompanyCredit
 "Step 4: Summary","Passo 4: Riepilogo",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).,module,Magento_ConfigurableProduct
 You need to create a simple product for each configuration (Ex: a product for each color).","I prodotti configurabili consentono ai clienti di scegliere tra diverse opzioni (es: colore camicia).                     Devi creare un prodotto semplice per ogni configurazione (es: un prodotto per ogni colore).",module,Magento_ConfigurableProduct
+You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
 "Edit Configurations","Modifica configurazioni",module,Magento_ConfigurableProduct
 "Upload Image","Carica immagine",module,Magento_ConfigurableProduct
 "Upload image","Carica immagine",module,Magento_ConfigurableProduct
@@ -4549,8 +4489,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Configurable product ""%1"" do not have sub-products","Il prodotto configurabile ""%1"" non ha sub-prodotti",module,Magento_ConfigurableProduct
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Seleziona i valori da ogni attributo per includerli in questo prodotto. Ogni combinazione univoca di valori crea uno SKU prodotto univoco.",module,Magento_ConfigurableProduct
 "Step 3: Bulk Images, Price, and Quantity","Passo 3: immagini Bulk, prezzo e quantità",module,Magento_ConfigurableProduct
-"Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>,module,Magento_ConfigurableProduct
-new products will be created. Use this step to customize images and price for your new products.","I nuovi prodotti verranno creati <span class=""new-products-count"" data-bind=""text:countVariations""></span>         in base alle tue selezioni. Usa questo passaggio per personalizzare le immagini ed il prezzo dei nuovi prodotti.",module,Magento_ConfigurableProduct
+"Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span> new products will be created. Use this step to customize images and price for your new products.","I nuovi prodotti verranno creati <span class=""new-products-count"" data-bind=""text:countVariations""></span> in base alle tue selezioni. Usa questo passaggio per personalizzare le immagini ed il prezzo dei nuovi prodotti.",module,Magento_ConfigurableProduct
 "Edit role","Modifica ruolo",module,Magento_ConfigurableProduct
 "Please, select attribute for the section ","Seleziona un attributo per la sezione ",module,Magento_ConfigurableProduct
 "Please fill in the values for the section ","Compila i valori per questa sezione ",module,Magento_ConfigurableProduct
@@ -5088,7 +5027,7 @@ new products will be created. Use this step to customize images and price for yo
 "Tax/VAT number","Partita IVA",module,Magento_Customer
 "Phone Number","Numero di telefono",module,Magento_Customer
 "Welcome to %store_name","Benvenuto a %store_name",module,Magento_Customer
-"%name,","%nome,",module,Magento_Customer
+"%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Benvenuto su %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",module,Magento_Customer
 "Email:","Email:",module,Magento_Customer
@@ -5155,16 +5094,12 @@ new products will be created. Use this step to customize images and price for yo
 "Default Welcome Email","Email di benvenuto predefinita",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Il template email scelto basato su fallback del tema quando è selezionata l'opzione ""Predefinito"".",module,Magento_Customer
 "Default Welcome Email Without Password","Email di benvenuto senza password predefinita",module,Magento_Customer
-"This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />,module,Magento_Customer
-Email template chosen based on theme fallback when ""Default"" option is selected.","Questa email sarà inviata al posto dell'Email di benvenuto predefinita, se un cliente è stato creato senza password.<br/><br/>,module,Magento_Customer
-Il template email scelto è basato sul fallback del tema quando è selezionata l'opzione ""Predefinito"".",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />Email template chosen based on theme fallback when ""Default"" option is selected.","Questa email sarà inviata al posto dell'Email di benvenuto predefinita, se un cliente è stato creato senza password.<br/><br/>Il template email scelto è basato sul fallback del tema quando è selezionata l'opzione ""Predefinito"".",module,Magento_Customer
 "Email Sender","Mittente email",module,Magento_Customer
 "Require Emails Confirmation","Richiede Conferma Email",module,Magento_Customer
 "Confirmation Link Email","Link di conferma",module,Magento_Customer
 "Welcome Email","Email di benvenuto",module,Magento_Customer
-"This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
-Email template chosen based on theme fallback when ""Default"" option is selected.","Questa email sarà inviata al posto dell'Email di benvenuto predefinita, dopo la conferma dell'account.<br/><br/>,module,Magento_Customer
-Il template email scelto è basato sul fallback del tema quando è selezionata l'opzione ""Predefinito"".",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />Email template chosen based on theme fallback when ""Default"" option is selected.","Questa email sarà inviata al posto dell'Email di benvenuto predefinita, dopo la conferma dell'account.<br/><br/>Il template email scelto è basato sul fallback del tema quando è selezionata l'opzione ""Predefinito"".",module,Magento_Customer
 "Generate Human-Friendly Customer ID","Generare ID cliente Human-Friendly",module,Magento_Customer
 "Password Options","Opzioni password",module,Magento_Customer
 "Forgot Email Template","Template email dimenticata",module,Magento_Customer
@@ -5407,7 +5342,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Remove","Elimina",module,Magento_CustomerBalance
 "Refunded to Store Credit","RImborsato al Credito negozio",module,Magento_CustomerBalance
 "Store Credit update","Aggiornamento Credito del Negozio",module,Magento_CustomerBalance
-"%name,","%nome,",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_CustomerBalance
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Abbiamo aggiornato il tuo account <a href=""%store_url""> %store_name</a> e hai un credito che è possibile utilizzare per gli acquisti futuri.",module,Magento_CustomerBalance
 "Your Store Credit balance is now %balance.","Il saldo del credito negozio è ora di %balance.",module,Magento_CustomerBalance
 "Store credit","Credito negozio",module,Magento_CustomerBalance
@@ -6716,7 +6651,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Availability","Disponibilita'",module,Magento_GiftCard
 "In stock","Disponibile",module,Magento_GiftCard
 "You've been sent a gift from %store_name","Ti è stato inviato un regalo da %store_name",module,Magento_GiftCard
-"%name,","%nome,",module,Magento_GiftCard
+"%name,","%name,",module,Magento_GiftCard
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender ti ha inviato una gift card per l'uso su <a href=""%store_url""> %store_name</a> e ora è pronta per essere utilizzata per gli acquisti.",module,Magento_GiftCard
 "Gift Card Codes:","Codici gift card:",module,Magento_GiftCard
 "Gift Card Code:","Codice gift card:",module,Magento_GiftCard
@@ -6854,7 +6789,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Add or remove gift cards","Aggiungi o rimuovi gift card",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Importo gift card applicato all'ordine:",module,Magento_GiftCardAccount
 "You've been sent a gift from %store_name","Ti è stato inviato un regalo da %store_name",module,Magento_GiftCardAccount
-"%name,","%nome,",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftCardAccount
 "You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Hai inviato una gift card per l'uso su %store_name e ora è pronto per essere utilizzato per gli acquisti.",module,Magento_GiftCardAccount
 "Gift Card Code: %code","Codice del buono regalo: %code",module,Magento_GiftCardAccount
 "The card has a balance of %balance and can be used at ","La carta ha un saldo di %balance e può essere utilizzata in ",module,Magento_GiftCardAccount
@@ -7214,7 +7149,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Unit Price","Prezzo unitario",module,Magento_GiftRegistry
 "Add to Cart","Aggiungi al Carrello",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Registro Regali creato a %store_name",module,Magento_GiftRegistry
-"%name,","%nome,",module,Magento_GiftRegistry
+"%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Hai creato correttamente la nuova lista regalo ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Il tuo messaggio della lista regalo",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Ora è possibile aggiungere i prodotti alla tua lista regalo.",module,Magento_GiftRegistry
@@ -7985,11 +7920,7 @@ e.s. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "Please specify the number of products, that will not be divided into subintervals.","Specifica il numero di prodotti che non sarà diviso in intervalli minori.",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block","Posizione dell'attributo nel blocco della navigazione a livelli",module,Magento_LayeredNavigation
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price",module,Magento_LayeredNavigation
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.,module,Magento_LayeredNavigation
-<br>Price is not compatible with <b>'Filterable (no results)'</b> option -,module,Magento_LayeredNavigation
-it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.,module,Magento_LayeredNavigation
-<br>Price is not compatible with <b>'Filterable (no results)'</b> option -,module,Magento_LayeredNavigation
-it will make no affect on Price filter.",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.<br>Price is not compatible with <b>'Filterable (no results)'</b> option - it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.<br>Price is not compatible with <b>'Filterable (no results)'</b> option - it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
 "Admin Actions Log Archive","Archivio log azioni admin",module,Magento_Logging
@@ -8780,19 +8711,13 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 " has been declined by the seller."," è stato rifiutato dal venditore.",module,Magento_NegotiableQuote
 "Reason: %reason.","Motivazione: %reason.",module,Magento_NegotiableQuote
 " expires on "," scade il ",module,Magento_NegotiableQuote
-" after which time you can’t order the items in the quote. After the expiration,,module,Magento_NegotiableQuote
-you’ll have to negotiate the price with the seller again."," in seguito non potrai ordinare gli articoli del preventivo. Dopo la scadenza,,module,Magento_NegotiableQuote
-dovrai concordare nuovamente il prezzo con il venditore.",module,Magento_NegotiableQuote
+" after which time you can’t order the items in the quote. After the expiration, you’ll have to negotiate the price with the seller again."," in seguito non potrai ordinare gli articoli del preventivo. Dopo la scadenza, dovrai concordare nuovamente il prezzo con il venditore.",module,Magento_NegotiableQuote
 "%merchant_name,","%merchant_name,",module,Magento_NegotiableQuote
 "%quote_id","%quote_id",module,Magento_NegotiableQuote
 "Dear %merchantName,","Caro %merchantName,",module,Magento_NegotiableQuote
 "The quote ","Il preventivo ",module,Magento_NegotiableQuote
-" after which time it will be reset to its default expiration period. To extend the,module,Magento_NegotiableQuote
-lifetime of the quote, update its expiration date."," dopo di che verrà reimpostata la sua data di scadenza predefinita. Per estendere la,module,Magento_NegotiableQuote
-durata del preventivo, aggiorna la sua data di scadenza.",module,Magento_NegotiableQuote
-"Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.,module,Magento_NegotiableQuote
-You can set a new expiration date if you wish.","La data di scadenza per il preventivo %quoteName è stata reimpostata, puoi continuare a lavorare sul preventivo.,module,Magento_NegotiableQuote
-Puoi impostare una nuova data di scadenza se lo desideri.",module,Magento_NegotiableQuote
+" after which time it will be reset to its default expiration period. To extend the lifetime of the quote, update its expiration date."," dopo di che verrà reimpostata la sua data di scadenza predefinita. Per estendere la durata del preventivo, aggiorna la sua data di scadenza.",module,Magento_NegotiableQuote
+"Expiration date for the Quote %quoteName has been reset so you can keep working on the quote. You can set a new expiration date if you wish.","La data di scadenza per il preventivo %quoteName è stata reimpostata, puoi continuare a lavorare sul preventivo. Puoi impostare una nuova data di scadenza se lo desideri.",module,Magento_NegotiableQuote
 "Quote ","Preventivo ",module,Magento_NegotiableQuote
 " updated by buyer"," aggiornato dall'acquirente",module,Magento_NegotiableQuote
 "The seller responded to your quote ","Il venditore ha risposto al tuo preventivo ",module,Magento_NegotiableQuote
@@ -8887,9 +8812,7 @@ Puoi impostare una nuova data di scadenza se lo desideri.",module,Magento_Negoti
 "Shared Catalog (or Customer Group)","Catalogo (o Gruppo Cliente) condiviso",module,Magento_NegotiableQuoteSharedCatalog
 "Requested product doesn't exist","Il prodotto richiesto non esiste",module,Magento_NegotiableQuoteSharedCatalog
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Nessun ID Applicazione New Relic configurato, non è è possibile continuare con il report degli eventi Cron",module,Magento_NewRelicReporting
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More,module,Magento_NewRelicReporting
-information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","L'integrazione con New Relic richiede l'agent newrelic-php5 che non è installato.,module,Magento_NewRelicReporting
-Ulteriori informazioni su come installare l'agent è disponibile <a target=""_blank"" href=""%1"">qui</a>.",module,Magento_NewRelicReporting
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","L'integrazione con New Relic richiede l'agent newrelic-php5 che non è installato. Ulteriori informazioni su come installare l'agent è disponibile <a target=""_blank"" href=""%1"">qui</a>.",module,Magento_NewRelicReporting
 "New Relic Reporting Section","Sezione report New Relic",module,Magento_NewRelicReporting
 "New Relic Reporting","Report New Relic",module,Magento_NewRelicReporting
 "General","Generale",module,Magento_NewRelicReporting
@@ -9168,8 +9091,7 @@ Ulteriori informazioni su come installare l'agent è disponibile <a target=""_bl
 "Caching Application","Caching Applicazione",module,Magento_PageCache
 "Varnish Configuration","Configurazione Varnish",module,Magento_PageCache
 "Access list","Elenco accesso",module,Magento_PageCache
-"IPs access list separated with ',' that can purge Varnish configuration for config file generation.,module,Magento_PageCache
-If field is empty default value localhost will be saved.","Elenco accessi IP separati con ',' che possono svuotare la configurazione di Varnish per la generazione del file config.                             Se il campo è vuoto verrà salvato il valore localhost di default.",module,Magento_PageCache
+"IPs access list separated with ',' that can purge Varnish configuration for config file generation. If field is empty default value localhost will be saved.","Elenco accessi IP separati con ',' che possono svuotare la configurazione di Varnish per la generazione del file config.                             Se il campo è vuoto verrà salvato il valore localhost di default.",module,Magento_PageCache
 "Backend host","Host Backend",module,Magento_PageCache
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","Specificare gli host di backend per la generazione del file config. Se il campo è vuoto verrà salvato il valore predefinito localhost.",module,Magento_PageCache
 "Backend port","Porta backend",module,Magento_PageCache
@@ -9298,8 +9220,8 @@ If field is empty default value localhost will be saved.","Elenco accessi IP sep
 "Learn More","Scopri di più",module,Magento_Paypal
 "View Demo","Visualizza Demo",module,Magento_Paypal
 "See terms","Vedere le condizioni",module,Magento_Paypal
-"You will be redirected to the PayPal website.","Verrai reindirizzati al sito di PayPal.",module,Magento_Paypal
-"You will be redirected to the PayPal website when you place an order.","Verrai reindirizzati al sito di PayPal dopo aver confermato l'ordine.",module,Magento_Paypal
+"You will be redirected to the PayPal website.","Verrai reindirizzato al sito di PayPal.",module,Magento_Paypal
+"You will be redirected to the PayPal website when you place an order.","Verrai reindirizzato al sito di PayPal dopo aver confermato l'ordine.",module,Magento_Paypal
 "Incl. Tax","Tasse incl.",module,Magento_Paypal
 "Billing Information","Informazioni di fatturazione",module,Magento_Paypal
 "Shipping Information","Informazioni di spedizione",module,Magento_Paypal
@@ -9720,29 +9642,13 @@ If field is empty default value localhost will be saved.","Elenco accessi IP sep
 "Proxy Port","Porta Proxy",module,Magento_Paypal
 "Enable this Solution","Abilita questa soluzione",module,Magento_Paypal
 "Enable In-Context Checkout Experience","Abilita pratica In-Context Checkout",module,Magento_Paypal
-"See PayPal Feature Support details and list of supported regions,module,Magento_Paypal
-<a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions,module,Magento_Paypal
-<a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.",module,Magento_Paypal
+"See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.",module,Magento_Paypal
 "Merchant Account ID","ID Account Venditore",module,Magento_Paypal
 "Enable PayPal Credit","Abilita PayPal Credit",module,Magento_Paypal
-"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.,module,Magento_Paypal
-You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.,module,Magento_Paypal
-<a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.,module,Magento_Paypal
-You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.,module,Magento_Paypal
-<a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>",module,Magento_Paypal
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;. <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;. <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>",module,Magento_Paypal
 "Sort Order PayPal Credit","Sequenza di ordinamento PayPal Credit",module,Magento_Paypal
 "Advertise PayPal Credit","Advertise PayPal Credit",module,Magento_Paypal
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
 "Publisher ID","ID Publisher",module,Magento_Paypal
 "Required to display a banner","Obbligatorio mostrare un banner",module,Magento_Paypal
 "Get Publisher ID from PayPal","Ottieni ID Publisher da PayPal",module,Magento_Paypal
@@ -9826,17 +9732,7 @@ or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" t
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal consiglia di impostare un altro utente sul vostro conto presso manager.paypal.com, invece di inserire username e password amministrativa qui. Questo migliorerà la sicurezza e preverrà interruzioni di servizio se cambierai la password in seguito. Se non vuoi impostare un utente aggiuntivo, inserisci nuovamente il login venditore qui.",module,Magento_Paypal
 "Test Mode","Modalità test",module,Magento_Paypal
 "Use Proxy","Utilizza Proxy",module,Magento_Paypal
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
 "Basic Settings - PayPal Payments Advanced","Impostazioni di base - PayPal pagamenti avanzati",module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Si consiglia di impostare questo valore a ""Carta di credito o di debito"" per vista negozio.",module,Magento_Paypal
 "CVV Entry is Editable","Il campo CVV è modificabile",module,Magento_Paypal
@@ -9853,17 +9749,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Website Payments Pro Hosted Solution","Website Payments Pro Hosted Solution",module,Magento_Paypal
 "Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accetta pagamenti con un checkout conforme PCI-conforme che mantiene i clienti sul tuo sito. (<u>Include Express Checkout</u>)",module,Magento_Paypal
 "Payments Pro Hosted Solution","Payments Pro Hosted Solution",module,Magento_Paypal
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro Hosted Solution","Impostazioni di base - PayPal Payments Pro Hosted Solution",module,Magento_Paypal
 "Display Express Checkout in the Payment Information step","Visualizza Express Checkout nello step di informazioni di pagamento",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution e Express Checkout",module,Magento_Paypal
@@ -9883,17 +9769,7 @@ or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" t
 "Card Issuer Is Outside The United States","L'emittente della carta è fuori dagli Stati Uniti",module,Magento_Paypal
 "Card Security Code Does Not Match","Il codice di sicurezza della carta non corrisponde",module,Magento_Paypal
 "Payflow Pro and Express Checkout","Payflow Pro e Express Checkout",module,Magento_Paypal
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
 "We can't contact the PayPal gateway.","Impossibile contattare il gateway di PayPal.",module,Magento_Paypal
 "The ordering amount of %1 is pending approval on the payment gateway.","L'importo dell'ordine di %1 è in attesa di approvazione sul gateway di pagamento.",module,Magento_Paypal
 "Ordered amount of %1","Importo ordinato di %1",module,Magento_Paypal
@@ -9923,44 +9799,7 @@ or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" t
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","L'ordine non è stato completato. Devi prima accettare i termini e le condizioni, poi riprova ad effettuare il tuo ordine.",module,Magento_Paypal
 "The payment couldn't be processed at this time. Please try again later.","The payment couldn't be processed at this time. Please try again later.",module,Magento_Paypal
 "The verification transaction can't be voided. ","The verification transaction can't be voided. ",module,Magento_Paypal
-"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.,module,Magento_Paypal
-You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.,module,Magento_Paypal
-<a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.,module,Magento_Paypal
-You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.,module,Magento_Paypal
-<a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>",module,Magento_Paypal
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>,module,Magento_Paypal
-<strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,module,Magento_Paypal
-from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.,module,Magento_Paypal
-Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,module,Magento_Paypal
-The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,module,Magento_Paypal
-or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;. <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;. <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>",module,Magento_Paypal
 "Vault enabled","Deposito abilitato",module,Magento_Paypal
 "Gold","Gold",module,Magento_Paypal
 "Blue","Blue",module,Magento_Paypal
@@ -9998,11 +9837,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Mini Cart","Mini Cart",module,Magento_Paypal
 "Features","Features",module,Magento_Paypal
 "Disable Funding Options","Disable Funding Options",module,Magento_Paypal
-"PayPal will automatically display each enabled funding option to eligible buyers.,module,Magento_Paypal
-For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is,module,Magento_Paypal
-offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.,module,Magento_Paypal
-For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is,module,Magento_Paypal
-offered and the currency offered by the merchant is USD.",module,Magento_Paypal
+"PayPal will automatically display each enabled funding option to eligible buyers. For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers. For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Not you?","Non sei tu?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","Il tuo carrello è stato aggiornato con i nuovi prezzi.",module,Magento_Persistent
 "Welcome, %1!","Benvenuto, %1!",module,Magento_Persistent
@@ -10054,7 +9889,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Product alerts Cron error","Notificche prodotto Errore Cron",module,Magento_ProductAlert
 "Product alerts cron warnings","Avvisi notifiche prodotto cron",module,Magento_ProductAlert
 "Products price changed alert","Notifica cambiamento prezzo prodotti",module,Magento_ProductAlert
-"%name,","%nome,",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
 "Products back in stock alert","Notifica di Prodotto ritornato disponibile in Stock",module,Magento_ProductAlert
 "Product Alerts","Avvisi prodotto",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Consenti avviso quando il prezzo del prodotto cambia",module,Magento_ProductAlert
@@ -10166,8 +10001,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "This is the wrong quote item id to update configuration.","Questo è un id elemento del preventivo errato per aggiornare la configurazione.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","Questo metodo di spedizione non è disponibile. Per utilizzare questo metodo di spedizione, vi preghiamo di contattarci.",module,Magento_Quote
 "The address model is not defined.","Il modello di indirizzo non è definito.",module,Magento_Quote
-"The address total model should be extended from,module,Magento_Quote
-\Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Il modello di indirizzo totale dovrebbe essere esteso da \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
+"The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Il modello di indirizzo totale dovrebbe essere esteso da \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.",module,Magento_Quote
 "Grand Total","Totale complessivo",module,Magento_Quote
 "Shipping & Handling (%1)","Spedizione e gestione (%1)",module,Magento_Quote
 "Shipping & Handling","Spedizione e gestione",module,Magento_Quote
@@ -10293,240 +10127,24 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "An error occurred while logging process.","Si è verificato un errore durante il salvataggio del log.",module,Magento_ReleaseNotification
 "Release Notification","Rilascia Notifica",module,Magento_ReleaseNotification
 "What’s new with Magento 2.2.4","Cosa c'è di nuovo in Magento 2.2.4",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>,module,Magento_ReleaseNotification
-<br />,module,Magento_ReleaseNotification
-<div class=""trusted-payments-highlight"">,module,Magento_ReleaseNotification
-<h3>Trusted Payment Options</h3>,module,Magento_ReleaseNotification
-<p>Online or on the go, your shoppers can easily purchase in a familiar, trusted way with Amazon Pay.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""flexible-payments-highlight"">,module,Magento_ReleaseNotification
-<h3>Flexible Payment Terms</h3>,module,Magento_ReleaseNotification
-<p>Increase sales by providing shoppers with the flexibility to pay now, later, or in installments using Klarna&#8217;s integrated payment option.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""tax-automation-highlight"">,module,Magento_ReleaseNotification
-<h3>Sales and Use Tax Automation</h3>,module,Magento_ReleaseNotification
-<p>Merchants can now automatically perform instant and accurate sales tax calculations on shopping cart items with Vertex Cloud.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>,module,Magento_ReleaseNotification
-",",module,Magento_ReleaseNotification
-<p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>,module,Magento_ReleaseNotification
-<br />,module,Magento_ReleaseNotification
-<div class=""trusted-payments-highlight"">,module,Magento_ReleaseNotification
-<h3>Trusted Payment Options</h3>,module,Magento_ReleaseNotification
-<p>Online or on the go, your shoppers can easily purchase in a familiar, trusted way with Amazon Pay.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""flexible-payments-highlight"">,module,Magento_ReleaseNotification
-<h3>Flexible Payment Terms</h3>,module,Magento_ReleaseNotification
-<p>Increase sales by providing shoppers with the flexibility to pay now, later, or in installments using Klarna&#8217;s integrated payment option.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""tax-automation-highlight"">,module,Magento_ReleaseNotification
-<h3>Sales and Use Tax Automation</h3>,module,Magento_ReleaseNotification
-<p>Merchants can now automatically perform instant and accurate sales tax calculations on shopping cart items with Vertex Cloud.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p><br /><div class=""trusted-payments-highlight""><h3>Trusted Payment Options</h3><p>Online or on the go, your shoppers can easily purchase in a familiar, trusted way with Amazon Pay.</p></div><div class=""flexible-payments-highlight""><h3>Flexible Payment Terms</h3><p>Increase sales by providing shoppers with the flexibility to pay now, later, or in installments using Klarna&#8217;s integrated payment option.</p></div><div class=""tax-automation-highlight""><h3>Sales and Use Tax Automation</h3><p>Merchants can now automatically perform instant and accurate sales tax calculations on shopping cart items with Vertex Cloud.</p></div><p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>","<p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p><br /><div class=""trusted-payments-highlight""><h3>Trusted Payment Options</h3><p>Online or on the go, your shoppers can easily purchase in a familiar, trusted way with Amazon Pay.</p></div><div class=""flexible-payments-highlight""><h3>Flexible Payment Terms</h3><p>Increase sales by providing shoppers with the flexibility to pay now, later, or in installments using Klarna&#8217;s integrated payment option.</p></div><div class=""tax-automation-highlight""><h3>Sales and Use Tax Automation</h3><p>Merchants can now automatically perform instant and accurate sales tax calculations on shopping cart items with Vertex Cloud.</p></div><p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>",module,Magento_ReleaseNotification
 "Trusted Payment Options","Opzioni di pagamento affidabili",module,Magento_ReleaseNotification
-"<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>,module,Magento_ReleaseNotification
-<li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li>,module,Magento_ReleaseNotification
-<li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>,module,Magento_ReleaseNotification
-<li><span>Available across platforms and devices, in the home and on the go.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-","<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>,module,Magento_ReleaseNotification
-<li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li>,module,Magento_ReleaseNotification
-<li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>,module,Magento_ReleaseNotification
-<li><span>Available across platforms and devices, in the home and on the go.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p><ul><li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li><li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li><li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li><li><span>Available across platforms and devices, in the home and on the go.</span></li></ul>","<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p><ul><li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li><li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li><li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li><li><span>Available across platforms and devices, in the home and on the go.</span></li></ul>",module,Magento_ReleaseNotification
 "Flexible Payment Terms","Flexible Payment Terms",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li>,module,Magento_ReleaseNotification
-<li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li>,module,Magento_ReleaseNotification
-<li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li>,module,Magento_ReleaseNotification
-<li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li>,module,Magento_ReleaseNotification
-<li><span>Fast and easy setup, right from the Magento Admin.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",",module,Magento_ReleaseNotification
-<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li>,module,Magento_ReleaseNotification
-<li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li>,module,Magento_ReleaseNotification
-<li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li>,module,Magento_ReleaseNotification
-<li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li>,module,Magento_ReleaseNotification
-<li><span>Fast and easy setup, right from the Magento Admin.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p><ul><li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li><li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li><li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li><li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li><li><span>Fast and easy setup, right from the Magento Admin.</span></li></ul>","<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p><ul><li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li><li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li><li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li><li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li><li><span>Fast and easy setup, right from the Magento Admin.</span></li></ul>",module,Magento_ReleaseNotification
 "Sales and Use Tax Automation","Sales and Use Tax Automation",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li>,module,Magento_ReleaseNotification
-<li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li>,module,Magento_ReleaseNotification
-<li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li>,module,Magento_ReleaseNotification
-<li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li>,module,Magento_ReleaseNotification
-<li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",",module,Magento_ReleaseNotification
-<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li>,module,Magento_ReleaseNotification
-<li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li>,module,Magento_ReleaseNotification
-<li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li>,module,Magento_ReleaseNotification
-<li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li>,module,Magento_ReleaseNotification
-<li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p><ul><li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li><li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li><li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li><li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li><li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li></ul>","<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p><ul><li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li><li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li><li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li><li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li><li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li></ul>",module,Magento_ReleaseNotification
 "What's new with Magento 2.2.2","What's new with Magento 2.2.2",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p>Magento 2.2.2 offers advanced new features, including:</p>,module,Magento_ReleaseNotification
-<br />,module,Magento_ReleaseNotification
-<div class=""analytics-highlight"">,module,Magento_ReleaseNotification
-<h3>Advanced Reporting</h3>,module,Magento_ReleaseNotification
-<p>Gain valuable insights through a dynamic suite of product, order, and customer reports,,module,Magento_ReleaseNotification
-powered by Magento Business Intelligence.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""instant-purchase-highlight"">,module,Magento_ReleaseNotification
-<h3>Instant Purchase</h3>,module,Magento_ReleaseNotification
-<p>Simplify ordering and boost conversion rates by allowing your customers to use stored,module,Magento_ReleaseNotification
-payment and shipping information to skip tedious checkout steps.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""email-marketing-highlight"">,module,Magento_ReleaseNotification
-<h3>Email Marketing Automation</h3>,module,Magento_ReleaseNotification
-<p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by,module,Magento_ReleaseNotification
-your Magento store's live data.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<p>Release notes and additional details can be found at,module,Magento_ReleaseNotification
-<a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.,module,Magento_ReleaseNotification
-</p>,module,Magento_ReleaseNotification
-",",module,Magento_ReleaseNotification
-<p>Magento 2.2.2 offers advanced new features, including:</p>,module,Magento_ReleaseNotification
-<br />,module,Magento_ReleaseNotification
-<div class=""analytics-highlight"">,module,Magento_ReleaseNotification
-<h3>Advanced Reporting</h3>,module,Magento_ReleaseNotification
-<p>Gain valuable insights through a dynamic suite of product, order, and customer reports,,module,Magento_ReleaseNotification
-powered by Magento Business Intelligence.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""instant-purchase-highlight"">,module,Magento_ReleaseNotification
-<h3>Instant Purchase</h3>,module,Magento_ReleaseNotification
-<p>Simplify ordering and boost conversion rates by allowing your customers to use stored,module,Magento_ReleaseNotification
-payment and shipping information to skip tedious checkout steps.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<div class=""email-marketing-highlight"">,module,Magento_ReleaseNotification
-<h3>Email Marketing Automation</h3>,module,Magento_ReleaseNotification
-<p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by,module,Magento_ReleaseNotification
-your Magento store's live data.</p>,module,Magento_ReleaseNotification
-</div>,module,Magento_ReleaseNotification
-<p>Release notes and additional details can be found at,module,Magento_ReleaseNotification
-<a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.,module,Magento_ReleaseNotification
-</p>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p>Magento 2.2.2 offers advanced new features, including:</p><br /><div class=""analytics-highlight""><h3>Advanced Reporting</h3><p>Gain valuable insights through a dynamic suite of product, order, and customer reports, powered by Magento Business Intelligence.</p></div><div class=""instant-purchase-highlight""><h3>Instant Purchase</h3><p>Simplify ordering and boost conversion rates by allowing your customers to use stored payment and shipping information to skip tedious checkout steps.</p></div><div class=""email-marketing-highlight""><h3>Email Marketing Automation</h3><p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by your Magento store's live data.</p></div><p>Release notes and additional details can be found at <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.</p>","<p>Magento 2.2.2 offers advanced new features, including:</p><br /><div class=""analytics-highlight""><h3>Advanced Reporting</h3><p>Gain valuable insights through a dynamic suite of product, order, and customer reports, powered by Magento Business Intelligence.</p></div><div class=""instant-purchase-highlight""><h3>Instant Purchase</h3><p>Simplify ordering and boost conversion rates by allowing your customers to use stored payment and shipping information to skip tedious checkout steps.</p></div><div class=""email-marketing-highlight""><h3>Email Marketing Automation</h3><p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by your Magento store's live data.</p></div><p>Release notes and additional details can be found at <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.</p>",module,Magento_ReleaseNotification
 "Advanced Reporting","Rapporti Avanzati",module,Magento_ReleaseNotification
-"<p>Advanced Reporting,module,Magento_ReleaseNotification
-provides you with a dynamic suite of reports with rich insights about the health of your,module,Magento_ReleaseNotification
-business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer,module,Magento_ReleaseNotification
-data for such purposes as benchmarking, improving our products and services, and providing you,module,Magento_ReleaseNotification
-with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced,module,Magento_ReleaseNotification
-Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>,module,Magento_ReleaseNotification
-and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms,module,Magento_ReleaseNotification
-of Service</a>. You may opt out at any time from the Stores Configuration page.</p>,module,Magento_ReleaseNotification
-","<p>Advanced Reporting,module,Magento_ReleaseNotification
-provides you with a dynamic suite of reports with rich insights about the health of your,module,Magento_ReleaseNotification
-business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer,module,Magento_ReleaseNotification
-data for such purposes as benchmarking, improving our products and services, and providing you,module,Magento_ReleaseNotification
-with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced,module,Magento_ReleaseNotification
-Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>,module,Magento_ReleaseNotification
-and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms,module,Magento_ReleaseNotification
-of Service</a>. You may opt out at any time from the Stores Configuration page.</p>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p>Advanced Reporting provides you with a dynamic suite of reports with rich insights about the health of your business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer data for such purposes as benchmarking, improving our products and services, and providing you with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a> and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms of Service</a>. You may opt out at any time from the Stores Configuration page.</p>","<p>Advanced Reporting provides you with a dynamic suite of reports with rich insights about the health of your business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer data for such purposes as benchmarking, improving our products and services, and providing you with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a> and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms of Service</a>. You may opt out at any time from the Stores Configuration page.</p>",module,Magento_ReleaseNotification
 "Instant Purchase","Acquisto immediato",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.,module,Magento_ReleaseNotification
-Logged-in customers can use previously-stored payment credentials and shipping information,module,Magento_ReleaseNotification
-to skip steps, making the process faster and easier, especially for mobile shoppers. Key,module,Magento_ReleaseNotification
-features include:,module,Magento_ReleaseNotification
-</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Configurable “Instant Purchase” button to place orders.</span></li>,module,Magento_ReleaseNotification
-<li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit,module,Magento_ReleaseNotification
-Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>,module,Magento_ReleaseNotification
-<li><span>Shipping to the customer’s default address using the lowest cost, available shipping,module,Magento_ReleaseNotification
-method.</span></li>,module,Magento_ReleaseNotification
-<li><span>Ability for developers to customize the Instant Purchase business logic to meet,module,Magento_ReleaseNotification
-merchant needs.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",",module,Magento_ReleaseNotification
-<p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.,module,Magento_ReleaseNotification
-Logged-in customers can use previously-stored payment credentials and shipping information,module,Magento_ReleaseNotification
-to skip steps, making the process faster and easier, especially for mobile shoppers. Key,module,Magento_ReleaseNotification
-features include:,module,Magento_ReleaseNotification
-</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>Configurable “Instant Purchase” button to place orders.</span></li>,module,Magento_ReleaseNotification
-<li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit,module,Magento_ReleaseNotification
-Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>,module,Magento_ReleaseNotification
-<li><span>Shipping to the customer’s default address using the lowest cost, available shipping,module,Magento_ReleaseNotification
-method.</span></li>,module,Magento_ReleaseNotification
-<li><span>Ability for developers to customize the Instant Purchase business logic to meet,module,Magento_ReleaseNotification
-merchant needs.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option. Logged-in customers can use previously-stored payment credentials and shipping information to skip steps, making the process faster and easier, especially for mobile shoppers. Key features include:</p><ul><li><span>Configurable “Instant Purchase” button to place orders.</span></li><li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit Card, Braintree PayPal, and PayPal Payflow Pro.</span></li><li><span>Shipping to the customer’s default address using the lowest cost, available shipping method.</span></li><li><span>Ability for developers to customize the Instant Purchase business logic to meet merchant needs.</span></li></ul>","<p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option. Logged-in customers can use previously-stored payment credentials and shipping information to skip steps, making the process faster and easier, especially for mobile shoppers. Key features include:</p><ul><li><span>Configurable “Instant Purchase” button to place orders.</span></li><li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit Card, Braintree PayPal, and PayPal Payflow Pro.</span></li><li><span>Shipping to the customer’s default address using the lowest cost, available shipping method.</span></li><li><span>Ability for developers to customize the Instant Purchase business logic to meet merchant needs.</span></li></ul>",module,Magento_ReleaseNotification
 "Email Marketing Automation","Email Marketing Automation",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p>Unlock an unparalleled level of insight and control of your eCommerce marketing with,module,Magento_ReleaseNotification
-dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer,module,Magento_ReleaseNotification
-ensures every customer’s journey is captured, segmented, and personalized, enabling you to,module,Magento_ReleaseNotification
-deliver customer-centric campaigns that beat your results over and over again. Benefits include:,module,Magento_ReleaseNotification
-</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>No obligation 14-day trial.</span></li>,module,Magento_ReleaseNotification
-<li><span>Automation campaigns using your live Magento store data that drive revenue,,module,Magento_ReleaseNotification
-including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>,module,Magento_ReleaseNotification
-<li><span>Built-in solution for transactional emails.</span></li>,module,Magento_ReleaseNotification
-<li><span>Telephone support and advice from marketing experts included.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",",module,Magento_ReleaseNotification
-<p>Unlock an unparalleled level of insight and control of your eCommerce marketing with,module,Magento_ReleaseNotification
-dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer,module,Magento_ReleaseNotification
-ensures every customer’s journey is captured, segmented, and personalized, enabling you to,module,Magento_ReleaseNotification
-deliver customer-centric campaigns that beat your results over and over again. Benefits include:,module,Magento_ReleaseNotification
-</p>,module,Magento_ReleaseNotification
-<ul>,module,Magento_ReleaseNotification
-<li><span>No obligation 14-day trial.</span></li>,module,Magento_ReleaseNotification
-<li><span>Automation campaigns using your live Magento store data that drive revenue,,module,Magento_ReleaseNotification
-including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>,module,Magento_ReleaseNotification
-<li><span>Built-in solution for transactional emails.</span></li>,module,Magento_ReleaseNotification
-<li><span>Telephone support and advice from marketing experts included.</span></li>,module,Magento_ReleaseNotification
-</ul>,module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
+"<p>Unlock an unparalleled level of insight and control of your eCommerce marketing with dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer ensures every customer’s journey is captured, segmented, and personalized, enabling you to deliver customer-centric campaigns that beat your results over and over again. Benefits include:</p><ul><li><span>No obligation 14-day trial.</span></li><li><span>Automation campaigns using your live Magento store data that drive revenue, including abandoned cart, abandoned browse, product replenishment, and many more.</span></li><li><span>Built-in solution for transactional emails.</span></li><li><span>Telephone support and advice from marketing experts included.</span></li></ul>","<p>Unlock an unparalleled level of insight and control of your eCommerce marketing with dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer ensures every customer’s journey is captured, segmented, and personalized, enabling you to deliver customer-centric campaigns that beat your results over and over again. Benefits include:</p><ul><li><span>No obligation 14-day trial.</span></li><li><span>Automation campaigns using your live Magento store data that drive revenue, including abandoned cart, abandoned browse, product replenishment, and many more.</span></li><li><span>Built-in solution for transactional emails.</span></li><li><span>Telephone support and advice from marketing experts included.</span></li></ul>",module,Magento_ReleaseNotification
 "Sorry, we had a problem loading our “What’s new” content.","Sorry, we had a problem loading our “What’s new” content.",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p>We’ll try to show it again the next time you sign in to Magento Admin.</p>,module,Magento_ReleaseNotification
-<p>To learn more about new features, see our latest Release Notes in,module,Magento_ReleaseNotification
-<a href=""http://devdocs.magento.com/magento-release-information.html"",module,Magento_ReleaseNotification
-target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotification
-</p>",",module,Magento_ReleaseNotification
-<p>We’ll try to show it again the next time you sign in to Magento Admin.</p>,module,Magento_ReleaseNotification
-<p>To learn more about new features, see our latest Release Notes in,module,Magento_ReleaseNotification
-<a href=""http://devdocs.magento.com/magento-release-information.html"",module,Magento_ReleaseNotification
-target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotification
-</p>",module,Magento_ReleaseNotification
-",module,Magento_ReleaseNotification
-<p>We’ll try to show it again the next time you sign in to Magento Admin.</p>,module,Magento_ReleaseNotification
-<p>To learn more about new features, see our latest Release Notes in,module,Magento_ReleaseNotification
-<a href=""https://devdocs.magento.com/magento-release-information.html"",module,Magento_ReleaseNotification
-target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotification
-</p>",",module,Magento_ReleaseNotification
-<p>We’ll try to show it again the next time you sign in to Magento Admin.</p>,module,Magento_ReleaseNotification
-<p>To learn more about new features, see our latest Release Notes in,module,Magento_ReleaseNotification
-<a href=""https://devdocs.magento.com/magento-release-information.html"",module,Magento_ReleaseNotification
-target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotification
-</p>",module,Magento_ReleaseNotification
+"<p>We’ll try to show it again the next time you sign in to Magento Admin.</p><p>To learn more about new features, see our latest Release Notes in <a href=""http://devdocs.magento.com/magento-release-information.html"" target=""_blank"">DevDocs' Release Information</a>.</p>","<p>We’ll try to show it again the next time you sign in to Magento Admin.</p><p>To learn more about new features, see our latest Release Notes in <a href=""http://devdocs.magento.com/magento-release-information.html"" target=""_blank"">DevDocs' Release Information</a>.</p>",module,Magento_ReleaseNotification
+"<p>We’ll try to show it again the next time you sign in to Magento Admin.</p><p>To learn more about new features, see our latest Release Notes in <a href=""https://devdocs.magento.com/magento-release-information.html"" target=""_blank"">DevDocs' Release Information</a>.</p>","<p>We’ll try to show it again the next time you sign in to Magento Admin.</p><p>To learn more about new features, see our latest Release Notes in <a href=""https://devdocs.magento.com/magento-release-information.html"" target=""_blank"">DevDocs' Release Information</a>.</p>",module,Magento_ReleaseNotification
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Questa regola è assegnata a %1 regola/e) di promemoria automatica. Eliminando questa(e) regola(e) verrà automaticamente annullata(e) l'assegnazione su di essa(e).",module,Magento_Reminder
 "Automated Email Marketing Reminder Rules","Regole marketing email di promemoria automatiche",module,Magento_Reminder
 "Add New Rule","Aggiungi nuova regola",module,Magento_Reminder
@@ -10574,8 +10192,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rule Title for All Store Views","Titolo regola per tutte le viste negozio",module,Magento_Reminder
 "Rule Description for All Store Views","Descrizione regola per tutte le viste negozio",module,Magento_Reminder
 "Titles and Descriptions Per Store View","Titoli e descrizioni Per vista negozio",module,Magento_Reminder
-"Overrides default titles and descriptions. Note that if an email template is not specified for this store view, the respective variable values will be deleted.",",module,Magento_Reminder
-Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verranno eliminati i rispettivi valori delle variabili.",module,Magento_Reminder
+"Overrides default titles and descriptions. Note that if an email template is not specified for this store view, the respective variable values will be deleted.","Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verranno eliminati i rispettivi valori delle variabili.",module,Magento_Reminder
 "Rule Information","Informazioni sulle regole",module,Magento_Reminder
 "Emails and Labels","Email ed etichette",module,Magento_Reminder
 "Matched Customers","Clienti corrispondenti",module,Magento_Reminder
@@ -10659,7 +10276,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Validate error 2","Valida errore 2",module,Magento_Reminder
 "text","testo",module,Magento_Reminder
 "Promotion reminder at %store_name","Promemoria Promozione a %store_name",module,Magento_Reminder
-"%name,","%nome,",module,Magento_Reminder
+"%name,","%name,",module,Magento_Reminder
 "Hurry up to take advantage of our %promotion_name promotion!","Affrettatevi per approfittare della nostra promozione %promotion_name!",module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","Affrettatevi per approfittare di questa promozione!",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Per approfittare della promozione è necessario accedere alla <a href=""%account_url"">%store_name</a> e applicare il coupon ""%coupon_code"" nel carrello.",module,Magento_Reminder
@@ -11281,7 +10898,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Email Notification Settings","Impostazioni di notifica email",module,Magento_Reward
 "Save Subscription Settings","Salvare le impostazioni di iscrizione",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","Saldo Punti Fedeltà aggiornato a %store_name",module,Magento_Reward
-"%name,","%nome,",module,Magento_Reward
+"%name,","%name,",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","Hai bisogno di %points_balance punti che possono essere utilizzati nel nostro negozio:",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url""> Cancellati</a> da queste notifiche.",module,Magento_Reward
 "Reward Points Expiry Warning at %store_name","Avviso di scadenza Punti Fedeltà presso %store_name",module,Magento_Reward
@@ -11663,7 +11280,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "New Comment for RMA #%increment_id","Nuovo commento per l'RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","Il cliente %name ha lasciato un nuovo commento:",module,Magento_Rma
 "%store_name : New Return #%increment_id","%store_name: Nuovo ritorno #%increment_id",module,Magento_Rma
-"%name,","%nome,",module,Magento_Rma
+"%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","La richiesta di reso è stata aggiornata. Vedere di seguito.",module,Magento_Rma
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","È possibile controllare lo stato del tuo reso <a href=""%account_url""> accedendo al tuo account</a> o <a href=""%form_url""> utilizzando il tuo numero di ordine</a>.",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Se avete domande, non esitate a contattarci al <a href=""mailto:%support_email""> %support_email</a> o per telefono al %store_phone",module,Magento_Rma
@@ -12227,8 +11844,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Cannot save comment:\n%1","Non posso salvare il commento:\n%1",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","Non abbiamo abbastanza informazioni per salvare l'ID transazione genitore.",module,Magento_Sales
 "We cannot create an empty shipment.","Non è possibile creare una spedizione vuota.",module,Magento_Sales
-"Cannot save track:\n%1","Non è possibile salvare la traccia:,module,Magento_Sales
-%1",module,Magento_Sales
+"Cannot save track:\n%1","Non è possibile salvare la traccia:\n%1",module,Magento_Sales
 "Cannot unassign status from state","Non è possibile annullare l'assegnazione dello status dallo stato",module,Magento_Sales
 "New Orders","Nuovi ordini",module,Magento_Sales
 "Order #%1 created at %2","Ordine #%1 creato su %2",module,Magento_Sales
@@ -12424,7 +12040,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Add to Cart","Aggiungi al Carrello",module,Magento_Sales
 "Search","Cerca",module,Magento_Sales
 "Credit memo for your %store_name order","Nota Credito per il tuo ordine su %store_name",module,Magento_Sales
-"%name,","%nome,",module,Magento_Sales
+"%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo status del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
@@ -12846,17 +12462,10 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Websites","Website",module,Magento_SalesRule
 "Customer Groups","Gruppi cliente",module,Magento_SalesRule
 "Coupon","Coupon",module,Magento_SalesRule
-",module,Magento_SalesRule
-If you select and save the rule you will be able to generate multiple coupon codes.,module,Magento_SalesRule
-",",module,Magento_SalesRule
-Se si seleziona e salva la regola sarai in grado di generare molteplici codici coupon.                ",module,Magento_SalesRule
+"If you select and save the rule you will be able to generate multiple coupon codes.","Se si seleziona e salva la regola sarai in grado di generare molteplici codici coupon.                ",module,Magento_SalesRule
 "Use Auto Generation","Usa la generazione automatica",module,Magento_SalesRule
 "Uses per Coupon","Usi per Coupon",module,Magento_SalesRule
-",module,Magento_SalesRule
-Usage limit enforced for logged in customers only.,module,Magento_SalesRule
-",",module,Magento_SalesRule
-Limite di utilizzo applicato solo per i clienti loggati.,module,Magento_SalesRule
-",module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","Limite di utilizzo applicato solo per i clienti loggati.",module,Magento_SalesRule
 "Uses per Customer","Usi per cliente",module,Magento_SalesRule
 "From","Dal",module,Magento_SalesRule
 "To","Al",module,Magento_SalesRule
@@ -12880,14 +12489,8 @@ Limite di utilizzo applicato solo per i clienti loggati.,module,Magento_SalesRul
 "Payment Method","Metodo di pagamento",module,Magento_SalesRule
 "Your coupon was successfully removed","Your coupon was successfully removed",module,Magento_SalesRule
 "Your coupon was successfully applied","Your coupon was successfully applied",module,Magento_SalesRule
-",module,Magento_SalesRule
-If you select and save the rule you will be able to generate multiple coupon codes.,module,Magento_SalesRule
-",",module,Magento_SalesRule
-Se si seleziona e salva la regola sarai in grado di generare molteplici codici coupon.                    ",module,Magento_SalesRule
-",module,Magento_SalesRule
-Usage limit enforced for logged in customers only.,module,Magento_SalesRule
-",",module,Magento_SalesRule
-Limite di utilizzo applicato solo per i clienti loggati.                    ",module,Magento_SalesRule
+"If you select and save the rule you will be able to generate multiple coupon codes.","Se si seleziona e salva la regola sarai in grado di generare molteplici codici coupon.",module,Magento_SalesRule
+"Usage limit enforced for logged in customers only.","Limite di utilizzo applicato solo per i clienti loggati.",module,Magento_SalesRule
 "Category (Parent only)","Category (Parent only)",module,Magento_SalesRule
 "Category (Children Only)","Category (Children Only)",module,Magento_SalesRule
 "(Parent Only)","(Parent Only)",module,Magento_SalesRule
@@ -13254,7 +12857,7 @@ Limite di utilizzo applicato solo per i clienti loggati.                    ",mo
 "Send Email","Invia email",module,Magento_SendFriend
 "Back","Indietro",module,Magento_SendFriend
 "Welcome, %name","Benvenuto, %name",module,Magento_SendFriend
-"%name,","%nome,",module,Magento_SendFriend
+"%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name vuole condividere questo prodotto con te:",module,Magento_SendFriend
 "Message from %sender_name:","Messaggio da %sender_name:",module,Magento_SendFriend
 "Email to a Friend","Segnala ad un amico",module,Magento_SendFriend
@@ -13358,18 +12961,8 @@ Limite di utilizzo applicato solo per i clienti loggati.                    ",mo
 "Delete ""${ $.$data.name }""","Elimina ""${ $.$data.name }""",module,Magento_SharedCatalog
 "Catalog and Tier Price","Catalogo e Scaglioni di Prezzo",module,Magento_SharedCatalog
 "Group or Catalog","Gruppo e Catalogo",module,Magento_SharedCatalog
-"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in,module,Magento_SharedCatalog
-Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.,module,Magento_SharedCatalog
-Otherwise, the categories and products you're configuring in shared catalogs will,module,Magento_SharedCatalog
-not be restricted to customers.","Devi abilitare il <a href=""%1"" data-role=""notification-dialog"">catalogo condiviso</a> Dentro,module,Magento_SharedCatalog
-Negozi -> Configurazioni -> Funzioni B2B per usare il catalogo condiviso sullo storefront.,module,Magento_SharedCatalog
-Altrimenti, le categorie ed i prodotti che stai configurando nel catalogo condiviso non,module,Magento_SharedCatalog
-saranno limitati ai clienti.",module,Magento_SharedCatalog
-"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features,module,Magento_SharedCatalog
-to use the shared catalogs in the storefront. Otherwise, the categories and products you're,module,Magento_SharedCatalog
-configuring in shared catalogs will not be restricted to customers.","Devi abilitare il catalogo condiviso Dentro Negozi -> Configurazioni -> Funzioni B2B,module,Magento_SharedCatalog
-per usare il catalogo condiviso sullo storefront. Altrimenti, le categorie ed i prodotti che stai,module,Magento_SharedCatalog
-configurando nel catalogo condiviso non saranno limitati ai clienti.",module,Magento_SharedCatalog
+"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront. Otherwise, the categories and products you're configuring in shared catalogs will not be restricted to customers.","Devi abilitare il <a href=""%1"" data-role=""notification-dialog"">catalogo condiviso</a> Dentro Negozi -> Configurazioni -> Funzioni B2B per usare il catalogo condiviso sullo storefront. Altrimenti, le categorie ed i prodotti che stai configurando nel catalogo condiviso non saranno limitati ai clienti.",module,Magento_SharedCatalog
+"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront. Otherwise, the categories and products you're configuring in shared catalogs will not be restricted to customers.","Devi abilitare il catalogo condiviso Dentro Negozi -> Configurazioni -> Funzioni B2B per usare il catalogo condiviso sullo storefront. Altrimenti, le categorie ed i prodotti che stai configurando nel catalogo condiviso non saranno limitati ai clienti.",module,Magento_SharedCatalog
 "Next","Successivo",module,Magento_SharedCatalog
 "Edit Configurations","Modifica configurazioni",module,Magento_SharedCatalog
 "Products in Catalog","Prodotti nel catalogo",module,Magento_SharedCatalog
@@ -13677,17 +13270,7 @@ configurando nel catalogo condiviso non saranno limitati ai clienti.",module,Mag
 "API URL","URL API",module,Magento_Signifyd
 "Debug","Debug",module,Magento_Signifyd
 "Webhook URL","URL del webhook",module,Magento_Signifyd
-"Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.,module,Magento_Signifyd
-We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.,module,Magento_Signifyd
-<p>Benefits:<ul>,module,Magento_Signifyd
-<li>Grow your business without fear of fraud</li>,module,Magento_Signifyd
-<li>Accept more orders and maximize your revenue</li>,module,Magento_Signifyd
-<li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.,module,Magento_Signifyd
-We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.,module,Magento_Signifyd
-<p>Benefits:<ul>,module,Magento_Signifyd
-<li>Grow your business without fear of fraud</li>,module,Magento_Signifyd
-<li>Accept more orders and maximize your revenue</li>,module,Magento_Signifyd
-<li>Automate order review and shift fraud off your plate</li></ul></p>",module,Magento_Signifyd
+"Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject. We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback. <p>Benefits:<ul><li>Grow your business without fear of fraud</li><li>Accept more orders and maximize your revenue</li><li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject. We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.<p>Benefits:<ul><li>Grow your business without fear of fraud</li><li>Accept more orders and maximize your revenue</li><li>Automate order review and shift fraud off your plate</li></ul></p>",module,Magento_Signifyd
 "<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.",module,Magento_Signifyd
 "Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.",module,Magento_Signifyd
 "Save & Generate","Salva e Genera",module,Magento_Sitemap
@@ -13788,9 +13371,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "This update not exists.","Questo aggiornamento non esiste.",module,Magento_Staging
 "Content Staging Dashboard","Cruscotto di gestione temporanea del contenuto",module,Magento_Staging
 "The Start Time of this Update cannot be changed. It's been already started.","Il momento di inizio di questo aggiornamento non può essere cambiato. Già iniziato.",module,Magento_Staging
-"Future Update in this time range already exists.,module,Magento_Staging
-Select a different range to add a new Future Update.","Future Update in this time range already exists.,module,Magento_Staging
-Select a different range to add a new Future Update.",module,Magento_Staging
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_Staging
 "Cannot save Update.","Non è possibile salvare l'aggiornamento.",module,Magento_Staging
 "Edit Existing Update","Modifica aggiornamento esistente",module,Magento_Staging
 "Assign to Another Update","Assegna ad un altro aggiornamento",module,Magento_Staging
@@ -14521,9 +14102,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Order Total","Totale ordine",module,Magento_Tax
 "You will be charged for","Ti verranno addebitati",module,Magento_Tax
 "Warning tax configuration can result in rounding errors. ","Attenzione la configurazione fiscale può generare errori di arrotondamento. ",module,Magento_Tax
-"Warning tax discount configuration might result in different discounts,module,Magento_Tax
-than a customer might expect. ","L'avviso della configurazione sconto fiscale può risultare in differenti sconti,module,Magento_Tax
-che un cliente potrebbe aspettarsi. ",module,Magento_Tax
+"Warning tax discount configuration might result in different discounts than a customer might expect. ","L'avviso della configurazione sconto fiscale può risultare in differenti sconti che un cliente potrebbe aspettarsi. ",module,Magento_Tax
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","Lo sconto applicato includendo le tasse è calcolato in base alle tasse del negozio se “Applica tasse dopo lo sconto” è selezionato.",module,Magento_Tax
 "Your credit card will be charged for","Sulla tua carta di credito verrà addebitato un importo di",module,Magento_Tax
 "With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","Se applichi l'Iva ""Prima dello sconto"", il calcolo dello sconto finale potrebbe non corrispondere alle aspettative dei clienti.",module,Magento_Tax
@@ -14680,7 +14259,7 @@ che un cliente potrebbe aspettarsi. ",module,Magento_Tax
 "Time","Orario",module,Magento_Theme
 "Hour","Ora",module,Magento_Theme
 "Minute","Minuto",module,Magento_Theme
-"%name,","%nome,",module,Magento_Theme
+"%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Benvenuto su %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",module,Magento_Theme
 "Email:","Email:",module,Magento_Theme
@@ -14916,42 +14495,16 @@ che un cliente potrebbe aspettarsi. ",module,Magento_Tax
 "Log JS Errors to Session Storage Key","Log Errori JS nella Session Storage Key",module,Magento_Ui
 "settings/label","settings/label",module,Magento_Ui
 "settings/confirm/title","settings/confirm/title",module,Magento_Ui
-"settings/confirm/message,module,Magento_Ui
-","settings/confirm/message,module,Magento_Ui
-",module,Magento_Ui
-",module,Magento_Ui
-settings/callback/provider,module,Magento_Ui
-",",module,Magento_Ui
-settings/callback/provider,module,Magento_Ui
-",module,Magento_Ui
-"settings/callback/target,module,Magento_Ui
-","settings/callback/target,module,Magento_Ui
-",module,Magento_Ui
-"settings/newViewLabel,module,Magento_Ui
-","settings/newViewLabel,module,Magento_Ui
-",module,Magento_Ui
+"settings/confirm/message","settings/confirm/message",module,Magento_Ui
+"settings/callback/provider","settings/callback/provider",module,Magento_Ui
+"settings/callback/target","settings/callback/target",module,Magento_Ui
+"settings/newViewLabel","settings/newViewLabel",module,Magento_Ui
 "settings/title","settings/title",module,Magento_Ui
 "settings/description","settings/description",module,Magento_Ui
-",module,Magento_Ui
-settings/addButtonLabel,module,Magento_Ui
-",",module,Magento_Ui
-settings/addButtonLabel,module,Magento_Ui
-",module,Magento_Ui
-",module,Magento_Ui
-formElements/*[name(.)=../../@formElement]/settings/description,module,Magento_Ui
-",",module,Magento_Ui
-formElements/*[name(.)=../../@formElement]/settings/description,module,Magento_Ui
-",module,Magento_Ui
-",module,Magento_Ui
-formElements/*[name(.)=../../@formElement]/settings/caption,module,Magento_Ui
-",",module,Magento_Ui
-formElements/*[name(.)=../../@formElement]/settings/caption,module,Magento_Ui
-",module,Magento_Ui
-",module,Magento_Ui
-formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
-",",module,Magento_Ui
-formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
-",module,Magento_Ui
+"settings/addButtonLabel","settings/addButtonLabel",module,Magento_Ui
+"formElements/*[name(.)=../../@formElement]/settings/description","formElements/*[name(.)=../../@formElement]/settings/description",module,Magento_Ui
+"formElements/*[name(.)=../../@formElement]/settings/caption","formElements/*[name(.)=../../@formElement]/settings/caption",module,Magento_Ui
+"formElements/*[name(.)=../../@formElement]/settings/title","formElements/*[name(.)=../../@formElement]/settings/title",module,Magento_Ui
 "settings/placeholder","settings/placeholder",module,Magento_Ui
 "settings/caption","settings/caption",module,Magento_Ui
 "settings/subTitle","settings/subTitle",module,Magento_Ui
@@ -15338,7 +14891,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Attenzione! \r\nQuesta azione rimuoverà questo utente dalla regola assegnata\r\nSei sicuro?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Attenzione! \r\nQuesta azione rimuoverà questi utenti dalle regole assegnate\r\nSei sicuro?",module,Magento_User
 "Password Reset Confirmation for %name","Conferma il ripristino della password per %name",module,Magento_User
-"%name,","%nome,",module,Magento_User
+"%name,","%name,",module,Magento_User
 "There was recently a request to change the password for your account.","C'è stata recentemente una richiesta per modificare la password per il tuo account.",module,Magento_User
 "If you requested this change, reset your password here:","Se hai richiesto questa modifica, reimposta la password qui:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se non hai fatto questa richiesta, è possibile ignorare questa email e la tua password rimarrà immutata.",module,Magento_User
@@ -16229,12 +15782,12 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Now Shopping by","Ora acquista per",theme,frontend/Magento/luma
 "Previous","Precedente",theme,frontend/Magento/luma
 "Remove","Elimina",theme,frontend/Magento/luma
-"Remove This Item","Rimuovi questo articolo",theme,frontend/Magento/luma
+"Remove This Item","Rimuovi questo filtro",theme,frontend/Magento/luma
 "Shop By","Naviga per",theme,frontend/Magento/luma
 "Clear All","Cancella tutto",theme,frontend/Magento/luma
 "Shopping Options","Opzioni",theme,frontend/Magento/luma
 "Welcome to %store_name","Benvenuto a %store_name",theme,frontend/Magento/luma
-"%name,","%nome,",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Benvenuto su %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",theme,frontend/Magento/luma
 "Email:","Email:",theme,frontend/Magento/luma
@@ -16421,3 +15974,12 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,web
 "First character must be letter.","First character must be letter.",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","La password non può essere uguale all'indirizzo di posta elettronica. Creare una nuova password e riprovare.",lib,web
+"Add to cart","Aggiungi al Carrello",module,Magento_Checkout
+"Do you want to remove the item from cart?","Confermi la rimozione di questo articolo dal carrello?",module,Magento_Checkout
+"Cash on delivery","Contrassegno",module,Magento_Checkout
+"Cash on delivery","Contrassegno",module,Magento_Sales
+"Edit your billing information","Modifica le tue informazioni di fatturazione",module,Magento_Customer
+"Edit your billing address","Modifica il tuo indirizzo di fatturazione",module,Magento_Customer
+"Edit your shipping address","Modifica il tuo indirizzo di spedizione",module,Magento_Customer
+"If you created this account using Amazon Pay, you might not know your site password.","Se hai creato questo account tramite Amazon Pay, la password potrebbe non essere valorizzata.",module,Amazon_Payment
+"Request a password to change your account password.","Richiedi una nuova password tramite la procedura di reset.",module,Amazon_Payment
