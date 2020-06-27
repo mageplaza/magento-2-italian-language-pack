@@ -239,7 +239,7 @@
 "Index sales rule","Indice della regola per le vendite",module,Magento_AdvancedSalesRule
 "Related Search Terms","Termini di ricerca correlate",module,Magento_AdvancedSearch
 "Add New Search Term","Aggiungi nuovo termine di ricerca",module,Magento_AdvancedSearch
-"button_label","button_label",module,Magento_AdvancedSearch
+"button_label","etichetta del bottone",module,Magento_AdvancedSearch
 "Missing search engine parameter.","Parametro mancante del motore di ricerca.",module,Magento_AdvancedSearch
 "Successful! Test again?","Completato! Testare ancora?",module,Magento_AdvancedSearch
 "Connection failed! Test again?","Connessione non riuscita! Testare ancora?",module,Magento_AdvancedSearch
@@ -331,14 +331,14 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Pharma and Medical Devices","Farmaci e dispositivi medici",module,Magento_Analytics
 "Technology B2B","Tecnologia B2B",module,Magento_Analytics
 "Other","Altro",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Il valore dell'ora è in un formato non supportato. Immettere un formato supportato e riprovare.",module,Magento_Analytics
+"Please select an industry.","Si prega di selezionare un settore.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","I dati non sono validi. Immettere i dati come una stringa o dati che possono essere convertiti in una stringa e riprovare.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","I dati non sono validi. Immettere i dati come una stringa e riprovare.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","I dati non sono validi. Utilizzare un metodo di crittografia valido e riprovare.",module,Magento_Analytics
+"Enter the encryption key and try again.","Immettere la chiave di iscrizione e riprovare.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","La fonte ""% 1"" non esiste.",module,Magento_Analytics
+"Retry Synchronization","Riprova a sincronizzare",module,Magento_Analytics
 "Back","Indietro",module,Magento_AsynchronousOperations
 "Done","Fine",module,Magento_AsynchronousOperations
 "Retry","Riprova",module,Magento_AsynchronousOperations
@@ -346,10 +346,10 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "%1 item(s) have been scheduled for update.""","%1 elementi sono stati aggiunti per l'aggiornamento.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Log azioni di massa",module,Magento_AsynchronousOperations
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Topic %1","Argomento %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","Qualcosa è andato storto durante l'elaborazione della richiesta.",module,Magento_AsynchronousOperations
 "Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Siamo spiacenti, qualcosa è andato storto durante l'aggiornamento dei prezzi del prodotto. Consultare il registro per maggiori dettagli.",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 elementi sono attualmente in fase di aggiornamento.",module,Magento_AsynchronousOperations
 "Task ""%1"": ","Attività ""%1"": ",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 elementi sono stati aggiunti per l'aggiornamento.",module,Magento_AsynchronousOperations
@@ -364,7 +364,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 ", %1 failed to update",", impossibile aggiornare %1",module,Magento_AsynchronousOperations
 "Something went wrong.","Qualcosa è andato storto.",module,Magento_AsynchronousOperations
 "Action Log","Action Log",module,Magento_AsynchronousOperations
-"Report","Report",module,Magento_AsynchronousOperations
+"Report","Rapporto",module,Magento_AsynchronousOperations
 "Bulk Actions","Azioni di massa",module,Magento_AsynchronousOperations
 "Action Logs","Log azioni",module,Magento_AsynchronousOperations
 "Days Saved in Log","Giorni salvati nel registro",module,Magento_AsynchronousOperations
@@ -394,7 +394,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "failed.","non riuscito.",module,Magento_Authorizenet
 "successful.","con successo.",module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net transazione ID %1.",module,Magento_Authorizenet
-"authorize","authorize",module,Magento_Authorizenet
+"authorize","autorizza",module,Magento_Authorizenet
 "authorize and capture","autorizza e trattieni",module,Magento_Authorizenet
 "capture","trattieni",module,Magento_Authorizenet
 "refund","rimborso",module,Magento_Authorizenet
@@ -414,7 +414,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Qualcosa è andato storto: l'importo pagato non corrisponde al totale dell'ordine. Si prega di risolvere il problema e riprovare.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","La transazione %1 è stata approvata. Importo %2. Lo stato della transazione è ""%3""",module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","La transazione %1 è stata annullata/rifiutata. Lo stato della transazione è ""%2"". Importo %3.",module,Magento_Authorizenet
-"Authorize Only","Authorize Only",module,Magento_Authorizenet
+"Authorize Only","Autorizza solamente",module,Magento_Authorizenet
 "Authorize and Capture","Autorizza e trattieni",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Impossibile ottenere i dettagli della transazione. Riprovare più tardi.",module,Magento_Authorizenet
 "Electronic payments save the trees.","Pagamenti elettronici, Salva gli alberi.",module,Magento_Authorizenet
@@ -435,9 +435,9 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Enabled","Abilitato",module,Magento_Authorizenet
 "Payment Action","Azione di pagamento",module,Magento_Authorizenet
 "Title","Titolo",module,Magento_Authorizenet
-"API Login ID","API Login ID",module,Magento_Authorizenet
-"Transaction Key","Transaction Key",module,Magento_Authorizenet
-"Merchant MD5","Merchant MD5",module,Magento_Authorizenet
+"API Login ID","ID Login API",module,Magento_Authorizenet
+"Transaction Key","Chiave di transazione",module,Magento_Authorizenet
+"Merchant MD5","MD5 Venditore",module,Magento_Authorizenet
 "New Order Status","Nuovo stato dell'ordine",module,Magento_Authorizenet
 "Test Mode","Modalità test",module,Magento_Authorizenet
 "Gateway URL","URL gateway",module,Magento_Authorizenet
@@ -445,7 +445,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Accepted Currency","Valuta accettata",module,Magento_Authorizenet
 "Debug","Debug",module,Magento_Authorizenet
 "Email Customer","Email cliente",module,Magento_Authorizenet
-"Merchant's Email","Email dle venditore",module,Magento_Authorizenet
+"Merchant's Email","Email del venditore",module,Magento_Authorizenet
 "Credit Card Types","Tipi di carta di credito",module,Magento_Authorizenet
 "Credit Card Verification","Verifica della carta di credito",module,Magento_Authorizenet
 "Payment from Applicable Countries","Pagamento dai paesi applicabili",module,Magento_Authorizenet
@@ -460,40 +460,40 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "The transaction details are unavailable. Please try again later.","I dettagli della transazione non sono disponibili. Si prega di riprovare più tardi.",module,Magento_Authorizenet
 "Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)",module,Magento_Authorizenet
 "Signature Key","Signature Key",module,Magento_Authorizenet
-"There was an error while trying to process the request.","There was an error while trying to process the request.",module,Magento_AuthorizenetAcceptjs
-"This transaction cannot be refunded with its current status.","This transaction cannot be refunded with its current status.",module,Magento_AuthorizenetAcceptjs
+"There was an error while trying to process the request.","Si è verificato un errore durante il caricamento della richiesta.",module,Magento_AuthorizenetAcceptjs
+"This transaction cannot be refunded with its current status.","Questa transazione non può essere rimborsata al suo stato attuale.",module,Magento_AuthorizenetAcceptjs
 "Something went wrong in the payment gateway.","Qualcosa è andato storto nel gateway di pagamento.",module,Magento_AuthorizenetAcceptjs
-"The authenticity of the gateway response could not be verified.","The authenticity of the gateway response could not be verified.",module,Magento_AuthorizenetAcceptjs
-"Authorize Only","Authorize Only",module,Magento_AuthorizenetAcceptjs
+"The authenticity of the gateway response could not be verified.","L'autenticità della risposta non può essere verificata.",module,Magento_AuthorizenetAcceptjs
+"Authorize Only","Autorizza solamente",module,Magento_AuthorizenetAcceptjs
 "Authorize and Capture","Autorizza e trattieni",module,Magento_AuthorizenetAcceptjs
 "Credit Card Type","Tipo di carta di credito",module,Magento_AuthorizenetAcceptjs
 "Credit Card Number","Numero carta di credito",module,Magento_AuthorizenetAcceptjs
 "Expiration Date","Data di scadenza",module,Magento_AuthorizenetAcceptjs
 "Card Verification Number","Numero di verifica della carta",module,Magento_AuthorizenetAcceptjs
-"Authorize.Net","Authorize.Net",module,Magento_AuthorizenetAcceptjs
+"Authorize.Net","Authorize.net",module,Magento_AuthorizenetAcceptjs
 "Enabled","Abilitato",module,Magento_AuthorizenetAcceptjs
-"Basic Authorize.Net Settings","Basic Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Basic Authorize.Net Settings","Impostazioni Base Authorize.net",module,Magento_AuthorizenetAcceptjs
 "Title","Titolo",module,Magento_AuthorizenetAcceptjs
 "Environment","Ambiente",module,Magento_AuthorizenetAcceptjs
 "Payment Action","Azione di pagamento",module,Magento_AuthorizenetAcceptjs
-"API Login ID","API Login ID",module,Magento_AuthorizenetAcceptjs
-"Transaction Key","Transaction Key",module,Magento_AuthorizenetAcceptjs
-"Public Client Key","Public Client Key",module,Magento_AuthorizenetAcceptjs
-"Signature Key","Signature Key",module,Magento_AuthorizenetAcceptjs
-"Merchant MD5 (deprecated)","Merchant MD5 (deprecated)",module,Magento_AuthorizenetAcceptjs
-"Advanced Authorize.Net Settings","Advanced Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"API Login ID","Id Login API",module,Magento_AuthorizenetAcceptjs
+"Transaction Key","Chiave Transazione",module,Magento_AuthorizenetAcceptjs
+"Public Client Key","Chiave Client Pubblica",module,Magento_AuthorizenetAcceptjs
+"Signature Key","Chiave Firma",module,Magento_AuthorizenetAcceptjs
+"Merchant MD5 (deprecated)","MD5 Venditore (deprecato)",module,Magento_AuthorizenetAcceptjs
+"Advanced Authorize.Net Settings","Impostazioni Avanzate Authorize.net",module,Magento_AuthorizenetAcceptjs
 "Accepted Currency","Valuta accettata",module,Magento_AuthorizenetAcceptjs
 "Debug","Debug",module,Magento_AuthorizenetAcceptjs
 "Email Customer","Email cliente",module,Magento_AuthorizenetAcceptjs
-"Enable Credit Card Verification Field","Enable Credit Card Verification Field",module,Magento_AuthorizenetAcceptjs
+"Enable Credit Card Verification Field","Abilita Campo Verifica Carta di Credito",module,Magento_AuthorizenetAcceptjs
 "Credit Card Types","Tipi di carta di credito",module,Magento_AuthorizenetAcceptjs
 "Payment from Applicable Countries","Pagamento dai paesi applicabili",module,Magento_AuthorizenetAcceptjs
 "Payment from Specific Countries","Pagamento da Paesi specifici",module,Magento_AuthorizenetAcceptjs
 "Minimum Order Total","Totale ordine minimo",module,Magento_AuthorizenetAcceptjs
 "Maximum Order Total","Totale ordine massimo",module,Magento_AuthorizenetAcceptjs
 "Sort Order","Ordinamento",module,Magento_AuthorizenetAcceptjs
-"Invalid request to gateway.","Invalid request to gateway.",module,Magento_AuthorizenetAcceptjs
-"Invalid gateway credentials.","Invalid gateway credentials.",module,Magento_AuthorizenetAcceptjs
+"Invalid request to gateway.","Richiesta non valida per il gateway.",module,Magento_AuthorizenetAcceptjs
+"Invalid gateway credentials.","Credenziali non valide per il gateway.",module,Magento_AuthorizenetAcceptjs
 "Transaction has been declined. Please try again later.","La transazione è stata rifiutata. Riprova più tardi.",module,Magento_AuthorizenetAcceptjs
 "Close","Chiudi",module,Magento_B2b
 "options","opzioni",module,Magento_B2b
@@ -661,7 +661,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "An error occurred while enabling cache.","Errore durante l'abilitazione della cache.",module,Magento_Backend
 "%1 cache type(s) refreshed.","%1 tipi di cache aggiornati.",module,Magento_Backend
 "An error occurred while refreshing cache.","Si è verificato un errore durante l'aggiornamento della cache.",module,Magento_Backend
-"Dashboard","Pannello di controllo",module,Magento_Backend
+"Dashboard","Cruscotto",module,Magento_Backend
 "We updated lifetime statistic.","Abbiamo aggiornato le statistiche.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Non è possibile aggiornare le statistiche.",module,Magento_Backend
 "invalid request","richiesta non valida",module,Magento_Backend
@@ -1101,7 +1101,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "FTP Password","Password FTP",module,Magento_Backup
 "Magento root directory","Root directory di Magento",module,Magento_Backup
 "Create Backup","Crea Backup",module,Magento_Backup
-"Rollback","Rollback",module,Magento_Backup
+"Rollback","Ripristina",module,Magento_Backup
 "Scheduled Backup Settings","Impostazioni backup pianificati",module,Magento_Backup
 "Enable Scheduled Backup","Abilita backup pianificati",module,Magento_Backup
 "Backup Type","Tipo di backup",module,Magento_Backup
@@ -1120,7 +1120,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Backup Settings","Impostazioni di Backup",module,Magento_Backup
 "Enable Backup","Abilita il Backup",module,Magento_Backup
 "Scheduled Backup Type","Tipo di backup pianificato",module,Magento_Backup
-"Disabled by default for security reasons","Disabled by default for security reasons",module,Magento_Backup
+"Disabled by default for security reasons","Disabilitato di default per ragioni di sicurezza",module,Magento_Backup
 "Banners","Banner",module,Magento_Banner
 "Add Banner","Aggiungi Banner",module,Magento_Banner
 "Save Banner","Salva Banner",module,Magento_Banner
@@ -1194,30 +1194,30 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Specify Banners","Specifica banner",module,Magento_Banner
 "Banner Block Template","Template blocco banner",module,Magento_Banner
 "Banner Inline Template","Template inline banner",module,Magento_Banner
-"Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
-"Add Dynamic Block","Add Dynamic Block",module,Magento_Banner
-"Save Dynamic Block","Save Dynamic Block",module,Magento_Banner
-"Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
-"New Dynamic Block","New Dynamic Block",module,Magento_Banner
+"Dynamic Blocks","Blocchi Dinamici",module,Magento_Banner
+"Add Dynamic Block","Aggiungi Blocco Dinamico",module,Magento_Banner
+"Save Dynamic Block","Salva Blocco Dinamico",module,Magento_Banner
+"Delete Dynamic Block","Elimina Blocco Dinamico",module,Magento_Banner
+"New Dynamic Block","Nuovo Blocco Dinamico",module,Magento_Banner
 "Are you sure you want to do this?","Sicuro di volerlo fare?",module,Magento_Banner
 "Reset","Reimposta",module,Magento_Banner
 "Save","Salva",module,Magento_Banner
-"Dynamic Block Default Content for All Store Views","Dynamic Block Default Content for All Store Views",module,Magento_Banner
-"Dynamic Block Properties","Dynamic Block Properties",module,Magento_Banner
-"Dynamic Block Name","Dynamic Block Name",module,Magento_Banner
-"Any Dynamic Block Type","Any Dynamic Block Type",module,Magento_Banner
+"Dynamic Block Default Content for All Store Views","Contenuto predefinito Blocchi Dinamici per tutte le Viste Negozio",module,Magento_Banner
+"Dynamic Block Properties","Proprietà Blocco Dinamico",module,Magento_Banner
+"Dynamic Block Name","Nome Blocco Dinamico",module,Magento_Banner
+"Any Dynamic Block Type","Aggiungi Tipo di Blocco Dinamico",module,Magento_Banner
 "Specified Dynamic Block Types","Specified Dynamic Block Types",module,Magento_Banner
-"Dynamic Block Information","Dynamic Block Information",module,Magento_Banner
-"Dynamic Block","Dynamic Block",module,Magento_Banner
-"Dynamic Block Type","Dynamic Block Type",module,Magento_Banner
-"Are you sure you want to delete these dynamic blocks?","Are you sure you want to delete these dynamic blocks?",module,Magento_Banner
-"Related Dynamic Blocks","Related Dynamic Blocks",module,Magento_Banner
-"You deleted the dynamic block.","You deleted the dynamic block.",module,Magento_Banner
-"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Something went wrong while deleting dynamic block data. Please review the action log and try again.",module,Magento_Banner
-"We cannot find a dynamic block to delete.","We cannot find a dynamic block to delete.",module,Magento_Banner
-"This dynamic block no longer exists.","This dynamic block no longer exists.",module,Magento_Banner
-"Edit Dynamic Block","Edit Dynamic Block",module,Magento_Banner
-"Please select a dynamic block(s).","Please select a dynamic block(s).",module,Magento_Banner
+"Dynamic Block Information","Informazioni Blocco Dinamico",module,Magento_Banner
+"Dynamic Block","Blocco Dinamico",module,Magento_Banner
+"Dynamic Block Type","Tipo di Blocco Dinamico",module,Magento_Banner
+"Are you sure you want to delete these dynamic blocks?","Sei sicuro di voler eliminare questi blocchi dinamici?",module,Magento_Banner
+"Related Dynamic Blocks","Blocchi Dinamici correlati",module,Magento_Banner
+"You deleted the dynamic block.","Hai eliminato il blocco dinamico.",module,Magento_Banner
+"Something went wrong while deleting dynamic block data. Please review the action log and try again.","C'è stato un errore durante l'eliminazione dei dati del blocco dinamico. Per favore controlla il log delle attività e riprova.",module,Magento_Banner
+"We cannot find a dynamic block to delete.","Impossibile trovare il blocco dinamico da eliminare.",module,Magento_Banner
+"This dynamic block no longer exists.","Il blocco dinamico non è più presente.",module,Magento_Banner
+"Edit Dynamic Block","Modifica Blocco Dinamico",module,Magento_Banner
+"Please select a dynamic block(s).","Seleziona un blocco dinamico.",module,Magento_Banner
 "Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.",module,Magento_Banner
 "This dynamic block does not exist.","This dynamic block does not exist.",module,Magento_Banner
 "You saved the dynamic block.","You saved the dynamic block.",module,Magento_Banner
@@ -1328,7 +1328,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Vault Title","Titolo di Deposito",module,Magento_Braintree
 "Merchant Account ID","ID Account Venditore",module,Magento_Braintree
 "Advanced Fraud Protection","Protezione avanzata anti-frode",module,Magento_Braintree
-"Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
+"Kount Merchant ID","Kount ID Venditore",module,Magento_Braintree
 "Debug","Debug",module,Magento_Braintree
 "CVV Verification","Verifica CVV",module,Magento_Braintree
 "Credit Card Types","Tipi di carta di credito",module,Magento_Braintree
@@ -1491,12 +1491,12 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Use Cache","Utilizza la Cache",module,Magento_Braintree
 "Edit My Credit Cards","Modifica le mie carte di credito",module,Magento_Braintree
 "Pay with PayPal","Paga con PayPal",module,Magento_Braintree
-"Transaction is cancelled offline.","Transaction is cancelled offline.",module,Magento_Braintree
+"Transaction is cancelled offline.","La transazione è cancellata offline.",module,Magento_Braintree
 "Braintree Settlement","Report di Braintree",module,Magento_Braintree
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Se non specifica l'account venditore da utilizzare per elaborare una transazione, Braintree lo elaborerà utilizzando il tuo account commerciale predefinito.",module,Magento_Braintree
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Assicurarsi di attivare la protezione anti-frode avanzata nell'Account di Braintree nella sezione Impostazioni/elaborazione",module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Utilizzato per lo strumento di integrazione antifrode diretta. Contattare anche <a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com</a> per la configurazione del conto Kount.",module,Magento_Braintree
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.",module,Magento_Braintree
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Assicurati di abilitare AVS e/o CVV nel tuo account di Braintree nella sezione Impostazioni/elaborazione.",module,Magento_Braintree
 "It is recommended to set this value to ""PayPal"" per store views.","Si consiglia di impostare questo valore su ""PayPal"" per le viste negozio.",module,Magento_Braintree
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Questa funzionalità deve essere abilitata prima di tutto nell'account venditore tramite supporto tecnico PayPal.",module,Magento_Braintree
 "Also affects mini-shopping cart.","Colpisce anche il mini-carrello.",module,Magento_Braintree
@@ -1512,8 +1512,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).",module,Magento_Braintree
 "The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.",module,Magento_Braintree
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.",module,Magento_Braintree
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again.",module,Magento_Braintree
+"The Payment Token is not available to perform the request.","Il Token di Pagamento non è disponibile per eseguire la richiesta.",module,Magento_Braintree
+"Checkout failed to initialize. Verify and try again.","Tentativo fallito di avviare il Checkout. Verifica e prova di nuovo.",module,Magento_Braintree
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","L'ordine non è stato completato. Devi prima accettare i termini e le condizioni, poi riprova ad effettuare il tuo ordine.",module,Magento_Braintree
 "Paypal account","Account Paypal",module,Magento_Braintree
 "Coinbase account","Conto Coinbase",module,Magento_Braintree
@@ -1590,8 +1590,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Store View Title","Titolo vista negozio",module,Magento_Bundle
 "Input Type","Tipo di input",module,Magento_Bundle
 "Drop-down","Dropdown",module,Magento_Bundle
-"Radio Buttons","Radio Buttons",module,Magento_Bundle
-"Checkbox","Checkbox",module,Magento_Bundle
+"Radio Buttons","Pulsanti di opzione",module,Magento_Bundle
+"Checkbox","Casella di controllo",module,Magento_Bundle
 "Multiple Select","Selezione multipla",module,Magento_Bundle
 "Required","Obbligatorio",module,Magento_Bundle
 "Is Default","È predefinito",module,Magento_Bundle
@@ -1648,11 +1648,11 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Special Price","Prezzo speciale",module,Magento_Bundle
 "This is implemented for bundle products only.","Questo è disponibile solo per i prodotti bundle.",module,Magento_Bundle
 "The product with the ""%1"" SKU isn't a bundle product.","Il prodotto con lo ""%1"" SKU non è un prodotti bundle.",module,Magento_Bundle
-"The bundle product can't contain another composite product.","The bundle product can't contain another composite product.",module,Magento_Bundle
-"The product link needs an ID field entered. Enter and try again.","The product link needs an ID field entered. Enter and try again.",module,Magento_Bundle
-"The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.",module,Magento_Bundle
-"The bundle product doesn't exist. Review your request and try again.","The bundle product doesn't exist. Review your request and try again.",module,Magento_Bundle
-"The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again.",module,Magento_Bundle
+"The bundle product can't contain another composite product.","Il prodotto bundle non può contenere un altro prodotto composto.",module,Magento_Bundle
+"The product link needs an ID field entered. Enter and try again.","Il link prodotto ha bisogno di un campo ID inserito. Inserisci e riprova.",module,Magento_Bundle
+"The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","Il link del prodotto con il campo ""%1"" ID non è stato trovato. Verifica l'ID e riprova.",module,Magento_Bundle
+"The bundle product doesn't exist. Review your request and try again.","Il prodotto bundle non esiste. Verifica la richiesta e riprova.",module,Magento_Bundle
+"The option that was requested doesn't exist. Verify the entity and try again.","L'opzione richiesta non esiste. Verifica l'entità e riprova.",module,Magento_Bundle
 "The option couldn't be saved.","L'opzione non può essere salvata.",module,Magento_Bundle
 """%fieldName"" is required. Enter and try again.","""%fieldName"" è obbligatorio. Inseriscilo e riprova.",module,Magento_Bundle
 "The option with ""%1"" ID can't be deleted.","L'opzione con ID ""%1"" non può essere eliminata.",module,Magento_Bundle
@@ -2300,7 +2300,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "Clear All","Cancella tutto",module,Magento_Catalog
 "Prev","Prec",module,Magento_Catalog
 "Next","Successivo",module,Magento_Catalog
-"We can't find products matching the selection.","Nessun prodotto corrispondete alla selezione è stato trovato.",module,Magento_Catalog
+"We can't find products matching the selection.","Non è stato trovato alcun prodotto corrispondente alla selezione.",module,Magento_Catalog
 "Learn More","Scopri di più",module,Magento_Catalog
 "Add to Compare","Aggiungi al confronto",module,Magento_Catalog
 "We found other products you might like!","Abbiamo trovato altri prodotti che ti potrebbero interessare!",module,Magento_Catalog
@@ -2591,7 +2591,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "The ProductSku is empty. Set the ProductSku and try again.","Il ProductSku è vuoto. Impostare il ProductSku e riprovare.",module,Magento_Catalog
 "The custom option couldn't be removed.","Impossibile rimuovere l'opzione personalizzata.",module,Magento_Catalog
 "The product's required option(s) weren't entered. Make sure the options are entered and try again.","The product's required option(s) weren't entered. Make sure the options are entered and try again.",module,Magento_Catalog
-"The file options format is invalid. Use a correct format and try again.","The file options format is invalid. Use a correct format and try again.",module,Magento_Catalog
+"The file options format is invalid. Use a correct format and try again.","Il formato delle opzioni di file non è valido. Utilizzare un formato corretto e riprovare.",module,Magento_Catalog
 "The file ""%1"" is empty. Select another file and try again.","Il file ""%1"" è vuoto. Selezionare un altro file e riprovare.",module,Magento_Catalog
 "The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","Convalida non riuscita. Assicurarsi che le opzioni necessarie siano state inserite e il file caricato, quindi riprovare.",module,Magento_Catalog
 "The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","Il file era troppo grande e non è stato caricato. Usa un file più piccolo di %1 MB e prova a caricarlo di nuovo.",module,Magento_Catalog
@@ -2599,11 +2599,11 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "The file is empty. Select another file and try again.","Il file è vuoto. Selezionare un altro file e riprovare.",module,Magento_Catalog
 "The text is too long. Shorten the text and try again.","Il testo è troppo lungo. Accorcialo e riprova.",module,Magento_Catalog
 "The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Il prodotto richiesto non esiste. Verificare il prodotto e riprovare. ID di riga: SKU = %SKU, Store ID: %storeId, Prezzo a partire da: %priceFrom, Prezzo fino a: %priceTo.",module,Magento_Catalog
-"Tier price is unavailable for this product.","Tier price is unavailable for this product.",module,Magento_Catalog
+"Tier price is unavailable for this product.","Il Prezzo differenziato non è disponibile per questo prodotto.",module,Magento_Catalog
 "The tier_price data is invalid. Verify the data and try again.","The tier_price data is invalid. Verify the data and try again.",module,Magento_Catalog
-"The group price couldn't be saved.","The group price couldn't be saved.",module,Magento_Catalog
+"The group price couldn't be saved.","Il prezzo di gruppo non può essere salvato.",module,Magento_Catalog
 "The data was invalid. Verify the data and try again.","I dati non sono validi. Verificare i dati e riprovare.",module,Magento_Catalog
-"Values in the %1 attributes are invalid. Verify the values and try again.","Values in the %1 attributes are invalid. Verify the values and try again.",module,Magento_Catalog
+"Values in the %1 attributes are invalid. Verify the values and try again.","I valori degli attributi di %1 non sono validi. Verificare i valori e riprovare.",module,Magento_Catalog
 "We can't create the ""%1"" writeable directory.","Impossibile creare la directory ""%1"" con permessi di scrittura.",module,Magento_Catalog
 "The file upload failed. Try to upload again.","Invio del file fallito. Prova a caricarlo di nuovo.",module,Magento_Catalog
 "The product has required options. Enter the options and try again.","The product has required options. Enter the options and try again.",module,Magento_Catalog
@@ -2615,7 +2615,7 @@ Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti
 "The linked products data is invalid. Verify the data and try again.","I dati dei prodotti collegati non sono validi. Verificare i dati e riprovare.",module,Magento_Catalog
 "The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_Catalog
 "The Product with the ""%1"" SKU doesn't exist.","Il prodotto ""%1"", con lo SKU non esiste.",module,Magento_Catalog
-"The ""%1"" product couldn't be removed.","The ""%1"" product couldn't be removed.",module,Magento_Catalog
+"The ""%1"" product couldn't be removed.","Il prodotto ""%1"" non può essere rimosso.",module,Magento_Catalog
 "Category with ID: %s doesn't exist","La categoria con ID: %s non esiste",module,Magento_Catalog
 "Product Name or SKU","Nome del prodotto o SKU",module,Magento_Catalog
 "Start typing to find products","Inizia a digitare per trovare i prodotti",module,Magento_Catalog
@@ -2909,7 +2909,7 @@ Tempo in secondi tra gli aggiornamenti del widget.,module,Magento_Catalog
 "Catalog","Catalogo",module,Magento_CatalogRule
 "You saved the rule.","La regola è stata salvata.",module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.","Qualcosa è andato storto durante il salvataggio dei dati della regola. Consulta il log degli errori.",module,Magento_CatalogRule
-"Promo","Promo",module,Magento_CatalogRule
+"Promo","Promozione",module,Magento_CatalogRule
 "Unable to save rule %1","Impossibile salvare la regola %1",module,Magento_CatalogRule
 "Rule with specified ID ""%1"" not found.","Regola con ID specificato ""%1"" non trovato.",module,Magento_CatalogRule
 "Unable to remove rule %1","Impossibile rimuovere la regola %1",module,Magento_CatalogRule
@@ -3319,7 +3319,7 @@ Tempo in secondi tra gli aggiornamenti del widget.,module,Magento_CatalogWidget
 "Estimated Total","Totale Stimato",module,Magento_Checkout
 "You can create an account after checkout.","È possibile creare un account dopo il checkout.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Hai già un account con noi. Accedi o continua come ospite.",module,Magento_Checkout
-"Login","Login",module,Magento_Checkout
+"Login","Accedi",module,Magento_Checkout
 "See Details","Vedi dettagli",module,Magento_Checkout
 "Options Details","Dettagli opzioni",module,Magento_Checkout
 "Remove","Elimina",module,Magento_Checkout
@@ -3405,8 +3405,8 @@ Tempo in secondi tra gli aggiornamenti del widget.,module,Magento_CatalogWidget
 "of","di",module,Magento_Checkout
 "Something went wrong while saving the page. Please refresh the page and try again.","Qualcosa è andato storto mentre si stava salvando la pagina. Per favore, ricarica la pagina e riprova.",module,Magento_Checkout
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Hai aggiunto %1 al tuo <a href=""%2"">carrello</a>.",module,Magento_Checkout
-"Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
+"Please select at least one product to add to cart","Si prega di selezionare almeno un prodotto da aggiungere al carrello",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","L'articolo del preventivo non è stato trovato. Verifica l'articolo e riprova.",module,Magento_Checkout
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","L'ordine non è stato completato. Devi prima accettare i termini e le condizioni, poi riprova ad effettuare il tuo ordine.",module,Magento_Checkout
 "The product wasn't found. Verify the product and try again.","Il prodotto non è stato trovato. Verifica il prodotto e riprova.",module,Magento_Checkout
 "A server error stopped your order from being placed. Please try to place your order again.","Un errore del server ha interrotto l'elaborazione del tuo ordine. Per favore, prova ad effettuare nuovamente l'ordine.",module,Magento_Checkout
@@ -3957,7 +3957,7 @@ is now <strong>Active</strong>.,module,Magento_Company
 Once you login, you will be able to place orders on behalf of your company,module,Magento_Company
 and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Il tuo account è stato modificato da Amministratore Aziendale a Utente Standard. Se pensi che vi sia un errore, per favore contatta il tuo manager per maggiori dettagli.",module,Magento_Company
-"%name,","%nome,",module,Magento_Company
+"%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","Sei stato assegnato come Rappresentante alle vendite di %company_name.",module,Magento_Company
 "When you sign in to your account, you will be able to:","Accedendo al tuo account, sarai in grado di:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* Visualizza e gestisci i preventivi aziendali nel pannello di amministrazione",module,Magento_Company
@@ -4358,7 +4358,7 @@ Sono ammessi al massimo 255 caratteri.,module,Magento_CompanyCredit
 "Tab Label","Etichetta scheda",module,Magento_Config
 "Allow everything","Consenti tutto",module,Magento_Config
 "Magento Admin","Magento Admin",module,Magento_Config
-"Dashboard","Dashboard",module,Magento_Config
+"Dashboard","Cruscotto",module,Magento_Config
 "Manage Stores","Gestisci Negozi",module,Magento_Config
 "Field 2","Campo 2",module,Magento_Config
 "Field 3","Campo 3",module,Magento_Config
@@ -5086,7 +5086,7 @@ new products will be created. Use this step to customize images and price for yo
 "Tax/VAT number","Partita IVA",module,Magento_Customer
 "Phone Number","Numero di telefono",module,Magento_Customer
 "Welcome to %store_name","Benvenuto a %store_name",module,Magento_Customer
-"%name,","%nome,",module,Magento_Customer
+"%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Benvenuto su %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",module,Magento_Customer
 "Email:","Email:",module,Magento_Customer
@@ -5405,7 +5405,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Remove","Elimina",module,Magento_CustomerBalance
 "Refunded to Store Credit","RImborsato al Credito negozio",module,Magento_CustomerBalance
 "Store Credit update","Aggiornamento Credito del Negozio",module,Magento_CustomerBalance
-"%name,","%nome,",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_CustomerBalance
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Abbiamo aggiornato il tuo account <a href=""%store_url""> %store_name</a> e hai un credito che è possibile utilizzare per gli acquisti futuri.",module,Magento_CustomerBalance
 "Your Store Credit balance is now %balance.","Il saldo del credito negozio è ora di %balance.",module,Magento_CustomerBalance
 "Store credit","Credito negozio",module,Magento_CustomerBalance
@@ -6714,7 +6714,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Availability","Disponibilita'",module,Magento_GiftCard
 "In stock","Disponibile",module,Magento_GiftCard
 "You've been sent a gift from %store_name","Ti è stato inviato un regalo da %store_name",module,Magento_GiftCard
-"%name,","%nome,",module,Magento_GiftCard
+"%name,","%name,",module,Magento_GiftCard
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender ti ha inviato una gift card per l'uso su <a href=""%store_url""> %store_name</a> e ora è pronta per essere utilizzata per gli acquisti.",module,Magento_GiftCard
 "Gift Card Codes:","Codici gift card:",module,Magento_GiftCard
 "Gift Card Code:","Codice gift card:",module,Magento_GiftCard
@@ -6852,7 +6852,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Add or remove gift cards","Aggiungi o rimuovi gift card",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","Importo gift card applicato all'ordine:",module,Magento_GiftCardAccount
 "You've been sent a gift from %store_name","Ti è stato inviato un regalo da %store_name",module,Magento_GiftCardAccount
-"%name,","%nome,",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftCardAccount
 "You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","Hai inviato una gift card per l'uso su %store_name e ora è pronto per essere utilizzato per gli acquisti.",module,Magento_GiftCardAccount
 "Gift Card Code: %code","Codice del buono regalo: %code",module,Magento_GiftCardAccount
 "The card has a balance of %balance and can be used at ","La carta ha un saldo di %balance e può essere utilizzata in ",module,Magento_GiftCardAccount
@@ -6884,7 +6884,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Invalid Form Key. Please refresh the page.","Chiave form non valida. Si prega di aggiornare la pagina.",module,Magento_GiftCardAccount
 "Invalid Request","Invalid Request",module,Magento_GiftCardAccount
 "Incorrect CAPTCHA","CAPTCHA errato",module,Magento_GiftCardAccount
-"Too many attempts, please try again later.","Too many attempts, please try again later.",module,Magento_GiftCardAccount
+"Too many attempts, please try again later.","Troppi tentativi, riprova più tardi.",module,Magento_GiftCardAccount
 "Amount can be returned to Store Credit.","Amount can be returned to Store Credit.",module,Magento_GiftCardAccount
 "Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""#"" data-post=""%4"">here</a>.","Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""#"" data-post=""%4"">here</a>.",module,Magento_GiftCardAccount
 "The ""%1"" Cart doesn't contain products.","Il carrello ""%1"" non contiene prodotti.",module,Magento_GiftCardAccount
@@ -7212,7 +7212,7 @@ Il template email scelto è basato sul fallback del tema quando è selezionata l
 "Unit Price","Prezzo unitario",module,Magento_GiftRegistry
 "Add to Cart","Aggiungi al Carrello",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","Registro Regali creato a %store_name",module,Magento_GiftRegistry
-"%name,","%nome,",module,Magento_GiftRegistry
+"%name,","%name,",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Hai creato correttamente la nuova lista regalo ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Il tuo messaggio della lista regalo",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Ora è possibile aggiungere i prodotti alla tua lista regalo.",module,Magento_GiftRegistry
@@ -7596,7 +7596,7 @@ e.s. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>","The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>",module,Magento_ImportExport
 "Any entities in the import data that already exist in the database are deleted from the database.","Any entities in the import data that already exist in the database are deleted from the database.",module,Magento_ImportExport
 "Are you sure you wan't to delete a file?","Are you sure you wan't to delete a file?",module,Magento_ImportExport
-"File name","File name",module,Magento_ImportExport
+"File name","Nome file",module,Magento_ImportExport
 "Indexer Management","Gestione indici",module,Magento_Indexer
 "Update by Schedule","Aggiorna da pianificazione",module,Magento_Indexer
 "Update on Save","Aggiorna al salvataggio",module,Magento_Indexer
@@ -10052,7 +10052,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Product alerts Cron error","Notificche prodotto Errore Cron",module,Magento_ProductAlert
 "Product alerts cron warnings","Avvisi notifiche prodotto cron",module,Magento_ProductAlert
 "Products price changed alert","Notifica cambiamento prezzo prodotti",module,Magento_ProductAlert
-"%name,","%nome,",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
 "Products back in stock alert","Notifica di Prodotto ritornato disponibile in Stock",module,Magento_ProductAlert
 "Product Alerts","Avvisi prodotto",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Consenti avviso quando il prezzo del prodotto cambia",module,Magento_ProductAlert
@@ -10657,7 +10657,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Validate error 2","Valida errore 2",module,Magento_Reminder
 "text","testo",module,Magento_Reminder
 "Promotion reminder at %store_name","Promemoria Promozione a %store_name",module,Magento_Reminder
-"%name,","%nome,",module,Magento_Reminder
+"%name,","%name,",module,Magento_Reminder
 "Hurry up to take advantage of our %promotion_name promotion!","Affrettatevi per approfittare della nostra promozione %promotion_name!",module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","Affrettatevi per approfittare di questa promozione!",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Per approfittare della promozione è necessario accedere alla <a href=""%account_url"">%store_name</a> e applicare il coupon ""%coupon_code"" nel carrello.",module,Magento_Reminder
@@ -10871,7 +10871,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Show for Current","Mostra per corrente",module,Magento_Reports
 "Default Recently Viewed Products Count","Numero predefinito di prodotti recentemente visti da considerare",module,Magento_Reports
 "Default Recently Compared Products Count","Numero predefinito di prodotti recentemente confrontati da considerare",module,Magento_Reports
-"Dashboard","Dashboard",module,Magento_Reports
+"Dashboard","Cruscotto",module,Magento_Reports
 "Year-To-Date Starts","Parti dall'inizio dell'anno sino ad oggi (YTD)",module,Magento_Reports
 "Current Month Starts","Inizia dal mese corrente",module,Magento_Reports
 "Select day of the month.","Seleziona il giorno del mese.",module,Magento_Reports
@@ -11279,7 +11279,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Email Notification Settings","Impostazioni di notifica email",module,Magento_Reward
 "Save Subscription Settings","Salvare le impostazioni di iscrizione",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","Saldo Punti Fedeltà aggiornato a %store_name",module,Magento_Reward
-"%name,","%nome,",module,Magento_Reward
+"%name,","%name,",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","Hai bisogno di %points_balance punti che possono essere utilizzati nel nostro negozio:",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url""> Cancellati</a> da queste notifiche.",module,Magento_Reward
 "Reward Points Expiry Warning at %store_name","Avviso di scadenza Punti Fedeltà presso %store_name",module,Magento_Reward
@@ -11661,7 +11661,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "New Comment for RMA #%increment_id","Nuovo commento per l'RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","Il cliente %name ha lasciato un nuovo commento:",module,Magento_Rma
 "%store_name : New Return #%increment_id","%store_name: Nuovo ritorno #%increment_id",module,Magento_Rma
-"%name,","%nome,",module,Magento_Rma
+"%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","La richiesta di reso è stata aggiornata. Vedere di seguito.",module,Magento_Rma
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","È possibile controllare lo stato del tuo reso <a href=""%account_url""> accedendo al tuo account</a> o <a href=""%form_url""> utilizzando il tuo numero di ordine</a>.",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Se avete domande, non esitate a contattarci al <a href=""mailto:%support_email""> %support_email</a> o per telefono al %store_phone",module,Magento_Rma
@@ -12422,7 +12422,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Add to Cart","Aggiungi al Carrello",module,Magento_Sales
 "Search","Cerca",module,Magento_Sales
 "Credit memo for your %store_name order","Nota Credito per il tuo ordine su %store_name",module,Magento_Sales
-"%name,","%nome,",module,Magento_Sales
+"%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo status del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
@@ -12482,7 +12482,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "We'll use the default description above if you leave this empty.","Useremo la descrizione predefinita mostrata sopra se si lascia questo campo vuoto.",module,Magento_Sales
 "Multi-address Error to Show in Shopping Cart","Errore indirizzi multipli da mostrare nel carrello",module,Magento_Sales
 "We'll use the default error above if you leave this empty.","Useremo l'errore predefinito mostrato sopra se si lascia questo campo vuoto.",module,Magento_Sales
-"Dashboard","Dashboard",module,Magento_Sales
+"Dashboard","Cruscotto",module,Magento_Sales
 "Use Aggregated Data","Utilizza dati aggregati",module,Magento_Sales
 "Orders Cron Settings","Impostazioni Cron Ordini",module,Magento_Sales
 "Pending Payment Order Lifetime (minutes)","Durata (in minuti) in attesa pagamento ordine",module,Magento_Sales
@@ -13216,7 +13216,7 @@ Limite di utilizzo applicato solo per i clienti loggati.                    ",mo
 "Min Time Between Password Reset Requests","Tempo minimo tra le richieste di Ripristino Password",module,Magento_Security
 "Delay in minutes between password reset requests. Use 0 to disable.","Tempo minimo di minuti tra le richieste di reset di password. Utilizzare 0 per disabilitare.",module,Magento_Security
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_Security
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1.",module,Magento_Security
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Abbiamo ricevuto troppe richieste per il reset della password. Attendere e riprovare più tardi oppure contattare %1.",module,Magento_Security
 "Page not found.","Pagina non trovata.",module,Magento_SendFriend
 "You can't send messages more than %1 times an hour.","Non è possibile inviare messaggi più di %1 volte in un'ora.",module,Magento_SendFriend
 "The link to a friend was sent.","Il link di invio all'amico è stato inviato.",module,Magento_SendFriend
@@ -13252,7 +13252,7 @@ Limite di utilizzo applicato solo per i clienti loggati.                    ",mo
 "Send Email","Invia email",module,Magento_SendFriend
 "Back","Indietro",module,Magento_SendFriend
 "Welcome, %name","Benvenuto, %name",module,Magento_SendFriend
-"%name,","%nome,",module,Magento_SendFriend
+"%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name vuole condividere questo prodotto con te:",module,Magento_SendFriend
 "Message from %sender_name:","Messaggio da %sender_name:",module,Magento_SendFriend
 "Email to a Friend","Segnala ad un amico",module,Magento_SendFriend
@@ -15336,7 +15336,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Attenzione! \r\nQuesta azione rimuoverà questo utente dalla regola assegnata\r\nSei sicuro?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Attenzione! \r\nQuesta azione rimuoverà questi utenti dalle regole assegnate\r\nSei sicuro?",module,Magento_User
 "Password Reset Confirmation for %name","Conferma il ripristino della password per %name",module,Magento_User
-"%name,","%nome,",module,Magento_User
+"%name,","%name,",module,Magento_User
 "There was recently a request to change the password for your account.","C'è stata recentemente una richiesta per modificare la password per il tuo account.",module,Magento_User
 "If you requested this change, reset your password here:","Se hai richiesto questa modifica, reimposta la password qui:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se non hai fatto questa richiesta, è possibile ignorare questa email e la tua password rimarrà immutata.",module,Magento_User
@@ -16217,73 +16217,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","La transazione è stata rifiutata",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Riepilogo",theme,frontend\Magento\blank
-"Account Dashboard","Dashboard Account",theme,frontend\Magento\blank
-"Account Information","Informazioni sull'account",theme,frontend\Magento\blank
-"Address Book","Rubrica",theme,frontend\Magento\blank
-"Menu","Menu",theme,frontend\Magento\blank
-"Account","Account",theme,frontend\Magento\blank
-"Settings","Impostazioni",theme,frontend\Magento\blank
-"Now Shopping by","Ora acquista per",theme,frontend\Magento\luma
-"Previous","Precedente",theme,frontend\Magento\luma
-"Remove","Elimina",theme,frontend\Magento\luma
-"Remove This Item","Rimuovi questo articolo",theme,frontend\Magento\luma
-"Shop By","Naviga per",theme,frontend\Magento\luma
-"Clear All","Cancella tutto",theme,frontend\Magento\luma
-"Shopping Options","Opzioni",theme,frontend\Magento\luma
-"Welcome to %store_name","Benvenuto a %store_name",theme,frontend\Magento\luma
-"%name,","%nome,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Benvenuto su %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",theme,frontend\Magento\luma
-"Email:","Email:",theme,frontend\Magento\luma
-"Password:","Password:",theme,frontend\Magento\luma
-"Password you set when creating account","Password impostata durante la creazione account",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Hai dimenticato la password dell'account? Clicca <a href=""%reset_url"">qui</a> per reimpostarla.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Accedendo al tuo account, sarai in grado di:",theme,frontend\Magento\luma
-"Quick Checkout","Conferma ordine rapido",theme,frontend\Magento\luma
-"Proceed through checkout faster","Procedere velocemente attraverso il checkout",theme,frontend\Magento\luma
-"Order Status","Status Ordine",theme,frontend\Magento\luma
-"Check the status of orders","Controlla gli status degli ordini",theme,frontend\Magento\luma
-"Manage Addresses","Gestisci Indirizzi",theme,frontend\Magento\luma
-"Store alternative addresses","Indirizzi alternativi del negozio",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Per spedizione a più membri della famiglia e a più amici",theme,frontend\Magento\luma
-"Order History","Cronologia ordine",theme,frontend\Magento\luma
-"View past orders","Mostra ordini passati",theme,frontend\Magento\luma
-"Footer","Piè di pagina",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Chi Siamo</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Servizio Clienti</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Orari di apertura: <br/> <span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Nota Credito per il tuo ordine su %store_name",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo status del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","La tua nota di credito #%creditmemo_id per l'ordine #%order_id",theme,frontend\Magento\luma
-"Billing Info","Informazioni di fatturazione",theme,frontend\Magento\luma
-"Shipping Info","Informazioni di spedizione",theme,frontend\Magento\luma
-"Payment Method","Metodo di pagamento",theme,frontend\Magento\luma
-"Shipping Method","Metodo di Spedizione",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Aggiornamento della Nota Credito da %store_name",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Il tuo ordine #%increment_id è stato aggiornato con lo status di <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Fattura per il tuo ordine su %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Aggiornamento sulla tua fattura da %store_name",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Conferma del tuo ordine su %store_name",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Una volta che il pacco sarà spedito, ti invieremo il numero di tracciamento.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Effettuato il <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Aggiornamento del tuo ordine da %store_name",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Il tuo ordine su %store_name è stato spedito",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Aggiornamento sulla tua spedizione da %store_name",theme,frontend\Magento\luma
-"Account Dashboard","Dashboard Account",theme,frontend\Magento\luma
-"Address Book","Rubrica",theme,frontend\Magento\luma
-"Account Information","Informazioni sull'account",theme,frontend\Magento\luma
-"About Us","Chi siamo",theme,frontend\Magento\luma
-"Customer Service","Assistenza Clienti",theme,frontend\Magento\luma
-"My Account","Il mio Account",theme,frontend\Magento\luma
+"Summary","Riepilogo",theme,frontend/Magento/blank
+"Account Dashboard","Cruscotto Cliente",theme,frontend/Magento/blank
+"Account Information","Informazioni sull'account",theme,frontend/Magento/blank
+"Address Book","Rubrica",theme,frontend/Magento/blank
+"Menu","Menu",theme,frontend/Magento/blank
+"Account","Account",theme,frontend/Magento/blank
+"Settings","Impostazioni",theme,frontend/Magento/blank
+"Now Shopping by","Ora acquista per",theme,frontend/Magento/luma
+"Previous","Precedente",theme,frontend/Magento/luma
+"Remove","Elimina",theme,frontend/Magento/luma
+"Remove This Item","Rimuovi questo articolo",theme,frontend/Magento/luma
+"Shop By","Naviga per",theme,frontend/Magento/luma
+"Clear All","Cancella tutto",theme,frontend/Magento/luma
+"Shopping Options","Opzioni",theme,frontend/Magento/luma
+"Welcome to %store_name","Benvenuto a %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Benvenuto su %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",theme,frontend/Magento/luma
+"Email:","Email:",theme,frontend/Magento/luma
+"Password:","Password:",theme,frontend/Magento/luma
+"Password you set when creating account","Password impostata durante la creazione account",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Hai dimenticato la password dell'account? Clicca <a href=""%reset_url"">qui</a> per reimpostarla.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Accedendo al tuo account, sarai in grado di:",theme,frontend/Magento/luma
+"Quick Checkout","Conferma ordine rapido",theme,frontend/Magento/luma
+"Proceed through checkout faster","Procedere velocemente attraverso il checkout",theme,frontend/Magento/luma
+"Order Status","Status Ordine",theme,frontend/Magento/luma
+"Check the status of orders","Controlla gli status degli ordini",theme,frontend/Magento/luma
+"Manage Addresses","Gestisci Indirizzi",theme,frontend/Magento/luma
+"Store alternative addresses","Indirizzi alternativi del negozio",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Per spedizione a più membri della famiglia e a più amici",theme,frontend/Magento/luma
+"Order History","Cronologia ordine",theme,frontend/Magento/luma
+"View past orders","Mostra ordini passati",theme,frontend/Magento/luma
+"Footer","Piè di pagina",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Chi Siamo</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Servizio Clienti</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Orari di apertura: <br/> <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Nota Credito per il tuo ordine su %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo status del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","La tua nota di credito #%creditmemo_id per l'ordine #%order_id",theme,frontend/Magento/luma
+"Billing Info","Informazioni di fatturazione",theme,frontend/Magento/luma
+"Shipping Info","Informazioni di spedizione",theme,frontend/Magento/luma
+"Payment Method","Metodo di pagamento",theme,frontend/Magento/luma
+"Shipping Method","Metodo di Spedizione",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Aggiornamento della Nota Credito da %store_name",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Il tuo ordine #%increment_id è stato aggiornato con lo status di <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Fattura per il tuo ordine su %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","La fattura #%invoice_id per l'ordine #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Aggiornamento sulla tua fattura da %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Conferma del tuo ordine su %store_name",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Una volta che il pacco sarà spedito, ti invieremo il numero di tracciamento.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Il tuo ordine <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Effettuato il <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Aggiornamento del tuo ordine da %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Il tuo ordine su %store_name è stato spedito",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","La conferma di spedizione è qua sotto. Grazie ancora per l'acquisto.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","La tua spedizione #%shipment_id per l'ordine #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Aggiornamento sulla tua spedizione da %store_name",theme,frontend/Magento/luma
+"Account Dashboard","Cruscotto Cliente",theme,frontend/Magento/luma
+"Address Book","Rubrica",theme,frontend/Magento/luma
+"Account Information","Informazioni sull'account",theme,frontend/Magento/luma
+"About Us","Chi siamo",theme,frontend/Magento/luma
+"Customer Service","Assistenza Clienti",theme,frontend/Magento/luma
+"My Account","Il mio Account",theme,frontend/Magento/luma
 "Backup options","Opzioni backup",lib,web
 "Warning","Attenzione",lib,web
 "Cancel","Annulla",lib,web
