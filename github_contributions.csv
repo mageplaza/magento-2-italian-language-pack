@@ -1,1 +1,15 @@
-Mageplaza,Mageplaza
+"%name,","%name,",module,Magento_Company
+"%name,","%name,",module,Magento_Customer
+"%name,","%name,",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_GiftCard
+"%name,","%name,",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftRegistry
+"%name,","%name,",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_Reminder
+"%name,","%name,",module,Magento_Reward
+"%name,","%name,",module,Magento_Rma
+"%name,","%name,",module,Magento_Sales
+"%name,","%name,",module,Magento_SendFriend
+"%name,","%name,",module,Magento_Theme
+"%name,","%name,",module,Magento_User
+"%name,","%name,",theme,frontend\Magento\luma
