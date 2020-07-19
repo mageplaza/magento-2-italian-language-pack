@@ -5106,7 +5106,7 @@ new products will be created. Use this step to customize images and price for yo
 "Your %store_name email has been changed","È stato modificato il tuo indirizzo email %store_name",module,Magento_Customer
 "Hello,","Ciao,",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","Abbiamo ricevuto una richiesta per modificare le seguenti informazioni, associate al tuo account presso %store_name: email.",module,Magento_Customer
-"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Se non hai autorizzato questa operazione, contattaci immediatamente al %store_email",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Se non hai autorizzato questa operazione, contattaci immediatamente al <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","o chiamaci al <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","Grazie, <br>%store_name",module,Magento_Customer
 "Your %store_name email and password has been changed","L'email di %store_name e password sono  stati modificati",module,Magento_Customer
