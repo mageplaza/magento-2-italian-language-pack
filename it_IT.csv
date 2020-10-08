@@ -14678,7 +14678,7 @@ che un cliente potrebbe aspettarsi. ",module,Magento_Tax
 "Time","Orario",module,Magento_Theme
 "Hour","Ora",module,Magento_Theme
 "Minute","Minuto",module,Magento_Theme
-"%name,","%nome,",module,Magento_Theme
+"%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","Benvenuto su %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:",module,Magento_Theme
 "Email:","Email:",module,Magento_Theme
