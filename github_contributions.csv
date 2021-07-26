@@ -1,1 +1,3 @@
 Mageplaza,Mageplaza
+"Welcome to %store_name","Benvenuto su %store_name",module,Magento_Customer
+"Welcome to %store_name","Benvenuto su %store_name",theme,frontend/Magento/luma
