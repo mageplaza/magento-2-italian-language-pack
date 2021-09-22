@@ -14564,7 +14564,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?",module,Magento_Vault
 "PayPal Account","Account PayPal",module,Magento_Vault
 "expires","expires",module,Magento_Vault
-"Place Order","Place Order",module,Magento_Vault
+"Place Order","Effettua Ordine",module,Magento_Vault
 "Cancel","Annulla",module,Magento_Vault
 "Specify the ""public_hash"" value.","Specify the ""public_hash"" value.",module,Magento_VaultGraphQl
 "Could not find a token using public hash: %1","Could not find a token using public hash: %1",module,Magento_VaultGraphQl
