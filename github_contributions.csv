@@ -1,3 +1,1 @@
-Mageplaza,Mageplaza
-"Welcome to %store_name","Benvenuto su %store_name",module,Magento_Customer
-"Welcome to %store_name","Benvenuto su %store_name",theme,frontend/Magento/luma
+"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_SalesRule
