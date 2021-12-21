@@ -9602,7 +9602,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
 "'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
 "The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_Quote
 "The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
@@ -11981,7 +11981,6 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Rule processing: %1","Rule processing: %1",module,Magento_SalesRule
 "Item totals are not set for the rule.","I totali degli elementi non sono impostati per la regola.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","Le regole di prezzo del carrello %1 basate sull'attributo ""%2"" sono state disattivate.",module,Magento_SalesRule
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","Sono stati generati %1 coupon.",module,Magento_SalesRule
 "Apply Discount Code","Applica il codice sconto",module,Magento_SalesRule
 "Enter discount code","Inserisci il codice sconto",module,Magento_SalesRule
@@ -15317,3 +15316,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Inserisci una data del passato.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_SalesRule
