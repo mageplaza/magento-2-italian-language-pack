@@ -1,1 +1,4 @@
-"The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_SalesRule
+"An item needs to be selected. Select and try again.","È necessario selezionare un elemento. Seleziona e riprova.",module,Magento_Backend
+"An item needs to be selected. Select and try again.","È necessario selezionare un elemento. Seleziona e riprova.",module,Magento_Catalog
+"An item needs to be selected. Select and try again.","È necessario selezionare un elemento. Seleziona e riprova.",module,Magento_GiftWrapping
+"An item needs to be selected. Select and try again.","È necessario selezionare un elemento. Seleziona e riprova.",module,Magento_Support
