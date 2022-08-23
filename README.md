@@ -20,14 +20,14 @@ Read more [Magento 2 Italian Language Pack](https://www.mageplaza.com/magento-2-
 
 This is status of Italian Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/90?title=translated)
+![Italian language pack process](https://progress-bar.dev//?title=completed)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-italian-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Italian Language Pack
 
@@ -38,13 +38,24 @@ Install the Italian language pack via composer is never easier.
 
 **Install Italian pack**:
 
+With Marketing Automation (recommend):
+
+```
+composer require mageplaza/magento-2-italian-language-pack:dev-master mageplaza/module-smtp 
+php bin/magento setup:static-content:deploy it_IT
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+```
+
+Without Marketing Automation:
+
 ```
 composer require mageplaza/magento-2-italian-language-pack:dev-master
 php bin/magento setup:static-content:deploy it_IT
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 
@@ -153,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 
