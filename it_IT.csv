@@ -2592,7 +2592,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The fewest you may purchase is %1.","Il minor numero acquistabile è %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Correggere la quantità di alcuni prodotti.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","La quantità massima acquistabile è %1.",module,Magento_CatalogInventory
-"The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
+"The requested qty is not available","La quantità richiesta non è disponibile.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Non disponiamo di tanti ""%1"" come da richiesta, ordineremo i restanti %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","""%1"" non è disponibile nella quantità richiesta, quindi ordineremo i restanti %2.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","È possibile acquistare %1 solo in quantità di %2 per volta.",module,Magento_CatalogInventory
@@ -10133,7 +10133,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Product %1 has been added to the requisition list %2.","Il prodotto %1 è stato aggiunto alla lista RdA %2.",module,Magento_RequisitionList
 "Options were updated. Please review available configurations.","Opzioni e varianti sono state aggiornate. Per favore controlla le configurazioni disponibili.",module,Magento_RequisitionList
 "The SKU is out of stock.","Lo SKU non è disponibile.",module,Magento_RequisitionList
-"The requested qty is not available","The requested qty is not available",module,Magento_RequisitionList
+"The requested qty is not available","La quantità richiesta non è disponibile.",module,Magento_RequisitionList
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Non è possibile salvare la lista RdA. Il numero massimo di liste RdA è stato raggiunto.",module,Magento_RequisitionList
 "Could not save requisition list. Invalid data provided","Could not save requisition list. Invalid data provided",module,Magento_RequisitionList
 "Exception","Eccezione",module,Magento_RequisitionList
