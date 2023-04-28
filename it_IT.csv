@@ -2559,6 +2559,8 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "File '%1' was not found or has read restriction.","Il file '%1' non è stato trovato o ha restrizioni in lettura.",module,Magento_CatalogImportExport
 "Invalid Stock data for insert","Invalid Stock data for insert",module,Magento_CatalogImportExport
 "ALL GROUPS","TUTTI I GRUPPI",module,Magento_CatalogInventory
+"You cannot use decimal quantity for this product.","Non puoi utilizzare la quantità decimale per questo prodotto.",module,Magento_CatalogInventory
+"The requested qty exceeds the maximum qty allowed in shopping cart","La quantità richiesta supera la quantità massima consentita nel carrello.",module,Magento_CatalogInventory
 "Customer Group","Gruppo Cliente",module,Magento_CatalogInventory
 "Minimum Qty","Qtà minima",module,Magento_CatalogInventory
 "Add Minimum Qty","Aggiungi qtà minima",module,Magento_CatalogInventory
@@ -7460,6 +7462,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Accepted and Purchased","Accettato e acquistato",module,Magento_Invitation
 "Conversion Rate","Tasso di conversione",module,Magento_Invitation
 "Invitation","Invito",module,Magento_Invitation
+"You cannot use decimal quantity for this product.","Non puoi utilizzare la quantità decimale per questo prodotto.",module,Magento_InventorySales
+"The requested qty exceeds the maximum qty allowed in shopping cart","La quantità richiesta supera la quantità massima consentita nel carrello.",module,Magento_InventorySales
 "No","No",module,Magento_LayeredNavigation
 "Filterable (with results)","Filtrabile (con risultati)",module,Magento_LayeredNavigation
 "Filterable (no results)","Filtrabile (nessun risultato)",module,Magento_LayeredNavigation
