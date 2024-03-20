@@ -5,9 +5,8 @@
 "You need more permissions to apply some of the rule updates.","Non hai permessi sufficienti per applicare alcuni aggiornamenti alle regole.",module,Magento_AdminGws
 "More permissions are needed to view this item.","Non hai i permessi necessari per visualizzare questo elemento.",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Questa entità deve essere assegnata a una vista negozio. Verifica l'assegnazione dell'entità e riprova.",module,Magento_AdminGws
-"This item needs to be assigned to a store view.,module,Magento_AdminGws
-Please select a website for this product in ""Product in Websites"".","Questo elemento deve essere assegnato a una vista negozio.,module,Magento_AdminGws
-Si prega di selezionare un sito web per questo prodotto in ""Prodotto nei siti Web"".",module,Magento_AdminGws
+"This item needs to be assigned to a store view.","Questo elemento deve essere assegnato a una vista negozio.",module,Magento_AdminGws
+Please select a website for this product in ""Product in Websites"".",Si prega di selezionare un sito web per questo prodotto in ""Prodotto nei siti Web"".",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Gli ordini possono essere completati solo in un negozio attivo. Verifica il negozio e riprova.",module,Magento_AdminGws
 "This item needs to be assigned to a store view. Assign item and try again.","Questo elemento deve essere assegnato a una vista negozio. Assegna l'elemento e riprova.",module,Magento_AdminGws
 "More permissions are needed to save this item.","Non hai i permessi necessari per salvare questo elemento.",module,Magento_AdminGws
@@ -47,7 +46,7 @@ Si prega di selezionare un sito web per questo prodotto in ""Prodotto nei siti W
 "major","maggiore",module,Magento_AdminNotification
 "minor","minore",module,Magento_AdminNotification
 "notice","nota",module,Magento_AdminNotification
-"Wrong message type","TIpo messaggio errato",module,Magento_AdminNotification
+"Wrong message type","Tipo messaggio errato",module,Magento_AdminNotification
 "Wrong notification ID specified.","È stato specificato un ID di notifica errato.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} non è raccomandato utilizzarlo nell'ambiente di produzione per dichiarare URL Base non sicuro / URL Base Sicuro. Consigliamo vivamente di modificare questo valore nella <a href=""%1"">configurazione</a> di Magento.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Uno o più tipi di cache risultano invalidati: %1. ",module,Magento_AdminNotification
@@ -2630,7 +2629,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Qty Increments","Incrementi qtà",module,Magento_CatalogInventory
 "Stock","Inventario",module,Magento_CatalogInventory
 "Index stock","Indice inventario",module,Magento_CatalogInventory
-"Done","Done",module,Magento_CatalogInventory
+"Done","Fine",module,Magento_CatalogInventory
 "Use Config Settings","Utilizzare le impostazioni di configurazione",module,Magento_CatalogInventory
 "Qty Uses Decimals","Qtà utilizza decimali",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Consenti spedizioni con colli multipli",module,Magento_CatalogInventory
@@ -4559,10 +4558,10 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "There was an error detecting Customer Group.","Si è verificato un errore durante l'individuazione del gruppo cliente.",module,Magento_Customer
 "Validate VAT Number","Convalida partita IVA",module,Magento_Customer
 "Date of Birth","Data di nascita",module,Magento_Customer
-"Done","Done",module,Magento_Customer
-"Prev","Prev",module,Magento_Customer
-"Next","Next",module,Magento_Customer
-"Today","Today",module,Magento_Customer
+"Done","Fine",module,Magento_Customer
+"Prev","Prec",module,Magento_Customer
+"Next","Succ",module,Magento_Customer
+"Today","Oggi",module,Magento_Customer
 "Bad request.","Richiesta non valida.",module,Magento_Customer
 "This confirmation key is invalid or has expired.","Questa chiave di conferma non è valida oppure è scaduta.",module,Magento_Customer
 "There was an error confirming the account","Si è verificato un errore confermando l'account",module,Magento_Customer
@@ -13826,54 +13825,54 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "The bookmark with ""%1"" ID doesn't exist. Verify your information and try again.","The bookmark with ""%1"" ID doesn't exist. Verify your information and try again.",module,Magento_Ui
 "URL","URL",module,Magento_Ui
 "The """" UI component element name is invalid. Verify the name and try again.","The """" UI component element name is invalid. Verify the name and try again.",module,Magento_Ui
-"Select","Select",module,Magento_Ui
+"Select","Seleziona",module,Magento_Ui
 "Cancel","Annulla",module,Magento_Ui
 "Back","Indietro",module,Magento_Ui
 "Next","Successivo",module,Magento_Ui
-"Delete","Delete",module,Magento_Ui
+"Delete","Elimina",module,Magento_Ui
 "This element contains invalid data. Please resolve this before saving.","This element contains invalid data. Please resolve this before saving.",module,Magento_Ui
 "Use Default Value","Use Default Value",module,Magento_Ui
-"Upload","Upload",module,Magento_Ui
-"Select from Gallery","Select from Gallery",module,Magento_Ui
-"Maximum file size","Maximum file size",module,Magento_Ui
+"Upload","Carica",module,Magento_Ui
+"Select from Gallery","Seleziona dalla galleria",module,Magento_Ui
+"Maximum file size","Dimensione massima del file",module,Magento_Ui
 "Allowed file types","Allowed file types",module,Magento_Ui
 "Browse to find or drag image here","Browse to find or drag image here",module,Magento_Ui
-"Delete image","Delete image",module,Magento_Ui
+"Delete image","Elimina immagine",module,Magento_Ui
 "Click here or drag and drop to add files.","Click here or drag and drop to add files.",module,Magento_Ui
 "Changes have been made to this section that have not been saved.","Sono state apportate modifiche a questa sezione che non sono state salvate.",module,Magento_Ui
 "This tab contains invalid data. Please resolve this before saving.","Questa scheda contiene dati non validi. Risolvi il problema prima di salvare.",module,Magento_Ui
-"Actions","Actions",module,Magento_Ui
+"Actions","Azioni",module,Magento_Ui
 "Show more","Show more",module,Magento_Ui
-"Previous","Previous",module,Magento_Ui
+"Previous","Precedente",module,Magento_Ui
 "Close","Chiudi",module,Magento_Ui
 "Options","Opzioni",module,Magento_Ui
 "Assign","Assegna",module,Magento_Ui
 "Save View As...","Save View As...",module,Magento_Ui
-"Submit","Submit",module,Magento_Ui
-"Edit","Edit",module,Magento_Ui
-"Columns","Columns",module,Magento_Ui
+"Submit","Invia",module,Magento_Ui
+"Edit","Modifica",module,Magento_Ui
+"Columns","Colonne",module,Magento_Ui
 "Reset","Reset",module,Magento_Ui
-"Apply","Apply",module,Magento_Ui
+"Apply","Applica",module,Magento_Ui
 "All in Column","All in Column",module,Magento_Ui
 "Please make corrections to the errors in the table below and re-submit.","Please make corrections to the errors in the table below and re-submit.",module,Magento_Ui
-"Save Edits","Save Edits",module,Magento_Ui
-"Save","Save",module,Magento_Ui
+"Save Edits","Salva modifiche",module,Magento_Ui
+"Save","Salva",module,Magento_Ui
 "Record contains unsaved changes.","Record contains unsaved changes.",module,Magento_Ui
-"Export","Export",module,Magento_Ui
+"Export","Esporta",module,Magento_Ui
 "Active filters\\:","Active filters\\:",module,Magento_Ui
-"Remove","Remove",module,Magento_Ui
+"Remove","Rimuovi",module,Magento_Ui
 "Clear all","Clear all",module,Magento_Ui
 "Filters","Filtri",module,Magento_Ui
 "Advanced filter","Advanced filter",module,Magento_Ui
-"Apply Filters","Apply Filters",module,Magento_Ui
+"Apply Filters","Applica filtri",module,Magento_Ui
 "We couldn't find any records.","We couldn't find any records.",module,Magento_Ui
 "records found","record trovati",module,Magento_Ui
 "selected","selezionato",module,Magento_Ui
 "of","di",module,Magento_Ui
 "Custom","Custom",module,Magento_Ui
-"per page","per page",module,Magento_Ui
-"Search","Search",module,Magento_Ui
-"Sort by","Sort by",module,Magento_Ui
+"per page","per pagina",module,Magento_Ui
+"Search","Cerca",module,Magento_Ui
+"Sort by","Ordina per",module,Magento_Ui
 "To Start","To Start",module,Magento_Ui
 "To End","To End",module,Magento_Ui
 "Past","Past",module,Magento_Ui
@@ -13888,8 +13887,8 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "options","opzioni",module,Magento_Ui
 "Select...","Seleziona...",module,Magento_Ui
 "Selected","Selezionato",module,Magento_Ui
-"Entity with ID: %s doesn't exist","Entity with ID: %s doesn't exist",module,Magento_Ui
-"Open in new tab","Open in new tab",module,Magento_Ui
+"Entity with ID: %s doesn't exist","L'entità con ID: %s non esiste",module,Magento_Ui
+"Open in new tab","Apri in una nuova tab",module,Magento_Ui
 "Select All","Seleziona tutto",module,Magento_Ui
 "Deselect All","Deseleziona tutto",module,Magento_Ui
 "Select All on This Page","Seleziona tutto di questa pagina",module,Magento_Ui
